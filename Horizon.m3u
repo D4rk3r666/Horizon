@@ -1,0 +1,324 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record HD" tvg-logo="http://st1.horizonplay.io:8080/icon/680-b-1579976332930.png" group-title="Rede Record",Record HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19050
+#EXTINF:-1 tvg-id="Redetv.br" tvg-name="Rede TV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4420-b-1579659158370.png" group-title="Canais Abertos",Rede TV HD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4370-b-1579989472915.png" group-title="Canais Abertos",SBT HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19113
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4330-b-1579377755815.png" group-title="Canais Abertos",TV Cultura HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19049
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4545-b-1580151274633.png" group-title="Canais Abertos",Futura HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19003
+#EXTINF:-1 tvg-id="Bandeirantes.br" tvg-name="Band HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4310-b-1580152904143.png" group-title="Canais Abertos",Band HD
+http://lista.lorddark.club:8080/4166240063/0224790018/730
+#EXTINF:-1 tvg-id="GloboPortoAlegre.br" tvg-name="RBS TV HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5c/RBS_TV_logo_2008.png" group-title="Rede Globo",RBS TV HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19068
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4350-b-1579808641649.png" group-title="Canais Abertos",TV Gazeta HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19090
+#EXTINF:-1 tvg-id="+globosathd.br" tvg-name="Mais Globosat HD" tvg-logo="http://st1.horizonplay.io:8080/icon/122-b-1580148951264.png" group-title="Variedades",Mais Globosat HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19047
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3782-b-1579668484616.png" group-title="Variedades",Viva HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19122
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="http://www.sef.org.br/sef/images/gallery/eventos/20171124-gnt/gnt.png" group-title="Variedades",GNT HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19006
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TruTV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2920-b-1579375714328.png" group-title="Variedades",TruTV HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19363
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2934-b-1579838797731.png" group-title="Variedades",E! HD
+http://lista.lorddark.club:8080/4166240063/0224790018/18995
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2400-b-1579630347914.png" group-title="Filmes e Series",FOX Life HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19000
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3480-b-1579644123549.png" group-title="Musicas",MTV HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1017
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/170px-MTV_Live_HD_2017_logo.svg.png" group-title="Musicas",MTV Live HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19019
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3550-b-1579644260937.png" group-title="Musicas",Multishow HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1018
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3745-b-1580158818496.png" group-title="Musicas",VH1 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1055
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Musicas",BIS HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19093
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil HD" tvg-logo="https://2.bp.blogspot.com/--7VScCeeHlg/Whs8cTlKC7I/AAAAAAAABZw/NqU3QsyHHVQzjO1z8nwB8LtXiD_DwaitgCLcBGAs/s1600/musicbox.png" group-title="Musicas",Music Box Brasil HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19021
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3690-b-1579806876299.png" group-title="Variedades",TLC HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19036
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/107-b-1579994148212.png" group-title="Variedades",HGTV HD
+http://lista.lorddark.club:8080/4166240063/0224790018/978
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1160-b-1582993461792.png" group-title="Variedades",Discovery Home & Health HD
+http://lista.lorddark.club:8080/4166240063/0224790018/979
+#EXTINF:-1 tvg-id="" tvg-name="Casa e Cozinha HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/casa-cozinha/casaecozinha-white.png" group-title="Variedades",Casa e Cozinha HD
+http://team2.live:8000/marcelo/sHhDRwG4/138177
+#EXTINF:-1 tvg-id="FineLiving.eu" tvg-name="Fine Living Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fine_Living_-_Logo_2016.svg/1280px-Fine_Living_-_Logo_2016.svg.png" group-title="Variedades",Fine Living Network HD
+http://team2.live:8000/marcelo/sHhDRwG4/138176
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3380-b-1580150644595.png" group-title="Variedades",Food Network HD
+http://lista.lorddark.club:8080/4166240063/0224790018/993
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9823-b-1583166618731.png" group-title="Internacionais",24 Kitchen HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1493
+#EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Variedades",Travel Channel HD
+http://team2.live:8000/marcelo/sHhDRwG4/138181
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo HD" tvg-logo="https://canaismax.com/img/canais/8b3f422e90f1cbb5df8f9d55d7380d8e.png" group-title="Variedades",Woohoo HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1057
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="Variedades",OFF HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19027
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Variedades",Red Bull HD
+http://team2.live:8000/marcelo/sHhDRwG4/138185
+#EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros TV HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/toros-tv/toros-icon.png" group-title="Variedades",Toros TV HD
+http://team2.live:8000/marcelo/sHhDRwG4/104760
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3320-b-1579985481832.png" group-title="Esportes",Fish TV HD
+http://lista.lorddark.club:8080/4166240063/0224790018/992
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1670-b-1579910533798.png" group-title="Esportes",SporTV HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1038
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1690-b-1579911226184.png" group-title="Esportes",SporTV 2 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1036
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1840-b-1579911394961.png" group-title="Esportes",SporTV 3 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1037
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-4.png" group-title="Esportes",ESPN HD
+http://lista.lorddark.club:8080/4166240063/0224790018/989
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://3.bp.blogspot.com/-MG8PpAyafH8/W4rTLrZ2jNI/AAAAAAAACYA/QaagFxYJVr41E4e-M1x_o0a777ofNOwOwCLcBGAs/s1600/Espn%2B2.png" group-title="Esportes",ESPN 2 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/990
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="Esportes",ESPN Brasil HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19097
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4465-b-1579912929184.png" group-title="Esportes",ESPN Extra HD
+http://lista.lorddark.club:8080/4166240063/0224790018/18997
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BandSports HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4520-b-1579810516291.png" group-title="Esportes",BandSports HD
+http://lista.lorddark.club:8080/4166240063/0224790018/968
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="FOX Sports HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1890-b-1579914040938.png" group-title="Esportes",FOX Sports HD
+http://lista.lorddark.club:8080/4166240063/0224790018/997
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX Sports 2 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1940-b-1579914175016.png" group-title="Esportes",FOX Sports 2 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/998
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="Eleven Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes Internacionais",Eleven Sports 1 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138081
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="Eleven Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes Internacionais",Eleven Sports 2 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138083
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="Eleven Sports 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes Internacionais",Eleven Sports 3 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138085
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="Eleven Sports 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes Internacionais",Eleven Sports 4 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138087
+#EXTINF:-1 tvg-id="elevensports5.pt" tvg-name="Eleven Sports 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes Internacionais",Eleven Sports 5 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138089
+#EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes Internacionais",Eleven Sports 6 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138091
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport TV + HD" tvg-logo="" group-title="Esportes Internacionais",Sport TV + HD
+http://team2.live:8000/marcelo/sHhDRwG4/138063
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD" tvg-logo="" group-title="Esportes Internacionais",Sport TV 1 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1385
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD" tvg-logo="" group-title="Esportes Internacionais",Sport TV 2 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1388
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 HD" tvg-logo="" group-title="Esportes Internacionais",Sport TV 3 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1391
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD" tvg-logo="" group-title="Esportes Internacionais",Sport TV 4 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1394
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD" tvg-logo="" group-title="Esportes Internacionais",Sport TV 5 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1397
+#EXTINF:-1 tvg-id="NBA.pt" tvg-name="Sport TV NBA HD" tvg-logo="" group-title="Esportes Internacionais",Sport TV NBA HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1398
+#EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="Esportes Internacionais",Canal 11 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1399
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="" group-title="Esportes Internacionais",Eurosport 1 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1410
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://home.pilsfree.net/chudy/tvx/75.png" group-title="Esportes Internacionais",Eurosport 2 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138096
+#EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Premiere",Premiere Clubes HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19112
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Premiere",Premiere 2 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19106
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Premiere",Premiere 3 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1028
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Premiere",Premiere 4 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19108
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Premiere",Premiere 5 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19109
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Premiere",Premiere 6 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19110
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Premiere",Premiere 7 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19111
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2000-b-1579996034451.png" group-title="Esportes",Combate HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19094
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://4.bp.blogspot.com/-E1n2M2C8P-I/WiBWLr5M-HI/AAAAAAAABgk/oeN3sGxe5BoSQfeHtEmeG1v485dJ8uNzwCLcBGAs/s1600/boomerang.png" group-title="Infantil",Boomerang HD
+http://lista.lorddark.club:8080/4166240063/0224790018/970
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3930-b-1579811119612.png" group-title="Infantil",Cartoon Network HD
+http://lista.lorddark.club:8080/4166240063/0224790018/18984
+#EXTINF:-1 tvg-id="Discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1260-b-1582784080625.png" group-title="Infantil",Discovery Kids HD
+http://lista.lorddark.club:8080/4166240063/0224790018/980
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel HD" tvg-logo="https://1.bp.blogspot.com/-7Mr-nE8bbh4/WiBR11V8dLI/AAAAAAAABgE/iSaKIQ2PKGgATJ-ia2OSc7yuJxqBlJEgwCLcBGAs/s1600/disneychannel.png" group-title="Infantil",Disney Channel HD
+http://lista.lorddark.club:8080/4166240063/0224790018/985
+#EXTINF:-1 tvg-id="Disneyjrhd.br" tvg-name="Disney Jr HD" tvg-logo="https://c1.quickcachr.fotos.sapo.pt/i/Bc217919e/21214832_GZqIA.png" group-title="Infantil",Disney Jr HD
+http://lista.lorddark.club:8080/4166240063/0224790018/986
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="Gloob HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/gloob-logo.png" group-title="Infantil",Gloob HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1001
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4100-b-1579989206833.png" group-title="Infantil",Gloobinho HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19005
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4639-b-1579645497603.png" group-title="Infantil",NatGeo Kids HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1021
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="Nick HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4510-b-1579987559814.png" group-title="Infantil",Nick HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1022
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="Nick Jr HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4145-b-1579988238202.png" group-title="Infantil",Nick Jr HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1023
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA-TIM-BUM HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4160-b-1579378277248.png" group-title="Infantil",TV RA-TIM-BUM HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19040
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4430-b-1579810198681.png" group-title="Documentarios",Animal Planet HD
+http://lista.lorddark.club:8080/4166240063/0224790018/18977
+#EXTINF:-1 tvg-id="LoveNature.eu" tvg-name="Love Nature HD" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="Documentarios",Love Nature HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44913
+#EXTINF:-1 tvg-id="Natgeowildhd.br" tvg-name="NatGeo Wild HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/nat-geo-wild-logo.png" group-title="Documentarios",NatGeo Wild HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19024
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NatGeo HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4603-b-1579986736415.png" group-title="Documentarios",NatGeo HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1019
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://2.bp.blogspot.com/-jHasdqgcF7Y/Wh8TWTJ9oBI/AAAAAAAABcg/-wgqU7snsIo4oxWNqS6bvO2fdyOLVRLhgCLcBGAs/s1600/Discovery_Channel2.png" group-title="Documentarios",Discovery Channel HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19095
+#EXTINF:-1 tvg-id="DiscoveryScience.br" tvg-name="Discovery Science HD" tvg-logo="https://klub.t-2.net/files/ItemFiles/12021/637063003488321316_3624.png" group-title="Documentarios",Discovery Science HD
+http://lista.lorddark.club:8080/4166240063/0224790018/981
+#EXTINF:-1 tvg-id="Hdtheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1200-b-1579983177760.png" group-title="Documentarios",Discovery Theater HD
+http://lista.lorddark.club:8080/4166240063/0224790018/982
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1280-b-1582855418216.png" group-title="Documentarios",Discovery Turbo HD
+http://lista.lorddark.club:8080/4166240063/0224790018/18993
+#EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png" group-title="Documentarios",Discovery World HD
+http://lista.lorddark.club:8080/4166240063/0224790018/18994
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/54e483f5e4b0b2f20e6bceb2/1506453010727-3K82IMBN91KM2UKQW3TX/ke17ZwdGBToddI8pDm48kOM2qwkR-cf5qXtSAWeLGOhZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIZeXmzoGjKE4oMSj9e6HmNLnUcnI4hIKnTIbUto0uUoE/smithsonian-channel.png" group-title="Documentarios",Smithsonian Channel HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19054
+#EXTINF:-1 tvg-id="odisseia.pt" tvg-name="Odisseia HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6c/Odisseia.png" group-title="Documentarios",Odisseia HD
+http://team2.live:8000/marcelo/sHhDRwG4/138183
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="History HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4570-b-1579382708760.png" group-title="Documentarios",History HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1008
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4660-b-1579639727100.png" group-title="Documentarios",H2 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1009
+#EXTINF:-1 tvg-id="Blaze.it" tvg-name="Blaze HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/78/BlazeLogo-1-.svg/1200px-BlazeLogo-1-.svg.png" group-title="Documentarios",Blaze HD
+http://team2.live:8000/marcelo/sHhDRwG4/138166
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - Investigation Discovery HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4799-b-1579640791176.png" group-title="Documentarios",ID - Investigation Discovery HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1010
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4590-b-1582993773721.png" group-title="Variedades",Canal Brasil HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19048
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil HD" tvg-logo="https://1.bp.blogspot.com/-WcBiD3cSvZQ/Whs8eZfrsGI/AAAAAAAABZ0/29j73tjbgb8NbsNc7t_Yv6B62FReWEC0ACLcBGAs/s1600/primebox.png" group-title="Musicas",Prime Box Brasil HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19029
+#EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="http://st1.horizonplay.io:8080/icon/6000-b-1582993662224.png" group-title="Variedades",Curta! HD
+http://lista.lorddark.club:8080/4166240063/0224790018/18987
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="Arte 1 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3180-b-1582993967858.png" group-title="Variedades",Arte 1 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/18978
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9907-b-1579641267418.png" group-title="Variedades",Lifetime HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1011
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2141-b-1579809842000.png" group-title="Filmes e Series",A&E HD
+http://lista.lorddark.club:8080/4166240063/0224790018/963
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2161-b-1579809982919.png" group-title="Filmes e Series",AMC HD
+http://lista.lorddark.club:8080/4166240063/0224790018/964
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film&amp;Arts HD" tvg-logo="https://revistamomentos.co/wp-content/uploads/2017/06/Logo-Film-Arts.png" group-title="Filmes e Series",Film&amp;Arts HD
+http://lista.lorddark.club:8080/4166240063/0224790018/513
+#EXTINF:-1 tvg-id="EuroChannel.pt" tvg-name="Eurochannel HD" tvg-logo="" group-title="Filmes e Series",Eurochannel HD
+http://team2.live:8000/marcelo/sHhDRwG4/138128
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9812-b-1583337084222.png" group-title="Internacionais",Cinemundo HD
+http://team2.live:8000/marcelo/sHhDRwG4/138123
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2540-b-1579977902393.png" group-title="Filmes e Series",FX HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19004
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2380-b-1579913535139.png" group-title="Filmes e Series",FOX HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19099
+#EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9811-b-1583335601549.png" group-title="Internacionais",FOX Movies HD
+http://team2.live:8000/marcelo/sHhDRwG4/138125
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9817-b-1583335772368.png" group-title="Internacionais",FOX Crime HD
+http://team2.live:8000/marcelo/sHhDRwG4/138141
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX Comedy HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9819-b-1583335269248.png" group-title="Internacionais",FOX Comedy HD
+http://team2.live:8000/marcelo/sHhDRwG4/138139
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2420-b-1579634382533.png" group-title="Filmes e Series",FOX Premium 1 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19001
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX Premium 2 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2450-b-1579636464616.png" group-title="Filmes e Series",FOX Premium 2 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19002
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9813-b-1583341929617.png" group-title="Internacionais",Hollywood HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1423
+#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="NOS Studios HD" tvg-logo="http://st1.horizonplay.io:8080/icon/609-b-1583342189386.png" group-title="Internacionais",NOS Studios HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1420
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2220-b-1579915765732.png" group-title="Filmes e Series",AXN HD
+http://lista.lorddark.club:8080/4166240063/0224790018/966
+#EXTINF:-1 tvg-id="AXNBlack.pt" tvg-name="AXN Movies HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2225-b-1583336445874.png" group-title="Internacionais",AXN Movies HD
+http://team2.live:8000/marcelo/sHhDRwG4/138133
+#EXTINF:-1 tvg-id="AXNWhite.pt" tvg-name="AXN White HD" tvg-logo="http://st1.horizonplay.io:8080/icon/8000-b-1583336547653.png" group-title="Internacionais",AXN White HD
+http://team2.live:8000/marcelo/sHhDRwG4/138135
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="Canal Sony HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2240-b-1582767249005.png" group-title="Filmes e Series",Canal Sony HD
+http://lista.lorddark.club:8080/4166240063/0224790018/972
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="Megapix HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2581-b-1579978048620.png" group-title="Filmes e Series",Megapix HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19017
+#EXTINF:-1 tvg-id="Space.br" tvg-name="Space HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2660-b-1579978347895.png" group-title="Filmes e Series",Space HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19031
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3100-b-1579383455540.png" group-title="Filmes e Series",Universal TV HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19041
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3120-b-1579381491489.png" group-title="Filmes e Series",Warner HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19043
+#EXTINF:-1 tvg-id="Tnthd.br" tvg-name="TNT HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2860-b-1579980119545.png" group-title="Filmes e Series",TNT HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19037
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3040-b-1579807186181.png" group-title="Filmes e Series",TNT Series HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19038
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4900-b-1579651969595.png" group-title="Filmes e Series",Paramount HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19028
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2721-b-1579978478698.png" group-title="Filmes e Series",Studio Universal HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19032
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2740-b-1579978686526.png" group-title="Filmes e Series",SyFy HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19033
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2780-b-1579978869503.png" group-title="Filmes e Series",TBS HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19034
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2320-b-1579811690102.png" group-title="Filmes e Series",Comedy Central HD
+http://lista.lorddark.club:8080/4166240063/0224790018/976
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://st1.horizonplay.io:8080/icon/960-b-1579374398824.png" group-title="Rede Telecine",Telecine Premium HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19120
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://st1.horizonplay.io:8080/icon/955-b-1579906237705.png" group-title="Rede Telecine",Telecine Pipoca HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19119
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="http://st1.horizonplay.io:8080/icon/900-b-1579361664506.png" group-title="Rede Telecine",Telecine Action HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19117
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="http://st1.horizonplay.io:8080/icon/935-b-1579905971346.png" group-title="Rede Telecine",Telecine Fun HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19118
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://st1.horizonplay.io:8080/icon/980-b-1579374434294.png" group-title="Rede Telecine",Telecine Touch HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19121
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1120-b-1579663056650.png" group-title="Rede Telecine",Telecine Cult HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19035
+#EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TV Cine TOP HD" tvg-logo="http://st1.horizonplay.io:8080/icon/600-b-1583341531120.png" group-title="Internacionais",TV Cine TOP HD
+http://team2.live:8000/marcelo/sHhDRwG4/138113
+#EXTINF:-1 tvg-id="tvc2.pt" tvg-name="TVCine Edition  HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4870-b-1583341378679.png" group-title="Internacionais",TVCine Edition  HD
+http://team2.live:8000/marcelo/sHhDRwG4/138115
+#EXTINF:-1 tvg-id="tvc3.pt" tvg-name="TVCine Emotion HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4860-b-1583340993842.png" group-title="Internacionais",TVCine Emotion HD
+http://team2.live:8000/marcelo/sHhDRwG4/138117
+#EXTINF:-1 tvg-id="tvc4.pt" tvg-name="TVCine Action HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4850-b-1583340551219.png" group-title="Internacionais",TVCine Action HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1431
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2280-b-1579811316159.png" group-title="Filmes e Series",Cinemax HD
+http://lista.lorddark.club:8080/4166240063/0224790018/18985
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1470-b-1579903496787.png" group-title="Rede HBO",HBO HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19105
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="Hbo 2 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1487-b-1579904269572.png" group-title="Rede HBO",Hbo 2 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19104
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5014-b-1579901080777.png" group-title="Rede HBO",HBO Plus HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19009
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1621-b-1579904625815.png" group-title="Rede HBO",HBO Family HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19008
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://st1.horizonplay.io:8080/icon/5001-b-1579904982752.png" group-title="Rede HBO",HBO Signature HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19010
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2550-b-1582578479877.png" group-title="Rede HBO",HBO Mundi HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19014
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO Pop HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2555-b-1582771307876.png" group-title="Rede HBO",HBO Pop HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19016
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4550-b-1582771175072.png" group-title="Rede HBO",HBO Xtreme HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19015
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK World HD" tvg-logo="https://1.bp.blogspot.com/-9dL1wH2tQ2g/WhtB3XBUECI/AAAAAAAABao/VbSUSiMsiok7y5ndcw_QNHRvJWaM8_xvACLcBGAs/s1600/nhkworld.png" group-title="Variedades",NHK World HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44911
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND News HD" tvg-logo="https://4.bp.blogspot.com/-LGTMvsfdr10/WiAXSRHRiVI/AAAAAAAABec/CRS85l-hVWop_vSe-oOI9ppTPIayt7nYgCLcBGAs/s1600/bandnews.png" group-title="Noticias",BAND News HD
+http://lista.lorddark.club:8080/4166240063/0224790018/967
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News HD" tvg-logo="http://st1.horizonplay.io:8080/icon/280-b-1579638368293.png" group-title="Noticias",Globo News HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19102
+#EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="http://st1.horizonplay.io:8080/icon/719-b-1579977385466.png" group-title="Noticias",Record News HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19030
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Noticias",CNN Brasil HD
+http://lista.lorddark.club:8080/4166240063/0224790018/27004
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy HD" tvg-logo="https://3.bp.blogspot.com/-Ma_dyEl5TaY/W5godW2AD1I/AAAAAAAACdE/bep0paelEeogLmqvOG6LM49hj2mXYmRxQCLcBGAs/s1600/playboy.png" group-title="Adultos",Playboy HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19046
+#EXTINF:-1 tvg-id="Sexzone.br" tvg-name="Sextreme" tvg-logo="http://st1.horizonplay.io:8080/icon/5450-b-1582581141727.png" group-title="Adultos",Sextreme
+http://lista.lorddark.club:8080/4166240063/0224790018/19484
+#EXTINF:-1 tvg-id="Sexyhot.br" tvg-name="Sexy Hot" tvg-logo="http://st1.horizonplay.io:8080/icon/9805-b-1582580892025.png" group-title="Adultos",Sexy Hot
+http://lista.lorddark.club:8080/4166240063/0224790018/19485
+#EXTINF:-1 tvg-id="PenthouseGold.ero" tvg-name="Penthouse Gold HD" tvg-logo="https://pbs.twimg.com/media/Dv2Exi3VsAEfqkz.png" group-title="Adults",Penthouse Gold HD
+http://team2.live:8000/marcelo/sHhDRwG4/150409
+#EXTINF:-1 tvg-id="PenthouseQuickies.ero" tvg-name="Penthouse Quickies HD" tvg-logo="https://img15.lostpic.net/2019/10/20/e406cbfc21860a30219c7f57f9102e2e.png" group-title="Adults",Penthouse Quickies HD
+http://team2.live:8000/marcelo/sHhDRwG4/150369
+#EXTINF:-1 tvg-id="Brazzers.ero" tvg-name="Brazzers TV Europe HD" tvg-logo="" group-title="Adults",Brazzers TV Europe HD
+http://team2.live:8000/marcelo/sHhDRwG4/150357
+#EXTINF:-1 tvg-id="RedlightHD.ero" tvg-name="RedLight HD" tvg-logo="" group-title="Adults",RedLight HD
+http://team2.live:8000/marcelo/sHhDRwG4/150356
+#EXTINF:-1 tvg-id="PrivateTV.ero" tvg-name="Private HD" tvg-logo="" group-title="Adults",Private HD
+http://team2.live:8000/marcelo/sHhDRwG4/150354
+#EXTINF:-1 tvg-id="BlueHustler.ero" tvg-name="Blue Hustler HD" tvg-logo="" group-title="Adults",Blue Hustler HD
+http://team2.live:8000/marcelo/sHhDRwG4/150352
+#EXTINF:-1 tvg-id="venus.pt" tvg-name="Venus" tvg-logo="" group-title="Adults",Venus
+http://team2.live:8000/marcelo/sHhDRwG4/150347
+#EXTINF:-1 tvg-id="Hot.pt" tvg-name="Hot" tvg-logo="" group-title="Adults",Hot
+http://team2.live:8000/marcelo/sHhDRwG4/150404
