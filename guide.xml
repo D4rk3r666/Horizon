@@ -52,74 +52,18 @@
     <display-name lang="pt">Mais Globosat HD</display-name>
     <url>http://www.netcombo.com.br</url>
   </channel>
-  <channel id="Prime Box Brazil HD">
-    <display-name lang="pt">Prime Box Brazil HD</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Fight Network HD">
+    <display-name lang="pt">Fight Network HD</display-name>
+    <url>http://www.nos.pt</url>
   </channel>
-  <channel id="Music Box Brazil HD">
-    <display-name lang="pt">Music Box Brazil HD</display-name>
-    <url>http://www.netcombo.com.br</url>
+  <channel id="Music Box Brasil HD">
+    <display-name lang="pt">Music Box Brasil HD</display-name>
+    <url>http://www.hagah.com.br</url>
   </channel>
-  <programme start="20200623123700 -0300" stop="20200623130000 -0300" channel="HGTV HD">
-    <title lang="pt">Desafio da Renovação - Temp. 5 - Ep. 2</title>
-    <desc lang="pt">Reality Show. Os gêmeos decoradores Dani e Mo testam seus poderes heroicos contra a dupla dinâmica James e Delilah.(n)</desc>
-  </programme>
-  <programme start="20200623130000 -0300" stop="20200623132400 -0300" channel="HGTV HD">
-    <title lang="pt">Desafio da Renovação - Temp. 5 - Ep. 1</title>
-    <desc lang="pt">Negociadores que têm bom olho para peças estilosas, Jenn e Julissa enfrentam dois amigos que adoram beber juntos: Tom e Gina.(n)</desc>
-  </programme>
-  <programme start="20200623132400 -0300" stop="20200623134700 -0300" channel="HGTV HD">
-    <title lang="pt">A Sonhada Casa do Lago - Ep. 12</title>
-    <desc lang="pt">De Dean Melton. Um casal procura uma casa em frente a um lago no Condado de Aroostook, Maine, para reunir a família.(n)</desc>
-  </programme>
-  <programme start="20200623134700 -0300" stop="20200623140900 -0300" channel="HGTV HD">
-    <title lang="pt">A Sonhada Casa do Lago - Ep. 13</title>
-    <desc lang="pt">De Dean Melton. Um casal realiza o sonho de comprar uma casa à beira de um lago para receber amigos e familiares no Lago Cayuga, em Nova York.(n)</desc>
-  </programme>
-  <programme start="20200623140900 -0300" stop="20200623143100 -0300" channel="HGTV HD">
-    <title lang="pt">Piscinas Espetaculares - Temp. 3 - Ep. 8</title>
-    <desc lang="pt">De Brian Balthazar. Um casal de Franklin, Tennesee, contrata a equipe da Pool Kings para construir a piscina de seus sonhos em um quintal cheio de problemas.(n)</desc>
-  </programme>
-  <programme start="20200623143100 -0300" stop="20200623145400 -0300" channel="HGTV HD">
-    <title lang="pt">Piscinas Espetaculares - Temp. 3 - Ep. 9</title>
-    <desc lang="pt">De Brian Balthazar. Uma família de Nashville quer ser a sensação com uma piscina enorme, estilo resort.(n)</desc>
-  </programme>
-  <programme start="20200623145400 -0300" stop="20200623151700 -0300" channel="HGTV HD">
-    <title lang="pt">Reforma Relâmpago: Jardins - Temp. 11 - Ep. 6</title>
-    <desc lang="pt">Matt Blashaw transforma um quintal cheio de lama em um paraíso tropical com estilo praiano.(n)</desc>
-  </programme>
-  <programme start="20200623151700 -0300" stop="20200623154000 -0300" channel="HGTV HD">
-    <title lang="pt">Reforma Relâmpago: Jardins - Temp. 11 - Ep. 7</title>
-    <desc lang="pt">Um casal do Vale de Napa, na Califórnia, transforma seu quintal cheio de ervas daninhas em um refúgio toscano.(n)</desc>
-  </programme>
-  <programme start="20200623154000 -0300" stop="20200623160300 -0300" channel="HGTV HD">
-    <title lang="pt">Restaurando Fachadas - Temp. 25 - Ep. 2</title>
-    <desc lang="pt">De Min Lee. Um detetive batalhador ganha uma reforma de 20 mil dólares na fachada de sua casa - e dois de seus vizinhos também são beneficiados.(n)</desc>
-  </programme>
-  <programme start="20200623160300 -0300" stop="20200623162600 -0300" channel="HGTV HD">
-    <title lang="pt">Restaurando Fachadas - Temp. 25 - Ep. 3</title>
-    <desc lang="pt">De Min Lee. Uma fachada desgastada que mais parece a entrada de um restaurante fast food ganha uma reforma de inspiração mediterrânea.(n)</desc>
-  </programme>
-  <programme start="20200623162600 -0300" stop="20200623164900 -0300" channel="HGTV HD">
-    <title lang="pt">Reforma dos Sonhos - Ep. 10</title>
-    <desc lang="pt">De Shawn Visco. Os Primos transformam três quartos pequenos em uma bela e espaçosa suíte principal.(n)</desc>
-  </programme>
-  <programme start="20200623164900 -0300" stop="20200623171200 -0300" channel="HGTV HD">
-    <title lang="pt">Reforma dos Sonhos - Ep. 9</title>
-    <desc lang="pt">De Shawn Visco. Os Primos criam uma confortável sala de estar para um veterano.(n)</desc>
-  </programme>
-  <programme start="20200623171200 -0300" stop="20200623173500 -0300" channel="HGTV HD">
-    <title lang="pt">Reformas Incríveis - Temp. 2 - Ep. 12</title>
-    <desc lang="pt">De Courtney White. O empreiteiro e decorador Chip Wade projeta uma planta baixa de conceito aberto para uma cozinha gourmet e uma sala de jantar.(n)</desc>
-  </programme>
-  <programme start="20200623173500 -0300" stop="20200623175800 -0300" channel="HGTV HD">
-    <title lang="pt">Reformas Incríveis - Temp. 2 - Ep. 13</title>
-    <desc lang="pt">De Courtney White. O empreiteiro e decorador Chip Wade eleva a agricultura urbana a um novo patamar com a reforma deste quintal.(n)</desc>
-  </programme>
-  <programme start="20200623175800 -0300" stop="20200623181900 -0300" channel="HGTV HD">
-    <title lang="pt">Desafio da Renovação - Temp. 2 - Ep. 4</title>
-    <desc lang="pt">De Terri Murray. Caçadores de peças estilosas competem com melhores amigos no Bazar Elephant's Trunk em New Milford, Connecticut: diversão doméstica; assentos estilosos; um pouco de cor.(n)</desc>
-  </programme>
+  <channel id="Prime Box Brasil HD">
+    <display-name lang="pt">Prime Box Brasil HD</display-name>
+    <url>http://www.hagah.com.br</url>
+  </channel>
   <programme start="20200623181900 -0300" stop="20200623184000 -0300" channel="HGTV HD">
     <title lang="pt">A Sonhada Casa do Lago - Ep. 13</title>
     <desc lang="pt">De Dean Melton. Um casal realiza o sonho de comprar uma casa à beira de um lago para receber amigos e familiares no Lago Cayuga, em Nova York.(n)</desc>
@@ -1538,34 +1482,6 @@
     <title lang="pt">Menos é Demais - Ep. 2</title>
     <desc lang="pt">Comportamento. Com Chiara Gadaleta e Fê Cortez. Edna e a família exageram nas compras em viagens e promoções do dia a dia. Um cômodo inteiro ficou tomado por objetos novos e sem uso.(n)</desc>
   </programme>
-  <programme start="20200623120000 -0300" stop="20200623130000 -0300" channel="Smithsonian Channel HD">
-    <title lang="pt">Green Book: Guia Para Liberdade</title>
-    <desc lang="pt">De Linda Goldman. Nos anos de 1930, Victor Green, publicou um livro que era parte guia de turismo, parte guia de sobrevivência. Seu título era The negro motorist green book.(n)</desc>
-  </programme>
-  <programme start="20200623130000 -0300" stop="20200623140000 -0300" channel="Smithsonian Channel HD">
-    <title lang="pt">Covid: Lockdown em Shanghai</title>
-    <desc lang="pt">De Yu Kung. Este documentário memorável revela a realidade humana da vida durante o lockdown de Shanghai, na China.(n)</desc>
-  </programme>
-  <programme start="20200623140000 -0300" stop="20200623150000 -0300" channel="Smithsonian Channel HD">
-    <title lang="pt">Máquinas Poderosas - Temp. 3 - Ep. 6</title>
-    <desc lang="pt">De Karen Mccairley. Estas maravilhas da tecnologia marítima transportam cargas colossais, levam energia a vilarejos inteiros e proporcionam o melhor do entretenimento a milhares de passageiros.(n)</desc>
-  </programme>
-  <programme start="20200623150000 -0300" stop="20200623160000 -0300" channel="Smithsonian Channel HD">
-    <title lang="pt">Aéreas - Temp. 1 - Ep. 61</title>
-    <desc lang="pt">De Toby Beach. De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.(n)</desc>
-  </programme>
-  <programme start="20200623160000 -0300" stop="20200623170000 -0300" channel="Smithsonian Channel HD">
-    <title lang="pt">Guerreiros do Ar - Temp. 1 - Ep. 17</title>
-    <desc lang="pt">De Brian Armstrong. O OV-10 Bronco é o canivete suíço da aviação militar, mais rápido que um helicóptero.(n)</desc>
-  </programme>
-  <programme start="20200623170000 -0300" stop="20200623180000 -0300" channel="Smithsonian Channel HD">
-    <title lang="pt">Nature's Matchmaker</title>
-    <desc lang="pt">De Molly Hermann. A reprodução de espécies fica mais complicada quando elas estão ameaças de extinção.(n)</desc>
-  </programme>
-  <programme start="20200623180000 -0300" stop="20200623183000 -0300" channel="Smithsonian Channel HD">
-    <title lang="pt">Especial Arte 1 - Temp. 1 - Ep. 36</title>
-    <desc lang="pt">De Karina Ades. Artistas de várias áreas das artes falam sobre suas carreiras e obras. Eles relembram como começaram na profissão, suas referências e parcerias.(n)</desc>
-  </programme>
   <programme start="20200623183000 -0300" stop="20200623190000 -0300" channel="Smithsonian Channel HD">
     <title lang="pt">Especial Arte 1 - Temp. 1 - Ep. 37</title>
     <desc lang="pt">De Iano Coimbra. Artistas de várias áreas das artes falam sobre suas carreiras e obras. Eles relembram como começaram na profissão, suas referências e parcerias.(n)</desc>
@@ -2100,18 +2016,6 @@
     <title lang="pt">Aéreas - Temp. 1 - Ep. 74</title>
     <desc lang="pt">De Toby Beach. De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.(n)</desc>
   </programme>
-  <programme start="20200623110000 -0300" stop="20200623130000 -0300" channel="CNN Brasil HD">
-    <title lang="pt">Live CNN Brasil - Ao Vivo</title>
-    <desc lang="pt">Informativo. Política, economia, tendências, comportamento, o que está 'trendando' nas redes sociais. É o foco no conteúdo e na interação.(n)</desc>
-  </programme>
-  <programme start="20200623130000 -0300" stop="20200623153000 -0300" channel="CNN Brasil HD">
-    <title lang="pt">Visão CNN - Ao Vivo</title>
-    <desc lang="pt">Informativo. Um fato isolado não explica o contexto. A notícia completa não tem só um lado da história. É preciso ir além. É preciso ter análise.(n)</desc>
-  </programme>
-  <programme start="20200623153000 -0300" stop="20200623183000 -0300" channel="CNN Brasil HD">
-    <title lang="pt">CNN 360º - Ao Vivo</title>
-    <desc lang="pt">Informativo. Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real com Daniela Lima e Carol Nogueira.(n)</desc>
-  </programme>
   <programme start="20200623183000 -0300" stop="20200623213000 -0300" channel="CNN Brasil HD">
     <title lang="pt">Expresso CNN - Ao Vivo</title>
     <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
@@ -2363,86 +2267,6 @@
   <programme start="20200629230000 -0300" stop="20200630000000 -0300" channel="CNN Brasil HD">
     <title lang="pt">Realidade CNN</title>
     <desc lang="pt">Documentário. Um lugar que poucas pessoas têm trânsito livre e a informação é valiosa e secreta. Um país rico, com fácil acesso aos líderes do mundo inteiro.(n)</desc>
-  </programme>
-  <programme start="20200623124000 -0300" stop="20200623125000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Nina e os Guardiões - Ep. 19</title>
-    <desc lang="pt">De Carlos Vizeu. Nina e Fusquinha, o Guardião da Luz, vão visitar o Reino Branco e descobrem que o rei Leão Branco não tem mais súditos.(n)</desc>
-  </programme>
-  <programme start="20200623125000 -0300" stop="20200623130000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Nina e os Guardiões - Ep. 20</title>
-    <desc lang="pt">De Carlos Vizeu. Zezinho da Floresta pede ajuda à Nina para levar o Carnaval para os animais da floresta. Então, Nina e Amendoim, o Guardião da Terra, vão ajudá-lo.(n)</desc>
-  </programme>
-  <programme start="20200623130000 -0300" stop="20200623132500 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Opa Popa Dupa - Temp. 1 - Ep. 19</title>
-    <desc lang="pt">De Andrés Lizarazo. Em uma escavação, Nuvem desenterra uma âncora com um fio verde preso. A curiosidade a faz seguir esse fio pelo bosque para descobrir por que ele estava preso a essa âncora.(n)</desc>
-  </programme>
-  <programme start="20200623132500 -0300" stop="20200623133000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Opaventuras - Temp. 1 - Ep. 17</title>
-    <desc lang="pt">De Ailing Zubizarreta. Uma viagem à Amazônia nos espera, e descobriremos lugares cinco estrelas para visitar e animais de cores fabulosas e dentes muito afiados.(n)</desc>
-  </programme>
-  <programme start="20200623133000 -0300" stop="20200623134500 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Vamos, Luna! - Temp. 1 - Ep. 6</title>
-    <desc lang="pt">Em Moscou, o amor de Andy por viagens espaciais e planetas é enriquecido por uma viagem a um famoso museu espacial.(n)</desc>
-  </programme>
-  <programme start="20200623134500 -0300" stop="20200623140000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Vamos, Luna! - Temp. 1 - Ep. 7</title>
-    <desc lang="pt">Quando o Circo enfrenta uma tempestade em Moscou, as crianças e Luna procuram maneiras de se manterem aquecidas.(n)</desc>
-  </programme>
-  <programme start="20200623140000 -0300" stop="20200623153000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Cãestronautas</title>
-    <desc lang="pt">Esta é a história real de Belka e Strelka, dois cães que foram enviados ao espaço pela União Soviética em 1960.(n)</desc>
-  </programme>
-  <programme start="20200623153000 -0300" stop="20200623160000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Nat Geo Lab - Temp. 2 - Ep. 21</title>
-    <desc lang="pt">De Felipe Dothee. Nat Geo Lab é o programa no qual ciência e diversão se juntam para criar experiências emocionantes que vão fazer as crianças observarem, imaginarem e recriarem o seu entorno.(n)</desc>
-  </programme>
-  <programme start="20200623160000 -0300" stop="20200623162000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Heidi - Temp. 2 - Ep. 17</title>
-    <desc lang="pt">Animação. De Jérôme Mouscadet. Peter tem a desagradável surpresa de saber que o seu pai foi escolhido pelas autoridades para reparar o relógio do campanário da biblioteca.(n)</desc>
-  </programme>
-  <programme start="20200623162000 -0300" stop="20200623162500 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Os Fixies - Temp. 2 - Ep. 35</title>
-    <desc lang="pt">De Alexandra Averyanova. O pai de Tom Thomas o desafia a montar uma cadeira. Com isso, Tom Thomas descobre a importância de seguir as instruções.(n)</desc>
-  </programme>
-  <programme start="20200623162500 -0300" stop="20200623164000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Pablo - Temp. 2 - Ep. 7</title>
-    <desc lang="pt">Pablo ama a fumaça dos trens no Museu do Transporte. Porém, ele fica chateado quando eles ficam presos em um lugar qualquer.(n)</desc>
-  </programme>
-  <programme start="20200623164000 -0300" stop="20200623165000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Pablo - Temp. 2 - Ep. 17</title>
-    <desc lang="pt">Quando Lorna mostra Pablo o seu novo porquinho-da-índia, Tang quer segurar ele.(n)</desc>
-  </programme>
-  <programme start="20200623165000 -0300" stop="20200623170000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Furiki Wheels - Temp. 1 - Ep. 2</title>
-    <desc lang="pt">De Frédéric Martin. Andre imita a voz de Brenda para ajudar Chobado a superar o seu medo de altura. Porém, Chobado descobre o truque. Então, a amizade entre os dois fica abalada.(n)</desc>
-  </programme>
-  <programme start="20200623170000 -0300" stop="20200623171000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Furiki Wheels - Temp. 1 - Ep. 9</title>
-    <desc lang="pt">De Frédéric Martin. A ousada competição de Andre e Champion leva os dois amigos à armadilha de Gordon. Então, Andre deve usar a sua inteligência em vez da sua coragem para se livrar da situação.(n)</desc>
-  </programme>
-  <programme start="20200623171000 -0300" stop="20200623172000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">As Escolhas de Chuck - Temp. 1 - Ep. 12</title>
-    <desc lang="pt">De Jon Izen. Chuck está cansado de que Misha sempre o defenda, então um dia decide que é hora de lutar nas suas próprias batalhas.(n)</desc>
-  </programme>
-  <programme start="20200623172000 -0300" stop="20200623173000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">As Escolhas de Chuck - Temp. 1 - Ep. 10</title>
-    <desc lang="pt">Chuck se esquece de estudar para um exame importante em pânico, ele escolhe fazer as provas que possa passar facilmente.(n)</desc>
-  </programme>
-  <programme start="20200623173000 -0300" stop="20200623174500 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Diário de Pilar - Temp. 1 - Ep. 24</title>
-    <desc lang="pt">De Bruno Bask. Pilar decide viajar aos Andes para aprender a fazer ponchos. Em Cusco, eles encontram Yma preocupada porque as lhamas do seu tio que estão desaparecendo.(n)</desc>
-  </programme>
-  <programme start="20200623174500 -0300" stop="20200623180000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Diário de Pilar - Temp. 1 - Ep. 25</title>
-    <desc lang="pt">De Bruno Bask. Após uma tentativa frustrada de tocar flauta, Breno e Pilar viajam aos Andes para algumas aulas. Chegando lá, encontram a Yma hipnotizada por um som que vem da natureza.(n)</desc>
-  </programme>
-  <programme start="20200623180000 -0300" stop="20200623181500 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Buzzu na Escola Intergaláctica - Temp. 2 - Ep. 5</title>
-    <desc lang="pt">De Rafael Ribas Canargo. O Professor Vizeu produzirá um anuário com fotos dos alunos. Porém, Kaká está com o olho roxo.(n)</desc>
-  </programme>
-  <programme start="20200623181500 -0300" stop="20200623183000 -0300" channel="NatGeo Kids HD">
-    <title lang="pt">Buzzu na Escola Intergaláctica - Temp. 2 - Ep. 6</title>
-    <desc lang="pt">De Rafael Ribas Canargo. Buzzu e seus amigos testam uma máquina de hambúrgueres, e um acidente faz todos acreditarem que Buzzu virou um hambúrguer.(n)</desc>
   </programme>
   <programme start="20200623183000 -0300" stop="20200623184000 -0300" channel="NatGeo Kids HD">
     <title lang="pt">Buzzu na Escola Intergaláctica - Temp. 2 - Ep. 7</title>
@@ -5006,62 +4830,6 @@
     <title lang="pt">Reino Animal - Nat Geo Kids - Temp. 1 - Ep. 2</title>
     <desc lang="pt">De Mark Burnett. Confira quais são os animais mais engenhosos do reino animal. Neste episódio você conhecerá uma lula propulsionada por um jato, e um inseto que inventou o papel.(n)</desc>
   </programme>
-  <programme start="20200623122400 -0300" stop="20200623124800 -0300" channel="Discovery World HD">
-    <title lang="pt">Sabores da América - Temp. 1 - Ep. 1</title>
-    <desc lang="pt">Culinária. Todd visita Des Moines, no Iowa, onde come um sanduíche com fatias grossas de bacon e petiscos enrolados em bacon, e visita uma lanchonete que mistura filmes de horror com bacon.(n)</desc>
-  </programme>
-  <programme start="20200623124800 -0300" stop="20200623131200 -0300" channel="Discovery World HD">
-    <title lang="pt">Sabores da América - Temp. 1 - Ep. 2</title>
-    <desc lang="pt">Culinária. Em Seattle, Todd vai até um caminhão frigorífico de carne suína e visita uma verdadeira instituição de hambúrgueres, que constrói uma torre de bacon todo dia.(n)</desc>
-  </programme>
-  <programme start="20200623131200 -0300" stop="20200623133600 -0300" channel="Discovery World HD">
-    <title lang="pt">Loucas por Ilhas - Temp. 1 - Ep. 1</title>
-    <desc lang="pt">Documentário. As irmãs Michelle e Suzanne Rousseau viajam para a pequena ilha de Curaçao, na América do Sul.(n)</desc>
-  </programme>
-  <programme start="20200623133600 -0300" stop="20200623140000 -0300" channel="Discovery World HD">
-    <title lang="pt">Loucas por Ilhas - Temp. 1 - Ep. 2</title>
-    <desc lang="pt">Documentário. As irmãs Michelle e Suzanne Rousseau visitam Dominica para descobrir o segredo da longevidade dos habitantes da ilha caribenha.(n)</desc>
-  </programme>
-  <programme start="20200623140000 -0300" stop="20200623142400 -0300" channel="Discovery World HD">
-    <title lang="pt">Casas de Férias Incríveis - Ep. 1</title>
-    <desc lang="pt">Conheça algumas das casas de férias mais incríveis do mundo, incluindo um castelo em Miami com seu próprio fosso, um oásis no Caribe digno de um vilão de James Bond.(n)</desc>
-  </programme>
-  <programme start="20200623142400 -0300" stop="20200623144800 -0300" channel="Discovery World HD">
-    <title lang="pt">Casas de Férias Incríveis - Ep. 2</title>
-    <desc lang="pt">Conheça algumas das casas de férias mais fascinantes do mundo, incluindo uma casa de 50 milhões de dólares na Toscana, um castelo caribenho.(n)</desc>
-  </programme>
-  <programme start="20200623144800 -0300" stop="20200623151200 -0300" channel="Discovery World HD">
-    <title lang="pt">Casas de Férias Incríveis - Ep. 3</title>
-    <desc lang="pt">Conheça algumas das casas de férias mais espetaculares do mundo, incluindo uma vila medieval na Toscana, um refúgio moderno nos Hamptons, uma ilha particular em Florida Keys.(n)</desc>
-  </programme>
-  <programme start="20200623151200 -0300" stop="20200623153600 -0300" channel="Discovery World HD">
-    <title lang="pt">Casas de Férias Incríveis - Ep. 4</title>
-    <desc lang="pt">Descubra algumas das casas de férias mais espetaculares do mundo, incluindo uma vila nas montanhas da Tailândia, uma mansão com quartos secretos em Laguna Beach.(n)</desc>
-  </programme>
-  <programme start="20200623153600 -0300" stop="20200623162400 -0300" channel="Discovery World HD">
-    <title lang="pt">1000 Lugares para Conhecer Antes de Morrer - Ep. 4</title>
-    <desc lang="pt">Viagem. Os Ulles visitam a África do Sul e suas impressionantes reservas de vida selvagem e belas cidades.(n)</desc>
-  </programme>
-  <programme start="20200623162400 -0300" stop="20200623164800 -0300" channel="Discovery World HD">
-    <title lang="pt">Vende-se Pântano - Temp. 2 - Ep. 13</title>
-    <desc lang="pt">Comportamento. Mac, Kelsey e sua filha de 5 meses procuram uma casa no rio Bogue Chitto. Eles estão dispostos a vasculhar os estados de Mississippi e Louisiana até achar o ponto perfeito para entrar no rio de boia.(n)</desc>
-  </programme>
-  <programme start="20200623164800 -0300" stop="20200623171200 -0300" channel="Discovery World HD">
-    <title lang="pt">Vende-se Pântano - Temp. 2 - Ep. 14</title>
-    <desc lang="pt">Comportamento. Alligator Point, na Flórida, é uma cidade tão pantanosa e selvagem que ficou conhecida como "costa esquecida". A região parece um pântano, e por isso Richard e Julia querem uma casa aqui.(n)</desc>
-  </programme>
-  <programme start="20200623171200 -0300" stop="20200623173600 -0300" channel="Discovery World HD">
-    <title lang="pt">O Poder dos Alimentos - Temp. 1 - Ep. 12</title>
-    <desc lang="pt">Documentário. Para combater a alta taxa de obesidade, o prefeito de Oklahoma, Mick Cornett lançou a campanha "Esta Cidade Vai Fazer Dieta".(n)</desc>
-  </programme>
-  <programme start="20200623173600 -0300" stop="20200623180000 -0300" channel="Discovery World HD">
-    <title lang="pt">O Poder dos Alimentos - Temp. 1 - Ep. 13</title>
-    <desc lang="pt">Documentário. Este episódio investiga como duas dietas radicais podem desacelerar o processo de envelhecimento.(n)</desc>
-  </programme>
-  <programme start="20200623180000 -0300" stop="20200623182400 -0300" channel="Discovery World HD">
-    <title lang="pt">Montanhas-Russas Extremas - Temp. 1 - Ep. 5</title>
-    <desc lang="pt">De Todd Boudreaux. Conheça as montanhas-russas mais altas e emocionantes dos EUA. Qual delas vencerá a disputa?(n)</desc>
-  </programme>
   <programme start="20200623182400 -0300" stop="20200623184800 -0300" channel="Discovery World HD">
     <title lang="pt">Montanhas-Russas Extremas - Temp. 1 - Ep. 6</title>
     <desc lang="pt">De Todd Boudreaux. Estas montanhas-russas atingem velocidades alucinantes. Qual delas chegará na frente da concorrência?(n)</desc>
@@ -6266,46 +6034,6 @@
     <title lang="pt">Locomotivas Clássicas: De Volta aos Trilhos</title>
     <desc lang="pt">Documentário. Embarque e veja como os vagões particulares mais incríveis da história o levam a uma viagem no tempo. É um passeio incrível dos melhores veículos que percorreram os trilhos.(n)</desc>
   </programme>
-  <programme start="20200623122000 -0300" stop="20200623131000 -0300" channel="Love Nature HD">
-    <title lang="pt">A Incrível Madagascar</title>
-    <desc lang="pt">Viagem. Este filme viaja pela ilha visitando algumas de suas paisagens mais impressionantes para explorar como as espécies de Madagascar evoluíram ao longo do tempo.(n)</desc>
-  </programme>
-  <programme start="20200623131000 -0300" stop="20200623140000 -0300" channel="Love Nature HD">
-    <title lang="pt">A Vida Secreta Do Vombate</title>
-    <desc lang="pt">Diversos. Com Virge Gilchrist. Nas terras altas, próximas às Montanhas Nevadas da Austrália, encontra-se o Wombat Wood. Lá, pontilhada entre as árvores e a densa folhagem, existem mais de cem tocas de vombate.(n)</desc>
-  </programme>
-  <programme start="20200623140000 -0300" stop="20200623145000 -0300" channel="Love Nature HD">
-    <title lang="pt">Contos de Zâmbia</title>
-    <desc lang="pt">Com David Vickery. No Vale Luangwa, na Zâmbia, alguns dos maiores animais da Terra vivem lado a lado. Descubra como cada um desses gigantes usa estratégias engenhosas e incríveis adaptações.(n)</desc>
-  </programme>
-  <programme start="20200623145000 -0300" stop="20200623154000 -0300" channel="Love Nature HD">
-    <title lang="pt">Rockies, As Montanhas Selvagens</title>
-    <desc lang="pt">Esta série te aproxima dos animais que fizeram das icônicas Montanhas Rochosas sua casa.(n)</desc>
-  </programme>
-  <programme start="20200623154000 -0300" stop="20200623163000 -0300" channel="Love Nature HD">
-    <title lang="pt">A Grande Seca</title>
-    <desc lang="pt">Viagem. Muitas espécies chamam o lar de Luangwa Valley, na Zâmbia, mas tem uma das estações secas mais difíceis que se possa imaginar - sem chuva por sete meses e temperaturas extremas.(n)</desc>
-  </programme>
-  <programme start="20200623163000 -0300" stop="20200623172000 -0300" channel="Love Nature HD">
-    <title lang="pt">Vale Indomável</title>
-    <desc lang="pt">Isolada e abrigada, longe da agitação do rio Luangwa, na Zâmbia, a lagoa Kasikizi abriga uma pequena comunidade de vida selvagem diversificada.(n)</desc>
-  </programme>
-  <programme start="20200623172000 -0300" stop="20200623181000 -0300" channel="Love Nature HD">
-    <title lang="pt">Segredos do Ártico</title>
-    <desc lang="pt">Na costa nordeste da Ilha de Baffin, no Ártico do Canadá, fica Ninginganiq, uma área selvagem para as mais destemidas viagens.(n)</desc>
-  </programme>
-  <programme start="20200623181000 -0300" stop="20200623181400 -0300" channel="Love Nature HD">
-    <title lang="pt">Gui &amp; Estopa</title>
-    <desc lang="pt">Animação. Gui &amp; Estopa descobrem as maravilhas e curiosidades dos animais brasileiros e dos animais do fundo do mar.(n)</desc>
-  </programme>
-  <programme start="20200623181400 -0300" stop="20200623181700 -0300" channel="Love Nature HD">
-    <title lang="pt">Caninópolis</title>
-    <desc lang="pt">Musical. Bateria, piano, baixo, violino e violão. Essa é a formação da banda de Otto e seus amigos. Eles resolveram fazer um show pros animais e foi um tremendo sucesso.(n)</desc>
-  </programme>
-  <programme start="20200623181700 -0300" stop="20200623181900 -0300" channel="Love Nature HD">
-    <title lang="pt">Lubinho, O Lobo Marinho</title>
-    <desc lang="pt">Desenho. A série conta a história de um filhote de lobo marinho que se perde da mãe na correnteza, durante uma viagem das águas gélidas do sul antártico, rumo ao norte temperado.(n)</desc>
-  </programme>
   <programme start="20200623181900 -0300" stop="20200623184500 -0300" channel="Love Nature HD">
     <title lang="pt">Na Trilha da Energia</title>
     <desc lang="pt">Ecologia. O segundo episódio da 2ª temporada embarca nas fontes complementares de geração de energia. Visitamos um aterro sanitário que gera energia elétrica usando lixo como combustível.(n)</desc>
@@ -7185,178 +6913,6 @@
   <programme start="20200629234000 -0300" stop="20200630003000 -0300" channel="Love Nature HD">
     <title lang="pt">Vale Indomável</title>
     <desc lang="pt">Isolada e abrigada, longe da agitação do rio Luangwa, na Zâmbia, a lagoa Kasikizi abriga uma pequena comunidade de vida selvagem diversificada.(n)</desc>
-  </programme>
-  <programme start="20200623124000 -0300" stop="20200623124500 -0300" channel="Gloobinho HD">
-    <title lang="pt">As Aventuras de Bob Zoom - Ep. 13</title>
-    <desc lang="pt">De Oswaldo Braz. Bob Zoom fica chateado pois quer sair para mais uma aventura, mas seus amigos estão animados mexendo em um celular encontrado no quintal.(n)</desc>
-  </programme>
-  <programme start="20200623124500 -0300" stop="20200623130000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Go Jetters - Temp. 1 - Ep. 22</title>
-    <desc lang="pt">A escavação do Grande Mestre Glitch causa uma inundação na Mina de Sal de Wieliczka.(n)</desc>
-  </programme>
-  <programme start="20200623130000 -0300" stop="20200623132500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Vera e o Reino do Arco-íris - Temp. 1 - Ep. 1</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623132500 -0300" stop="20200623133000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Clube da Anittinha - Temp. 2 - Ep. 25</title>
-    <desc lang="pt">De Michele Massagli. Anittinha e Renuvem estão brincando de adivinhar e Anittinha não erra uma.(n)</desc>
-  </programme>
-  <programme start="20200623133000 -0300" stop="20200623133700 -0300" channel="Gloobinho HD">
-    <title lang="pt">Pingu na Cidade - Ep. 11</title>
-    <desc lang="pt">De Naomi Iwata. Pingu decide construir um iglu e quando não consegue encontrar blocos de gelo grandes o suficiente, Robby se oferece para ajudar.(n)</desc>
-  </programme>
-  <programme start="20200623133700 -0300" stop="20200623134500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Pingu na Cidade - Ep. 10</title>
-    <desc lang="pt">De Naomi Iwata. Enquanto Pingu está ajudando na floricultura, o chef e o bombeiro iniciam um concurso sobre quem pede o maior buquê para impressionar a garota na loja.(n)</desc>
-  </programme>
-  <programme start="20200623134500 -0300" stop="20200623135200 -0300" channel="Gloobinho HD">
-    <title lang="pt">T'choupi na Escola - Temp. 1 - Ep. 8</title>
-    <desc lang="pt">De Lionel Kerjean. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623135200 -0300" stop="20200623140000 -0300" channel="Gloobinho HD">
-    <title lang="pt">T'choupi na Escola - Temp. 1 - Ep. 9</title>
-    <desc lang="pt">De Lionel Kerjean. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623140000 -0300" stop="20200623141000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Escola de Fadas da Abby - Temp. 1 - Ep. 26</title>
-    <desc lang="pt">De Jan Carlee. É o feriado dos Trolls que acontece uma vez por ano, quando eles saem das suas casas para dançar. As fadas ajudam Blogg a procurar a casa do seu avô na Floresta Encantada.(n)</desc>
-  </programme>
-  <programme start="20200623141000 -0300" stop="20200623141500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Pequenas Aventureiras - Temp. 1 - Ep. 18</title>
-    <desc lang="pt">De Jan Carlee. Um muppet astronauta joga 'pouso na lua'. Ele acha que há um monstro em sua tenda e Abby e Cartola vão ajudá-lo.(n)</desc>
-  </programme>
-  <programme start="20200623141500 -0300" stop="20200623142000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Mya Go - Temp. 1 - Ep. 13</title>
-    <desc lang="pt">É dia de esportes na escola! Mya Go e as amigas estão prontas para correr.(n)</desc>
-  </programme>
-  <programme start="20200623142000 -0300" stop="20200623142500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Mya Go - Temp. 1 - Ep. 14</title>
-    <desc lang="pt">A Família Go está se preparando para a discoteca da escola. Todos estão se divertindo, menos o tímido Sammy Go.(n)</desc>
-  </programme>
-  <programme start="20200623142500 -0300" stop="20200623143000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Mya Go - Temp. 1 - Ep. 15</title>
-    <desc lang="pt">Papai Go construiu uma tenda para Mya e Sammy dormirem. Mas o caçula está com medo das sombras que refletem no tecido.(n)</desc>
-  </programme>
-  <programme start="20200623143000 -0300" stop="20200623143500 -0300" channel="Gloobinho HD">
-    <title lang="pt">As Aventuras de Miffy - Temp. 1 - Ep. 20</title>
-    <desc lang="pt">De Adam Shaw. Uma confusão de mochilas escolares faz Miffy passar a noite com o brinquedo de Dan ao invés do seu amado ursinho de pelúcia. Será que ela consegue amara algo tão diferente?(n)</desc>
-  </programme>
-  <programme start="20200623143500 -0300" stop="20200623144500 -0300" channel="Gloobinho HD">
-    <title lang="pt">As Aventuras de Miffy - Temp. 1 - Ep. 18</title>
-    <desc lang="pt">De Adam Shaw. Boris caiu de uma árvore e quebrou o braço. Miffy não tem certeza se quer vê-lo no hospital mas quando um médico precisa de ajuda, a doutora Miffy encara o desafio!(n)</desc>
-  </programme>
-  <programme start="20200623144500 -0300" stop="20200623150000 -0300" channel="Gloobinho HD">
-    <title lang="pt">O Mundo de Nina - Temp. 1 - Ep. 37</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623150000 -0300" stop="20200623150500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Lucas &amp; Emily - Temp. 1 - Ep. 9</title>
-    <desc lang="pt">De Marc Boréal. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623150500 -0300" stop="20200623152000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Lucas &amp; Emily - Temp. 1 - Ep. 10</title>
-    <desc lang="pt">De Marc Boréal. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623152000 -0300" stop="20200623152500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Pikkuli - Ep. 7</title>
-    <desc lang="pt">De Aktti Aittokoski. Pikkuli acorda antes de todo mundo e não para quieto. Ele quer bater asa e assobiar! Na floresta, ele encontra Pica-pau e eles tocam juntos.(n)</desc>
-  </programme>
-  <programme start="20200623152500 -0300" stop="20200623153000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Misho &amp; Robin - Temp. 1 - Ep. 12</title>
-    <desc lang="pt">De Denis Alenti. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623153000 -0300" stop="20200623153500 -0300" channel="Gloobinho HD">
-    <title lang="pt">George &amp; Paul - Temp. 1 - Ep. 22</title>
-    <desc lang="pt">Quem constrói a torre mais alta? George ou Paul?(n)</desc>
-  </programme>
-  <programme start="20200623153500 -0300" stop="20200623154000 -0300" channel="Gloobinho HD">
-    <title lang="pt">George &amp; Paul - Temp. 1 - Ep. 20</title>
-    <desc lang="pt">George e Paul passam um dia na praia. Eles conhecem um assustador Bloco-pássaro, mas ele realmente é assustador?(n)</desc>
-  </programme>
-  <programme start="20200623154000 -0300" stop="20200623154500 -0300" channel="Gloobinho HD">
-    <title lang="pt">As Aventuras de Bob Zoom - Ep. 14</title>
-    <desc lang="pt">De Oswaldo Braz. Bob Zoom está com a visita de seus dois primos pequenos que querem participar do seu Clube de Aventuras. Será uma aventura bem diferente e Bob Zoom perceberá que não será fácil assim.(n)</desc>
-  </programme>
-  <programme start="20200623154500 -0300" stop="20200623155200 -0300" channel="Gloobinho HD">
-    <title lang="pt">Tutu - Ep. 15</title>
-    <desc lang="pt">De Julio Casal. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623155200 -0300" stop="20200623160000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Tutu - Ep. 17</title>
-    <desc lang="pt">De Julio Casal. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623160000 -0300" stop="20200623160500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Baby Riki - Temp. 1 - Ep. 29</title>
-    <desc lang="pt">De Popov Ilya. Pandy tem um novo brinquedo, um bambolê. Ela gira o bambolê e acha isso tão fascinante que Krashy também quer tentar! Mas em um movimento desajeitado o bambolê se tornam oval!(n)</desc>
-  </programme>
-  <programme start="20200623160500 -0300" stop="20200623161000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Baby Riki - Ep. 30</title>
-    <desc lang="pt">De Popov Ilya. Krashy, ChiChi e Wally estão brincando de pirata. Eles estão procurando tesouro e encontram pedaços de joias de vidro! Azul, laranja e claro!(n)</desc>
-  </programme>
-  <programme start="20200623161000 -0300" stop="20200623161200 -0300" channel="Gloobinho HD">
-    <title lang="pt">Sunny Bunnies - Ep. 19</title>
-    <desc lang="pt">De Andrew Ledenev. Os Sunny Bunnies estão muito indecisos sobre o que fazer primeiro: andar de patins ou tomar sorvete? No final, nenhum dos dois, um passeio mistura todos os os seus planos.(n)</desc>
-  </programme>
-  <programme start="20200623161200 -0300" stop="20200623161500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Dusty &amp; Mop - Ep. 13</title>
-    <desc lang="pt">De Björn Magsig. Uma grande sacola cheia de frutas é um playground fantástico para Mop e Dusty. Mas logo, o corajoso Dusty tem que se afirmar contra um grande dragão cuspidor de fogo!(n)</desc>
-  </programme>
-  <programme start="20200623161500 -0300" stop="20200623163000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Trulli Tales - Temp. 1 - Ep. 20</title>
-    <desc lang="pt">Infantil. Durante a receita, Stella se recusa a usar pedaços de pão velho e os joga fora. Copperpot, então, aproveita os pedaços jogados fora em seu plano para pegar o Livro Mágico de Receitas.(n)</desc>
-  </programme>
-  <programme start="20200623163000 -0300" stop="20200623164500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Pirata e Capitano - Temp. 1 - Ep. 4</title>
-    <desc lang="pt">De François Narboux. Capitano tem muitos pacotes para entregar. Pirata oferece ajuda, e aposta com Capitano que chega antes dele.(n)</desc>
-  </programme>
-  <programme start="20200623164500 -0300" stop="20200623165200 -0300" channel="Gloobinho HD">
-    <title lang="pt">Yoyo - Temp. 1 - Ep. 21</title>
-    <desc lang="pt">De Stefania Gallo. Os gêmeos se encontram em um mundo onde não podem entrar em uma festa porque eles não estão vestindo a roupa certa.(n)</desc>
-  </programme>
-  <programme start="20200623165200 -0300" stop="20200623170000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Yoyo - Temp. 1 - Ep. 22</title>
-    <desc lang="pt">De Stefania Gallo. Os gêmeos conhecem uma lagartixa que não gosta do lugar onde ela vive.(n)</desc>
-  </programme>
-  <programme start="20200623170000 -0300" stop="20200623171500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Senninha Na Pista Maluca - Temp. 2 - Ep. 2</title>
-    <desc lang="pt">De Chico Bela. Senninha e seus amigos vão para o espaço à procura de uma suposta sonda espacial que Neco estava inventando, e que foi quebrada pelo Senninha.(n)</desc>
-  </programme>
-  <programme start="20200623171500 -0300" stop="20200623173000 -0300" channel="Gloobinho HD">
-    <title lang="pt">SOS Fada Manu - Temp. 4 - Ep. 6</title>
-    <desc lang="pt">De Jean Mary de Moura. Após acharem o Espelho Mágico, os anões descobrem que um deles é diferente. E agora? Manu quer ajudar os anõezinhos, mas o irmão diferente parece não ficar muito feliz.(n)</desc>
-  </programme>
-  <programme start="20200623173000 -0300" stop="20200623174500 -0300" channel="Gloobinho HD">
-    <title lang="pt">O Mundo de Nina - Temp. 1 - Ep. 38</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623174500 -0300" stop="20200623180000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Elias - Aventuras A Bordo - Ep. 11</title>
-    <desc lang="pt">Baía Dourada está tendo uma festa de fantasia. Mas Cruzeirinho que está vestido de pirata decide ir para alto mar, e fica à deriva.(n)</desc>
-  </programme>
-  <programme start="20200623180000 -0300" stop="20200623180700 -0300" channel="Gloobinho HD">
-    <title lang="pt">T'choupi na Escola - Temp. 1 - Ep. 10</title>
-    <desc lang="pt">De Lionel Kerjean. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623180700 -0300" stop="20200623181500 -0300" channel="Gloobinho HD">
-    <title lang="pt">T'choupi na Escola - Temp. 1 - Ep. 11</title>
-    <desc lang="pt">De Lionel Kerjean. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623181500 -0300" stop="20200623182200 -0300" channel="Gloobinho HD">
-    <title lang="pt">Lily e a Ilha Das Descobertas - Temp. 1 - Ep. 21</title>
-    <desc lang="pt">De Colin Williams. Lily apresenta um plano inteligente para ajudar Capitão Salty a empinar pipa com facilidade.(n)</desc>
-  </programme>
-  <programme start="20200623182200 -0300" stop="20200623182500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Sunny Bunnies - Ep. 20</title>
-    <desc lang="pt">De Andrew Ledenev. Durante uma visita ao museu, Sunny Bunnies começam a criar suas obras de arte. Talvez um pincel maravilhoso possa torná-los grandes artistas.(n)</desc>
-  </programme>
-  <programme start="20200623182500 -0300" stop="20200623183000 -0300" channel="Gloobinho HD">
-    <title lang="pt">Clube da Anittinha - Temp. 2 - Ep. 11</title>
-    <desc lang="pt">Após competirem quem monta uma réplica da Poderosa mais parecida, os amigos descobrem que sumiram peças da Poderosa de verdade.(n)</desc>
-  </programme>
-  <programme start="20200623183000 -0300" stop="20200623183500 -0300" channel="Gloobinho HD">
-    <title lang="pt">Mya Go - Temp. 1 - Ep. 16</title>
-    <desc lang="pt">A Família Go organiza um piquenique para o Dia das Mães. Mas papai tem alguns trabalhos para fazer antes de ir ao parque.(n)</desc>
   </programme>
   <programme start="20200623183500 -0300" stop="20200623184000 -0300" channel="Gloobinho HD">
     <title lang="pt">Mya Go - Temp. 1 - Ep. 17</title>
@@ -11190,42 +10746,6 @@
     <title lang="pt">Elias - Aventuras A Bordo - Ep. 13</title>
     <desc lang="pt">Vagãozinho decide passar um dia na Baía do Aconchego. Mas quando ele se afasta a bordo de Thomas. Seu desaparecimento cria uma enorme missão de resgate.(n)</desc>
   </programme>
-  <programme start="20200623123000 -0300" stop="20200623125500 -0300" channel="Curta! HD">
-    <title lang="pt">Projeções</title>
-    <desc lang="pt">De Renata Druck. Descobertas, fracassos e criação de dispositivos fílmicos em "Pacific" e "Câmara Escura".(n)</desc>
-  </programme>
-  <programme start="20200623125500 -0300" stop="20200623130000 -0300" channel="Curta! HD">
-    <title lang="pt">Curta! Cinema</title>
-    <desc lang="pt">A pesquisadora Patrícia Machado fala sobre a obra da cineasta Agnès Varda, que iniciou sua carreira durante a Novelle Vague e desde então tem se destacado no cenário audiovisual.(n)</desc>
-  </programme>
-  <programme start="20200623130000 -0300" stop="20200623133000 -0300" channel="Curta! HD">
-    <title lang="pt">Beyond Ipanema</title>
-    <desc lang="pt">Documentário. O radialista Max de Tomassi apresenta a cena musical italiana e fala do programa Brasil - Culturas do Mundo. A cantora Rosalia de Souza e o dueto Montefiori Cocktail comentam suas referências sonoras.(n)</desc>
-  </programme>
-  <programme start="20200623133000 -0300" stop="20200623140000 -0300" channel="Curta! HD">
-    <title lang="pt">Imortais da Academia</title>
-    <desc lang="pt">De Belisario Franca. Entre versos e polêmicas, o episódio relembra acadêmicos que passaram pela cadeira 37 da Academia Brasileira de Letras.(n)</desc>
-  </programme>
-  <programme start="20200623140000 -0300" stop="20200623143000 -0300" channel="Curta! HD">
-    <title lang="pt">Visceral Brasil</title>
-    <desc lang="pt">De Marcia Paraiso. Embolador, coquista, compositor. Com mais de 300 músicas, lançou seu primeiro disco em 2015, aos 82 anos.(n)</desc>
-  </programme>
-  <programme start="20200623143000 -0300" stop="20200623150000 -0300" channel="Curta! HD">
-    <title lang="pt">Cale-Se - A Censura Musical</title>
-    <desc lang="pt">De Marcus Fernando. Joyce Moreno e Fátima Guedes representam a visão feminina sobre o cenário musical após a instauração da censura.(n)</desc>
-  </programme>
-  <programme start="20200623150000 -0300" stop="20200623164500 -0300" channel="Curta! HD">
-    <title lang="pt">Jards</title>
-    <desc lang="pt">De Eryk Rocha. Uma celebração à vida e obra do cantor, compositor e ator Jards Macalé. O documentário mostra o processo criativo envolvido na concepção de seu último álbum.(n)</desc>
-  </programme>
-  <programme start="20200623164500 -0300" stop="20200623175000 -0300" channel="Curta! HD">
-    <title lang="pt">Count Basie: Por ele Mesmo</title>
-    <desc lang="pt">De Jeremy Marre. A biografia contada pelas próprias palavras de Count Basie revela as paixões e ambições que inspiraram o famoso pianista.(n)</desc>
-  </programme>
-  <programme start="20200623175000 -0300" stop="20200623180000 -0300" channel="Curta! HD">
-    <title lang="pt">Pedro Luis - Vale Quanto Pesa</title>
-    <desc lang="pt">De Pedro Hansen. Pedro Luis interpreta canções de Luiz Melodia.(n)</desc>
-  </programme>
   <programme start="20200623180000 -0300" stop="20200623193000 -0300" channel="Curta! HD">
     <title lang="pt">Trinta Povos</title>
     <desc lang="pt">De Zeca Brito. O legado e a história das missões jesuíticas na América Latina.(n)</desc>
@@ -13399,34 +12919,6 @@
   <programme start="20200629234100 +0100" stop="20200630000300 +0100" channel="Blaze HD">
     <title lang="pt">O Preço da História</title>
   </programme>
-  <programme start="20200623100000 -0300" stop="20200623140000 -0300" channel="MTV Live HD">
-    <title lang="pt">High Definition Hits!</title>
-    <desc lang="pt">Diversos. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623140000 -0300" stop="20200623150000 -0300" channel="MTV Live HD">
-    <title lang="pt">Powerplay! This Week's MTV Hotlist</title>
-    <desc lang="pt">Musical. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623150000 -0300" stop="20200623154500 -0300" channel="MTV Live HD">
-    <title lang="pt">Best Bits: MTV Live From Fusion Festival 2019</title>
-    <desc lang="pt">Musical. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623154500 -0300" stop="20200623163000 -0300" channel="MTV Live HD">
-    <title lang="pt">Isle Of MTV: Malta 2018 Highlights</title>
-    <desc lang="pt">Musical. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623163000 -0300" stop="20200623171500 -0300" channel="MTV Live HD">
-    <title lang="pt">World Stage</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623171500 -0300" stop="20200623173500 -0300" channel="MTV Live HD">
-    <title lang="pt">Clean Bandit: MTV Live From Fusion</title>
-    <desc lang="pt">Musical. Sinopse Não Disponível.(n)</desc>
-  </programme>
-  <programme start="20200623173500 -0300" stop="20200623180000 -0300" channel="MTV Live HD">
-    <title lang="pt">Clean Bandit: MTV Live From Fusion</title>
-    <desc lang="pt">Musical. Sinopse Não Disponível.(n)</desc>
-  </programme>
   <programme start="20200623180000 -0300" stop="20200623193000 -0300" channel="MTV Live HD">
     <title lang="pt">MTV Rewind: 2015</title>
     <desc lang="pt">Musical. Sinopse Não Disponível.(n)</desc>
@@ -15280,1687 +14772,331 @@
   <programme start="20200629233000 -0300" stop="20200630001500 -0300" channel="Mais Globosat HD">
     <title lang="pt">Mistérios do Detetive Murdoch</title>
   </programme>
-  <programme start="20200623000000 -0300" stop="20200623014000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Boca</title>
+  <programme start="20200623010000 +0100" stop="20200623040000 +0100" channel="Fight Network HD">
+    <title lang="pt">Cage 47</title>
   </programme>
-  <programme start="20200623014000 -0300" stop="20200623020000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Prometido</title>
+  <programme start="20200623040000 +0100" stop="20200623060000 +0100" channel="Fight Network HD">
+    <title lang="pt">MFC 29: Conquer</title>
   </programme>
-  <programme start="20200623020000 -0300" stop="20200623024300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Making Of</title>
+  <programme start="20200623060000 +0100" stop="20200623070000 +0100" channel="Fight Network HD">
+    <title lang="pt">Pancrase In 60</title>
   </programme>
-  <programme start="20200623024300 -0300" stop="20200623030000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
+  <programme start="20200623070000 +0100" stop="20200623080000 +0100" channel="Fight Network HD">
+    <title lang="pt">Abu Dhabi Grand Slam London 2019</title>
   </programme>
-  <programme start="20200623030000 -0300" stop="20200623042300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Dromedário no Asfalto</title>
+  <programme start="20200623080000 +0100" stop="20200623110000 +0100" channel="Fight Network HD">
+    <title lang="pt">We Love MMA 44</title>
   </programme>
-  <programme start="20200623042300 -0300" stop="20200623044400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A Memória da Cidade</title>
+  <programme start="20200623110000 +0100" stop="20200623140000 +0100" channel="Fight Network HD">
+    <title lang="pt">Cage 47</title>
   </programme>
-  <programme start="20200623044400 -0300" stop="20200623050000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A História Deles</title>
+  <programme start="20200623140000 +0100" stop="20200623170000 +0100" channel="Fight Network HD">
+    <title lang="pt">Combate Americas: Stockton</title>
   </programme>
-  <programme start="20200623050000 -0300" stop="20200623053000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Pela Fechadura</title>
+  <programme start="20200623170000 +0100" stop="20200623180000 +0100" channel="Fight Network HD">
+    <title lang="pt">M-1 In 60</title>
   </programme>
-  <programme start="20200623053000 -0300" stop="20200623053600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Bom Repórter</title>
+  <programme start="20200623180000 +0100" stop="20200623200000 +0100" channel="Fight Network HD">
+    <title lang="pt">RFA 18</title>
   </programme>
-  <programme start="20200623053600 -0300" stop="20200623061200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</title>
+  <programme start="20200623200000 +0100" stop="20200623220000 +0100" channel="Fight Network HD">
+    <title lang="pt">Legacy FC 45</title>
   </programme>
-  <programme start="20200623061200 -0300" stop="20200623063000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luna 13</title>
+  <programme start="20200623220000 +0100" stop="20200623230000 +0100" channel="Fight Network HD">
+    <title lang="pt">Best of Combate Americas</title>
   </programme>
-  <programme start="20200623063000 -0300" stop="20200623063800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História</title>
+  <programme start="20200623230000 +0100" stop="20200623233000 +0100" channel="Fight Network HD">
+    <title lang="pt">Retrospective</title>
   </programme>
-  <programme start="20200623063800 -0300" stop="20200623064500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Maria</title>
+  <programme start="20200623233000 +0100" stop="20200624000000 +0100" channel="Fight Network HD">
+    <title lang="pt">Diary</title>
   </programme>
-  <programme start="20200623064500 -0300" stop="20200623074700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc</title>
+  <programme start="20200624000000 +0100" stop="20200624020000 +0100" channel="Fight Network HD">
+    <title lang="pt">Impact! Wrestling</title>
   </programme>
-  <programme start="20200623074700 -0300" stop="20200623080200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Triquetrique</title>
+  <programme start="20200624020000 +0100" stop="20200624030000 +0100" channel="Fight Network HD">
+    <title lang="pt">WrestleTalk Showcase</title>
   </programme>
-  <programme start="20200623080200 -0300" stop="20200623082200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Sonemista</title>
+  <programme start="20200624030000 +0100" stop="20200624053000 +0100" channel="Fight Network HD">
+    <title lang="pt">Road FC 57</title>
   </programme>
-  <programme start="20200623082200 -0300" stop="20200623082600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Terminal 2</title>
+  <programme start="20200624053000 +0100" stop="20200624060000 +0100" channel="Fight Network HD">
+    <title lang="pt">Diary</title>
   </programme>
-  <programme start="20200623082600 -0300" stop="20200623083000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Com Supremo, Com Tudo</title>
+  <programme start="20200624060000 +0100" stop="20200624080000 +0100" channel="Fight Network HD">
+    <title lang="pt">RFA 18</title>
   </programme>
-  <programme start="20200623083000 -0300" stop="20200623090700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Velhas Amigas</title>
+  <programme start="20200624080000 +0100" stop="20200624083000 +0100" channel="Fight Network HD">
+    <title lang="pt">Retrospective</title>
   </programme>
-  <programme start="20200623090700 -0300" stop="20200623093400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Cine Barato</title>
+  <programme start="20200624083000 +0100" stop="20200624090000 +0100" channel="Fight Network HD">
+    <title lang="pt">Diary</title>
   </programme>
-  <programme start="20200623093400 -0300" stop="20200623100000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Necrópolis</title>
+  <programme start="20200624090000 +0100" stop="20200624110000 +0100" channel="Fight Network HD">
+    <title lang="pt">MFC 29: Conquer</title>
   </programme>
-  <programme start="20200623100000 -0300" stop="20200623103000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sankofa: A África que te Habita</title>
+  <programme start="20200624110000 +0100" stop="20200624133000 +0100" channel="Fight Network HD">
+    <title lang="pt">Road FC 57</title>
   </programme>
-  <programme start="20200623103000 -0300" stop="20200623112300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Gamebros</title>
+  <programme start="20200624133000 +0100" stop="20200624140000 +0100" channel="Fight Network HD">
+    <title lang="pt">Diary</title>
   </programme>
-  <programme start="20200623112300 -0300" stop="20200623113000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Maria</title>
+  <programme start="20200624140000 +0100" stop="20200624160000 +0100" channel="Fight Network HD">
+    <title lang="pt">Impact! Wrestling</title>
   </programme>
-  <programme start="20200623113000 -0300" stop="20200623120000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Proibido para Maiores</title>
+  <programme start="20200624160000 +0100" stop="20200624170000 +0100" channel="Fight Network HD">
+    <title lang="pt">Fight Nights Global In 60</title>
   </programme>
-  <programme start="20200623120000 -0300" stop="20200623131300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Cada Vez Mais Longe</title>
+  <programme start="20200624170000 +0100" stop="20200624200000 +0100" channel="Fight Network HD">
+    <title lang="pt">Tatneft Cup</title>
   </programme>
-  <programme start="20200623131300 -0300" stop="20200623134300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz</title>
+  <programme start="20200624200000 +0100" stop="20200624230000 +0100" channel="Fight Network HD">
+    <title lang="pt">Lion Fight 31</title>
   </programme>
-  <programme start="20200623134300 -0300" stop="20200623135900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A História Deles</title>
+  <programme start="20200624230000 +0100" stop="20200624233000 +0100" channel="Fight Network HD">
+    <title lang="pt">Total Combat</title>
   </programme>
-  <programme start="20200623135900 -0300" stop="20200623141500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Abismo</title>
+  <programme start="20200624233000 +0100" stop="20200625000000 +0100" channel="Fight Network HD">
+    <title lang="pt">Boxing World Weekly</title>
   </programme>
-  <programme start="20200623141500 -0300" stop="20200623143300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
+  <programme start="20200625000000 +0100" stop="20200625030000 +0100" channel="Fight Network HD">
+    <title lang="pt">WGP Kickboxing 42</title>
   </programme>
-  <programme start="20200623143300 -0300" stop="20200623144500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
+  <programme start="20200625030000 +0100" stop="20200625053000 +0100" channel="Fight Network HD">
+    <title lang="pt">Kunlun Fight 81: Superfights</title>
   </programme>
-  <programme start="20200623144500 -0300" stop="20200623150000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Invasão Drag</title>
+  <programme start="20200625053000 +0100" stop="20200625060000 +0100" channel="Fight Network HD">
+    <title lang="pt">Total Combat</title>
   </programme>
-  <programme start="20200623150000 -0300" stop="20200623184500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">1001 Noites</title>
+  <programme start="20200625060000 +0100" stop="20200625090000 +0100" channel="Fight Network HD">
+    <title lang="pt">Tatneft Cup</title>
   </programme>
-  <programme start="20200623184500 -0300" stop="20200623200800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.Doc: Festa Da Uva 80 Anos</title>
+  <programme start="20200625090000 +0100" stop="20200625120000 +0100" channel="Fight Network HD">
+    <title lang="pt">Lion Fight 31</title>
   </programme>
-  <programme start="20200623200800 -0300" stop="20200623203000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A Memória da Cidade</title>
+  <programme start="20200625120000 +0100" stop="20200625150000 +0100" channel="Fight Network HD">
+    <title lang="pt">WGP Kickboxing 42</title>
   </programme>
-  <programme start="20200623203000 -0300" stop="20200623210000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Geekland</title>
+  <programme start="20200625150000 +0100" stop="20200625173000 +0100" channel="Fight Network HD">
+    <title lang="pt">Kunlun Fight 81: Superfights</title>
   </programme>
-  <programme start="20200623210000 -0300" stop="20200623213000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Paralelo 30</title>
+  <programme start="20200625173000 +0100" stop="20200625180000 +0100" channel="Fight Network HD">
+    <title lang="pt">Boxing World Weekly</title>
   </programme>
-  <programme start="20200623213000 -0300" stop="20200623220000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Liberto</title>
+  <programme start="20200625180000 +0100" stop="20200625190000 +0100" channel="Fight Network HD">
+    <title lang="pt">Impact In 60</title>
   </programme>
-  <programme start="20200623220000 -0300" stop="20200623231200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Entre Paredes</title>
+  <programme start="20200625190000 +0100" stop="20200625210000 +0100" channel="Fight Network HD">
+    <title lang="pt">Impact! Wrestling</title>
   </programme>
-  <programme start="20200623231200 -0300" stop="20200623232800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Final da Linha</title>
+  <programme start="20200625210000 +0100" stop="20200625220000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA: Greatest Matches</title>
   </programme>
-  <programme start="20200623232800 -0300" stop="20200623234300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Triquetrique</title>
+  <programme start="20200625220000 +0100" stop="20200625233000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Unfinished Business</title>
   </programme>
-  <programme start="20200623234300 -0300" stop="20200624000000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
+  <programme start="20200625233000 +0100" stop="20200626010000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Legends</title>
   </programme>
-  <programme start="20200624000000 -0300" stop="20200624012800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Real Beleza</title>
+  <programme start="20200626010000 +0100" stop="20200626013000 +0100" channel="Fight Network HD">
+    <title lang="pt">Learning The Ropes</title>
   </programme>
-  <programme start="20200624012800 -0300" stop="20200624014400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Abismo</title>
+  <programme start="20200626013000 +0100" stop="20200626020000 +0100" channel="Fight Network HD">
+    <title lang="pt">Catalyst Wrestling</title>
   </programme>
-  <programme start="20200624014400 -0300" stop="20200624020000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Final da Linha</title>
+  <programme start="20200626020000 +0100" stop="20200626030000 +0100" channel="Fight Network HD">
+    <title lang="pt">Championship Wrestling From Hollywood</title>
   </programme>
-  <programme start="20200624020000 -0300" stop="20200624024800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Investigação Criminal</title>
+  <programme start="20200626030000 +0100" stop="20200626040000 +0100" channel="Fight Network HD">
+    <title lang="pt">Championship Wrestling From Arizona</title>
   </programme>
-  <programme start="20200624024800 -0300" stop="20200624030000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
+  <programme start="20200626040000 +0100" stop="20200626050000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Epics</title>
   </programme>
-  <programme start="20200624030000 -0300" stop="20200624042100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Jogo de Xadrez</title>
+  <programme start="20200626050000 +0100" stop="20200626060000 +0100" channel="Fight Network HD">
+    <title lang="pt">Impact In 60</title>
   </programme>
-  <programme start="20200624042100 -0300" stop="20200624050000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</title>
+  <programme start="20200626060000 +0100" stop="20200626070000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA: Greatest Matches</title>
   </programme>
-  <programme start="20200624050000 -0300" stop="20200624052600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Anatomia do Crime</title>
+  <programme start="20200626070000 +0100" stop="20200626080000 +0100" channel="Fight Network HD">
+    <title lang="pt">Championship Wrestling From Hollywood</title>
   </programme>
-  <programme start="20200624052600 -0300" stop="20200624055600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz</title>
+  <programme start="20200626080000 +0100" stop="20200626093000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Unfinished Business</title>
   </programme>
-  <programme start="20200624055600 -0300" stop="20200624061300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
+  <programme start="20200626093000 +0100" stop="20200626110000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Legends</title>
   </programme>
-  <programme start="20200624061300 -0300" stop="20200624063300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Sonemista</title>
+  <programme start="20200626110000 +0100" stop="20200626120000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA: Greatest Matches</title>
   </programme>
-  <programme start="20200624063300 -0300" stop="20200624064000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História</title>
+  <programme start="20200626120000 +0100" stop="20200626140000 +0100" channel="Fight Network HD">
+    <title lang="pt">Impact! Wrestling</title>
   </programme>
-  <programme start="20200624064000 -0300" stop="20200624064500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: David Está Morto</title>
+  <programme start="20200626140000 +0100" stop="20200626150000 +0100" channel="Fight Network HD">
+    <title lang="pt">Xplosion</title>
   </programme>
-  <programme start="20200624064500 -0300" stop="20200624080000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc: Caxias do Sul</title>
+  <programme start="20200626150000 +0100" stop="20200626163000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Unfinished Business</title>
   </programme>
-  <programme start="20200624080000 -0300" stop="20200624083000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luneta</title>
+  <programme start="20200626163000 +0100" stop="20200626180000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Legends</title>
   </programme>
-  <programme start="20200624083000 -0300" stop="20200624090000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Paralelo 30</title>
+  <programme start="20200626180000 +0100" stop="20200626190000 +0100" channel="Fight Network HD">
+    <title lang="pt">International Wrestling Syndicate</title>
   </programme>
-  <programme start="20200624090000 -0300" stop="20200624093000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Liberto</title>
+  <programme start="20200626190000 +0100" stop="20200626220000 +0100" channel="Fight Network HD">
+    <title lang="pt">KSW 39</title>
   </programme>
-  <programme start="20200624093000 -0300" stop="20200624100000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Proibido para Maiores</title>
+  <programme start="20200626220000 +0100" stop="20200626230000 +0100" channel="Fight Network HD">
+    <title lang="pt">New Era Fighting</title>
   </programme>
-  <programme start="20200624100000 -0300" stop="20200624103000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Ala Leste</title>
+  <programme start="20200626230000 +0100" stop="20200627020000 +0100" channel="Fight Network HD">
+    <title lang="pt">Fight Nights Global 81</title>
   </programme>
-  <programme start="20200624103000 -0300" stop="20200624110000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Cinema em Transe</title>
+  <programme start="20200627020000 +0100" stop="20200627030000 +0100" channel="Fight Network HD">
+    <title lang="pt">Best of Combate Americas</title>
   </programme>
-  <programme start="20200624110000 -0300" stop="20200624114500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sempre Poa</title>
+  <programme start="20200627030000 +0100" stop="20200627040000 +0100" channel="Fight Network HD">
+    <title lang="pt">KSW In 60</title>
   </programme>
-  <programme start="20200624114500 -0300" stop="20200624120000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Triquetrique</title>
+  <programme start="20200627040000 +0100" stop="20200627043000 +0100" channel="Fight Network HD">
+    <title lang="pt">Learning The Ropes</title>
   </programme>
-  <programme start="20200624120000 -0300" stop="20200624133200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Oração ao Amor Selvagem</title>
+  <programme start="20200627043000 +0100" stop="20200627050000 +0100" channel="Fight Network HD">
+    <title lang="pt">Diary</title>
   </programme>
-  <programme start="20200624133200 -0300" stop="20200624135300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A Memória da Cidade</title>
+  <programme start="20200627050000 +0100" stop="20200627053000 +0100" channel="Fight Network HD">
+    <title lang="pt">Total Combat</title>
   </programme>
-  <programme start="20200624135300 -0300" stop="20200624140900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Abismo</title>
+  <programme start="20200627053000 +0100" stop="20200627060000 +0100" channel="Fight Network HD">
+    <title lang="pt">Boxing World Weekly</title>
   </programme>
-  <programme start="20200624140900 -0300" stop="20200624142700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
+  <programme start="20200627060000 +0100" stop="20200627070000 +0100" channel="Fight Network HD">
+    <title lang="pt">Best of Cage Rage</title>
   </programme>
-  <programme start="20200624142700 -0300" stop="20200624144200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Invasão Drag</title>
+  <programme start="20200627070000 +0100" stop="20200627080000 +0100" channel="Fight Network HD">
+    <title lang="pt">Best of SportFight</title>
   </programme>
-  <programme start="20200624144200 -0300" stop="20200624150000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luna 13</title>
+  <programme start="20200627080000 +0100" stop="20200627090000 +0100" channel="Fight Network HD">
+    <title lang="pt">International Wrestling Syndicate</title>
   </programme>
-  <programme start="20200624150000 -0300" stop="20200624184500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">1001 Noites</title>
+  <programme start="20200627090000 +0100" stop="20200627100000 +0100" channel="Fight Network HD">
+    <title lang="pt">Abu Dhabi Grand Slam London 2019 Part 5/9</title>
   </programme>
-  <programme start="20200624184500 -0300" stop="20200624195200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.Doc: #nolhodarua</title>
+  <programme start="20200627100000 +0100" stop="20200627130000 +0100" channel="Fight Network HD">
+    <title lang="pt">KSW 39</title>
   </programme>
-  <programme start="20200624195200 -0300" stop="20200624195800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Janela da Mente</title>
+  <programme start="20200627130000 +0100" stop="20200627140000 +0100" channel="Fight Network HD">
+    <title lang="pt">New Era Fighting</title>
   </programme>
-  <programme start="20200624195800 -0300" stop="20200624201400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Final da Linha</title>
+  <programme start="20200627140000 +0100" stop="20200627170000 +0100" channel="Fight Network HD">
+    <title lang="pt">W5 Kickboxing 38</title>
   </programme>
-  <programme start="20200624201400 -0300" stop="20200624203000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A História Deles</title>
+  <programme start="20200627170000 +0100" stop="20200627180000 +0100" channel="Fight Network HD">
+    <title lang="pt">Best of Combate Americas</title>
   </programme>
-  <programme start="20200624203000 -0300" stop="20200624210000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Nos Campos do Holocausto</title>
+  <programme start="20200627180000 +0100" stop="20200627200000 +0100" channel="Fight Network HD">
+    <title lang="pt">M-1 Selection 28</title>
   </programme>
-  <programme start="20200624210000 -0300" stop="20200624213000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Inspira.mov</title>
+  <programme start="20200627200000 +0100" stop="20200627203000 +0100" channel="Fight Network HD">
+    <title lang="pt">Second To None: Inside Women</title>
   </programme>
-  <programme start="20200624213000 -0300" stop="20200624220000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Na Rede.br</title>
+  <programme start="20200627203000 +0100" stop="20200627210000 +0100" channel="Fight Network HD">
+    <title lang="pt">Diary</title>
   </programme>
-  <programme start="20200624220000 -0300" stop="20200624231800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: O Colar de Coralina</title>
+  <programme start="20200627210000 +0100" stop="20200628000000 +0100" channel="Fight Network HD">
+    <title lang="pt">Combate Americas: Tito x Alberto</title>
   </programme>
-  <programme start="20200624231800 -0300" stop="20200624233700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Prometido</title>
+  <programme start="20200628000000 +0100" stop="20200628010000 +0100" channel="Fight Network HD">
+    <title lang="pt">Xplosion</title>
   </programme>
-  <programme start="20200624233700 -0300" stop="20200625000000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Quarto para Alugar</title>
+  <programme start="20200628010000 +0100" stop="20200628043000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Knockouts Knockdown 2013</title>
   </programme>
-  <programme start="20200625000000 -0300" stop="20200625011900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Jogo de Xadrez</title>
+  <programme start="20200628043000 +0100" stop="20200628050000 +0100" channel="Fight Network HD">
+    <title lang="pt">Total Combat</title>
   </programme>
-  <programme start="20200625011900 -0300" stop="20200625013800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box</title>
+  <programme start="20200628050000 +0100" stop="20200628060000 +0100" channel="Fight Network HD">
+    <title lang="pt">WrestleTalk Showcase</title>
   </programme>
-  <programme start="20200625013800 -0300" stop="20200625020000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Quarto para Alugar</title>
+  <programme start="20200628060000 +0100" stop="20200628070000 +0100" channel="Fight Network HD">
+    <title lang="pt">Abu Dhabi Grand Slam London 2019 Part 5/9</title>
   </programme>
-  <programme start="20200625020000 -0300" stop="20200625024000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Chuteira Preta</title>
+  <programme start="20200628070000 +0100" stop="20200628080000 +0100" channel="Fight Network HD">
+    <title lang="pt">Impact In 60</title>
   </programme>
-  <programme start="20200625024000 -0300" stop="20200625030000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luna 13</title>
+  <programme start="20200628080000 +0100" stop="20200628090000 +0100" channel="Fight Network HD">
+    <title lang="pt">Xplosion</title>
   </programme>
-  <programme start="20200625030000 -0300" stop="20200625044000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: A Vizinhança do Tigre</title>
+  <programme start="20200628090000 +0100" stop="20200628100000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Epics</title>
   </programme>
-  <programme start="20200625044000 -0300" stop="20200625050000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Prometido</title>
+  <programme start="20200628100000 +0100" stop="20200628120000 +0100" channel="Fight Network HD">
+    <title lang="pt">Impact! Wrestling</title>
   </programme>
-  <programme start="20200625050000 -0300" stop="20200625052700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Geekland</title>
+  <programme start="20200628120000 +0100" stop="20200628123000 +0100" channel="Fight Network HD">
+    <title lang="pt">Judo Zagreb Grand Prix 2017 Highlights</title>
   </programme>
-  <programme start="20200625052700 -0300" stop="20200625054700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
+  <programme start="20200628123000 +0100" stop="20200628130000 +0100" channel="Fight Network HD">
+    <title lang="pt">Boxing World Weekly</title>
   </programme>
-  <programme start="20200625054700 -0300" stop="20200625060700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Sonemista</title>
+  <programme start="20200628130000 +0100" stop="20200628140000 +0100" channel="Fight Network HD">
+    <title lang="pt">Xplosion</title>
   </programme>
-  <programme start="20200625060700 -0300" stop="20200625063700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luneta</title>
+  <programme start="20200628140000 +0100" stop="20200628150000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA: Greatest Matches</title>
   </programme>
-  <programme start="20200625063700 -0300" stop="20200625064500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História</title>
+  <programme start="20200628150000 +0100" stop="20200628160000 +0100" channel="Fight Network HD">
+    <title lang="pt">Abu Dhabi Grand Slam London 2019 Part 5/9</title>
   </programme>
-  <programme start="20200625064500 -0300" stop="20200625080400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc: Porto Alegre</title>
+  <programme start="20200628160000 +0100" stop="20200628190000 +0100" channel="Fight Network HD">
+    <title lang="pt">Combate Americas: Tito x Alberto</title>
   </programme>
-  <programme start="20200625080400 -0300" stop="20200625082500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A Memória da Cidade</title>
+  <programme start="20200628190000 +0100" stop="20200628220000 +0100" channel="Fight Network HD">
+    <title lang="pt">Golden Boy</title>
   </programme>
-  <programme start="20200625082500 -0300" stop="20200625083000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Terminal 2</title>
+  <programme start="20200628220000 +0100" stop="20200629000000 +0100" channel="Fight Network HD">
+    <title lang="pt">M-1 Selection 28</title>
   </programme>
-  <programme start="20200625083000 -0300" stop="20200625090000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Inspira.mov</title>
+  <programme start="20200629000000 +0100" stop="20200629003000 +0100" channel="Fight Network HD">
+    <title lang="pt">Second To None: Inside Women</title>
   </programme>
-  <programme start="20200625090000 -0300" stop="20200625093000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Na Rede.br</title>
+  <programme start="20200629003000 +0100" stop="20200629010000 +0100" channel="Fight Network HD">
+    <title lang="pt">Judo Zagreb Grand Prix 2017 Highlights</title>
   </programme>
-  <programme start="20200625093000 -0300" stop="20200625100700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Velhas Amigas</title>
+  <programme start="20200629010000 +0100" stop="20200629043000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Slammiversary 2015</title>
   </programme>
-  <programme start="20200625100700 -0300" stop="20200625103400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Cine Barato</title>
+  <programme start="20200629043000 +0100" stop="20200629050000 +0100" channel="Fight Network HD">
+    <title lang="pt">Diary</title>
   </programme>
-  <programme start="20200625103400 -0300" stop="20200625113000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Gamebros</title>
+  <programme start="20200629050000 +0100" stop="20200629053000 +0100" channel="Fight Network HD">
+    <title lang="pt">Judo Zagreb Grand Prix 2017 Highlights</title>
   </programme>
-  <programme start="20200625113000 -0300" stop="20200625115500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Hackers</title>
+  <programme start="20200629053000 +0100" stop="20200629060000 +0100" channel="Fight Network HD">
+    <title lang="pt">Boxing World Weekly</title>
   </programme>
-  <programme start="20200625115500 -0300" stop="20200625120000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Janela da Mente</title>
+  <programme start="20200629060000 +0100" stop="20200629080000 +0100" channel="Fight Network HD">
+    <title lang="pt">Impact! Wrestling</title>
   </programme>
-  <programme start="20200625120000 -0300" stop="20200625131200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Entre Paredes</title>
+  <programme start="20200629080000 +0100" stop="20200629113000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Knockouts Knockdown 2013</title>
   </programme>
-  <programme start="20200625131200 -0300" stop="20200625131800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Maria</title>
+  <programme start="20200629113000 +0100" stop="20200629150000 +0100" channel="Fight Network HD">
+    <title lang="pt">TNA Slammiversary 2015</title>
   </programme>
-  <programme start="20200625131800 -0300" stop="20200625132300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: David Está Morto</title>
+  <programme start="20200629150000 +0100" stop="20200629180000 +0100" channel="Fight Network HD">
+    <title lang="pt">Golden Boy</title>
   </programme>
-  <programme start="20200625132300 -0300" stop="20200625134200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box</title>
+  <programme start="20200629180000 +0100" stop="20200629190000 +0100" channel="Fight Network HD">
+    <title lang="pt">Pancrase In 60</title>
   </programme>
-  <programme start="20200625134200 -0300" stop="20200625135800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Abismo</title>
+  <programme start="20200629190000 +0100" stop="20200629220000 +0100" channel="Fight Network HD">
+    <title lang="pt">Combate Americas: Tito x Alberto</title>
   </programme>
-  <programme start="20200625135800 -0300" stop="20200625142800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz</title>
-  </programme>
-  <programme start="20200625142800 -0300" stop="20200625144800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Sonemista</title>
-  </programme>
-  <programme start="20200625144800 -0300" stop="20200625150000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
-  </programme>
-  <programme start="20200625150000 -0300" stop="20200625184500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">1001 Noites</title>
-  </programme>
-  <programme start="20200625184500 -0300" stop="20200625194500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc: Arte, Inovação e Sustentabilidade</title>
-  </programme>
-  <programme start="20200625194500 -0300" stop="20200625200000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Triquetrique</title>
-  </programme>
-  <programme start="20200625200000 -0300" stop="20200625203000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luneta</title>
-  </programme>
-  <programme start="20200625203000 -0300" stop="20200625210000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Necrópolis</title>
-  </programme>
-  <programme start="20200625210000 -0300" stop="20200625213000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Imagem Vinil</title>
-  </programme>
-  <programme start="20200625213000 -0300" stop="20200625220000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Pela Fechadura</title>
-  </programme>
-  <programme start="20200625220000 -0300" stop="20200625232100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Jogo de Xadrez</title>
-  </programme>
-  <programme start="20200625232100 -0300" stop="20200625234300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Quarto para Alugar</title>
-  </programme>
-  <programme start="20200625234300 -0300" stop="20200626000000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
-  </programme>
-  <programme start="20200626000000 -0300" stop="20200626013600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: A Vizinhança do Tigre</title>
-  </programme>
-  <programme start="20200626013600 -0300" stop="20200626014300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História</title>
-  </programme>
-  <programme start="20200626014300 -0300" stop="20200626020000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
-  </programme>
-  <programme start="20200626020000 -0300" stop="20200626024800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Investigação Criminal</title>
-  </programme>
-  <programme start="20200626024800 -0300" stop="20200626030000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
-  </programme>
-  <programme start="20200626030000 -0300" stop="20200626042300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Latitudes</title>
-  </programme>
-  <programme start="20200626042300 -0300" stop="20200626044300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Prometido</title>
-  </programme>
-  <programme start="20200626044300 -0300" stop="20200626050000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A História Deles</title>
-  </programme>
-  <programme start="20200626050000 -0300" stop="20200626052600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Hackers</title>
-  </programme>
-  <programme start="20200626052600 -0300" stop="20200626053000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Com Supremo, Com Tudo</title>
-  </programme>
-  <programme start="20200626053000 -0300" stop="20200626060000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luneta</title>
-  </programme>
-  <programme start="20200626060000 -0300" stop="20200626061500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Invasão Drag</title>
-  </programme>
-  <programme start="20200626061500 -0300" stop="20200626064500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz</title>
-  </programme>
-  <programme start="20200626064500 -0300" stop="20200626074500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc: Na Asa do Vento</title>
-  </programme>
-  <programme start="20200626074500 -0300" stop="20200626082200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</title>
-  </programme>
-  <programme start="20200626082200 -0300" stop="20200626083000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História</title>
-  </programme>
-  <programme start="20200626083000 -0300" stop="20200626091500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200626091500 -0300" stop="20200626093000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Triquetrique</title>
-  </programme>
-  <programme start="20200626093000 -0300" stop="20200626100000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Nos Campos do Holocausto</title>
-  </programme>
-  <programme start="20200626100000 -0300" stop="20200626103000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Liberto</title>
-  </programme>
-  <programme start="20200626103000 -0300" stop="20200626110000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Imagem Vinil</title>
-  </programme>
-  <programme start="20200626110000 -0300" stop="20200626113000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Paralelo 30</title>
-  </programme>
-  <programme start="20200626113000 -0300" stop="20200626120000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Proibido para Maiores</title>
-  </programme>
-  <programme start="20200626120000 -0300" stop="20200626133000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Real Beleza</title>
-  </programme>
-  <programme start="20200626133000 -0300" stop="20200626135100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A Memória da Cidade</title>
-  </programme>
-  <programme start="20200626135100 -0300" stop="20200626140700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Abismo</title>
-  </programme>
-  <programme start="20200626140700 -0300" stop="20200626142500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
-  </programme>
-  <programme start="20200626142500 -0300" stop="20200626144100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Final da Linha</title>
-  </programme>
-  <programme start="20200626144100 -0300" stop="20200626150000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Sonemista</title>
-  </programme>
-  <programme start="20200626150000 -0300" stop="20200626184500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">1001 Noites</title>
-  </programme>
-  <programme start="20200626184500 -0300" stop="20200626200500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc: Margaret Mee e a Flor da Lua</title>
-  </programme>
-  <programme start="20200626200500 -0300" stop="20200626202300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luna 13</title>
-  </programme>
-  <programme start="20200626202300 -0300" stop="20200626203000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Maria</title>
-  </programme>
-  <programme start="20200626203000 -0300" stop="20200626210000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sankofa: A África que te Habita</title>
-  </programme>
-  <programme start="20200626210000 -0300" stop="20200626213000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Cinema em Transe</title>
-  </programme>
-  <programme start="20200626213000 -0300" stop="20200626220000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Cine Barato</title>
-  </programme>
-  <programme start="20200626220000 -0300" stop="20200626233500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Nove Crônicas para um Coração aos Berros</title>
-  </programme>
-  <programme start="20200626233500 -0300" stop="20200626234300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História</title>
-  </programme>
-  <programme start="20200626234300 -0300" stop="20200627000000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
-  </programme>
-  <programme start="20200627000000 -0300" stop="20200627011200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Entre Paredes</title>
-  </programme>
-  <programme start="20200627011200 -0300" stop="20200627014900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</title>
-  </programme>
-  <programme start="20200627014900 -0300" stop="20200627015400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: David Está Morto</title>
-  </programme>
-  <programme start="20200627015400 -0300" stop="20200627020000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Bom Repórter</title>
-  </programme>
-  <programme start="20200627020000 -0300" stop="20200627024500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sempre Poa</title>
-  </programme>
-  <programme start="20200627024500 -0300" stop="20200627030000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Invasão Drag</title>
-  </programme>
-  <programme start="20200627030000 -0300" stop="20200627044800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Menos Que Nada</title>
-  </programme>
-  <programme start="20200627044800 -0300" stop="20200627050000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
-  </programme>
-  <programme start="20200627050000 -0300" stop="20200627052900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Pela Fechadura</title>
-  </programme>
-  <programme start="20200627052900 -0300" stop="20200627054800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box</title>
-  </programme>
-  <programme start="20200627054800 -0300" stop="20200627061500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luneta</title>
-  </programme>
-  <programme start="20200627061500 -0300" stop="20200627063000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A História Deles</title>
-  </programme>
-  <programme start="20200627063000 -0300" stop="20200627064500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Triquetrique</title>
-  </programme>
-  <programme start="20200627064500 -0300" stop="20200627080700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.Doc: Festa Da Uva 80 Anos</title>
-  </programme>
-  <programme start="20200627080700 -0300" stop="20200627083000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Quarto para Alugar</title>
-  </programme>
-  <programme start="20200627083000 -0300" stop="20200627090000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sankofa: A África que te Habita</title>
-  </programme>
-  <programme start="20200627090000 -0300" stop="20200627094500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Investigação Criminal</title>
-  </programme>
-  <programme start="20200627094500 -0300" stop="20200627100000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Invasão Drag</title>
-  </programme>
-  <programme start="20200627100000 -0300" stop="20200627104800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Investigação Criminal</title>
-  </programme>
-  <programme start="20200627104800 -0300" stop="20200627110000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
-  </programme>
-  <programme start="20200627110000 -0300" stop="20200627114500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Investigação Criminal</title>
-  </programme>
-  <programme start="20200627114500 -0300" stop="20200627120000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A História Deles</title>
-  </programme>
-  <programme start="20200627120000 -0300" stop="20200627124300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200627124300 -0300" stop="20200627133100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200627133100 -0300" stop="20200627141600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200627141600 -0300" stop="20200627144600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz</title>
-  </programme>
-  <programme start="20200627144600 -0300" stop="20200627150000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Invasão Drag</title>
-  </programme>
-  <programme start="20200627150000 -0300" stop="20200627184500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">1001 Noites</title>
-  </programme>
-  <programme start="20200627184500 -0300" stop="20200627202300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc: Juventude 100 Anos de Papada</title>
-  </programme>
-  <programme start="20200627202300 -0300" stop="20200627203000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Maria</title>
-  </programme>
-  <programme start="20200627203000 -0300" stop="20200627210900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Chuteira Preta</title>
-  </programme>
-  <programme start="20200627210900 -0300" stop="20200627213000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Quarto para Alugar</title>
-  </programme>
-  <programme start="20200627213000 -0300" stop="20200627215400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Taxitramas</title>
-  </programme>
-  <programme start="20200627215400 -0300" stop="20200627220000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Bom Repórter</title>
-  </programme>
-  <programme start="20200627220000 -0300" stop="20200627233900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Dolores</title>
-  </programme>
-  <programme start="20200627233900 -0300" stop="20200628000000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Sonemista</title>
-  </programme>
-  <programme start="20200628000000 -0300" stop="20200628010900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Simone</title>
-  </programme>
-  <programme start="20200628010900 -0300" stop="20200628013900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luneta</title>
-  </programme>
-  <programme start="20200628013900 -0300" stop="20200628015500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Triquetrique</title>
-  </programme>
-  <programme start="20200628015500 -0300" stop="20200628020000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: David Está Morto</title>
-  </programme>
-  <programme start="20200628020000 -0300" stop="20200628025500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Gamebros</title>
-  </programme>
-  <programme start="20200628025500 -0300" stop="20200628030000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Janela da Mente</title>
-  </programme>
-  <programme start="20200628030000 -0300" stop="20200628042100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Jogo de Xadrez</title>
-  </programme>
-  <programme start="20200628042100 -0300" stop="20200628045100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz</title>
-  </programme>
-  <programme start="20200628045100 -0300" stop="20200628045600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: David Está Morto</title>
-  </programme>
-  <programme start="20200628045600 -0300" stop="20200628050000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Com Supremo, Com Tudo</title>
-  </programme>
-  <programme start="20200628050000 -0300" stop="20200628053000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Geekland</title>
-  </programme>
-  <programme start="20200628053000 -0300" stop="20200628060600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</title>
-  </programme>
-  <programme start="20200628060600 -0300" stop="20200628061000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Com Supremo, Com Tudo</title>
-  </programme>
-  <programme start="20200628061000 -0300" stop="20200628062900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Sonemista</title>
-  </programme>
-  <programme start="20200628062900 -0300" stop="20200628064500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A História Deles</title>
-  </programme>
-  <programme start="20200628064500 -0300" stop="20200628075100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.Doc: #nolhodarua</title>
-  </programme>
-  <programme start="20200628075100 -0300" stop="20200628080800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Corpo</title>
-  </programme>
-  <programme start="20200628080800 -0300" stop="20200628083000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Quarto para Alugar</title>
-  </programme>
-  <programme start="20200628083000 -0300" stop="20200628090000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Na Rede.br</title>
-  </programme>
-  <programme start="20200628090000 -0300" stop="20200628094000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Chuteira Preta</title>
-  </programme>
-  <programme start="20200628094000 -0300" stop="20200628100000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Prometido</title>
-  </programme>
-  <programme start="20200628100000 -0300" stop="20200628103000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Inspira.mov</title>
-  </programme>
-  <programme start="20200628103000 -0300" stop="20200628105500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Taxitramas</title>
-  </programme>
-  <programme start="20200628105500 -0300" stop="20200628110000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Janela da Mente</title>
-  </programme>
-  <programme start="20200628110000 -0300" stop="20200628113000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Cine Barato</title>
-  </programme>
-  <programme start="20200628113000 -0300" stop="20200628120000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Hackers</title>
-  </programme>
-  <programme start="20200628120000 -0300" stop="20200628124200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sempre Poa</title>
-  </programme>
-  <programme start="20200628124200 -0300" stop="20200628132700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sempre Poa</title>
-  </programme>
-  <programme start="20200628132700 -0300" stop="20200628140700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sempre Poa</title>
-  </programme>
-  <programme start="20200628140700 -0300" stop="20200628144800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sempre Poa</title>
-  </programme>
-  <programme start="20200628144800 -0300" stop="20200628150000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
-  </programme>
-  <programme start="20200628150000 -0300" stop="20200628184500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">1001 Noites</title>
-  </programme>
-  <programme start="20200628184500 -0300" stop="20200628200500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc: Todos</title>
-  </programme>
-  <programme start="20200628200500 -0300" stop="20200628202600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A Memória da Cidade</title>
-  </programme>
-  <programme start="20200628202600 -0300" stop="20200628203000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Com Supremo, Com Tudo</title>
-  </programme>
-  <programme start="20200628203000 -0300" stop="20200628211500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200628211500 -0300" stop="20200628213000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Invasão Drag</title>
-  </programme>
-  <programme start="20200628213000 -0300" stop="20200628220200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Velhas Amigas</title>
-  </programme>
-  <programme start="20200628220200 -0300" stop="20200628232500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Latitudes</title>
-  </programme>
-  <programme start="20200628232500 -0300" stop="20200628233300 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História</title>
-  </programme>
-  <programme start="20200628233300 -0300" stop="20200628233800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: David Está Morto</title>
-  </programme>
-  <programme start="20200628233800 -0300" stop="20200629000000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Quarto para Alugar</title>
-  </programme>
-  <programme start="20200629000000 -0300" stop="20200629013200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Oração ao Amor Selvagem</title>
-  </programme>
-  <programme start="20200629013200 -0300" stop="20200629014700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Triquetrique</title>
-  </programme>
-  <programme start="20200629014700 -0300" stop="20200629015400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Maria</title>
-  </programme>
-  <programme start="20200629015400 -0300" stop="20200629020000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: David Está Morto</title>
-  </programme>
-  <programme start="20200629020000 -0300" stop="20200629024800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Investigação Criminal</title>
-  </programme>
-  <programme start="20200629024800 -0300" stop="20200629030000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: De um Novo Fernando Para o Brasil</title>
-  </programme>
-  <programme start="20200629030000 -0300" stop="20200629042900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Real Beleza</title>
-  </programme>
-  <programme start="20200629042900 -0300" stop="20200629045600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luneta</title>
-  </programme>
-  <programme start="20200629045600 -0300" stop="20200629050000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Com Supremo, Com Tudo</title>
-  </programme>
-  <programme start="20200629050000 -0300" stop="20200629052800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Nos Campos do Holocausto</title>
-  </programme>
-  <programme start="20200629052800 -0300" stop="20200629054600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luna 13</title>
-  </programme>
-  <programme start="20200629054600 -0300" stop="20200629060100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A História Deles</title>
-  </programme>
-  <programme start="20200629060100 -0300" stop="20200629061500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Invasão Drag</title>
-  </programme>
-  <programme start="20200629061500 -0300" stop="20200629064500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz</title>
-  </programme>
-  <programme start="20200629064500 -0300" stop="20200629080500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc: Todos</title>
-  </programme>
-  <programme start="20200629080500 -0300" stop="20200629082600 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Quarto para Alugar</title>
-  </programme>
-  <programme start="20200629082600 -0300" stop="20200629083000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Terminal 2</title>
-  </programme>
-  <programme start="20200629083000 -0300" stop="20200629090900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Chuteira Preta</title>
-  </programme>
-  <programme start="20200629090900 -0300" stop="20200629093000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A Memória da Cidade</title>
-  </programme>
-  <programme start="20200629093000 -0300" stop="20200629100000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Geekland</title>
-  </programme>
-  <programme start="20200629100000 -0300" stop="20200629103000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Imagem Vinil</title>
-  </programme>
-  <programme start="20200629103000 -0300" stop="20200629110000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Cinema em Transe</title>
-  </programme>
-  <programme start="20200629110000 -0300" stop="20200629113000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Hackers</title>
-  </programme>
-  <programme start="20200629113000 -0300" stop="20200629120000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Ala Leste</title>
-  </programme>
-  <programme start="20200629120000 -0300" stop="20200629132100 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Jogo de Xadrez</title>
-  </programme>
-  <programme start="20200629132100 -0300" stop="20200629133700 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Final da Linha</title>
-  </programme>
-  <programme start="20200629133700 -0300" stop="20200629135200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Triquetrique</title>
-  </programme>
-  <programme start="20200629135200 -0300" stop="20200629135900 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História</title>
-  </programme>
-  <programme start="20200629135900 -0300" stop="20200629141500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: A História Deles</title>
-  </programme>
-  <programme start="20200629141500 -0300" stop="20200629144200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luneta</title>
-  </programme>
-  <programme start="20200629144200 -0300" stop="20200629150000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luna 13</title>
-  </programme>
-  <programme start="20200629150000 -0300" stop="20200629184500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">1001 Noites</title>
-  </programme>
-  <programme start="20200629184500 -0300" stop="20200629194500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Prime.doc: Na Asa do Vento</title>
-  </programme>
-  <programme start="20200629194500 -0300" stop="20200629201400 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz</title>
-  </programme>
-  <programme start="20200629201400 -0300" stop="20200629203000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Final da Linha</title>
-  </programme>
-  <programme start="20200629203000 -0300" stop="20200629210000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Proibido para Maiores</title>
-  </programme>
-  <programme start="20200629210000 -0300" stop="20200629214200 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sempre Poa</title>
-  </programme>
-  <programme start="20200629214200 -0300" stop="20200629220000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Luna 13</title>
-  </programme>
-  <programme start="20200629220000 -0300" stop="20200629230800 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Sessão Prime Box: Simone</title>
-  </programme>
-  <programme start="20200629230800 -0300" stop="20200629234500 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</title>
-  </programme>
-  <programme start="20200629234500 -0300" stop="20200630000000 -0300" channel="Prime Box Brazil HD">
-    <title lang="pt">Curta In Box: Invasão Drag</title>
-  </programme>
-  <programme start="20200623000000 -0300" stop="20200623004500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200623004500 -0300" stop="20200623011500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Na Estrada Com Music</title>
-  </programme>
-  <programme start="20200623011500 -0300" stop="20200623013000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Programa da Layla</title>
-  </programme>
-  <programme start="20200623013000 -0300" stop="20200623020000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Buscando Buskers</title>
-  </programme>
-  <programme start="20200623020000 -0300" stop="20200623023000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Curta o Som</title>
-  </programme>
-  <programme start="20200623023000 -0300" stop="20200623030000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Programa 360</title>
-  </programme>
-  <programme start="20200623030000 -0300" stop="20200623033000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200623033000 -0300" stop="20200623034000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200623034000 -0300" stop="20200623040000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200623040000 -0300" stop="20200623041000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200623041000 -0300" stop="20200623043000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200623043000 -0300" stop="20200623063000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200623063000 -0300" stop="20200623064500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Fala, Mas Toca com De Maria</title>
-  </programme>
-  <programme start="20200623064500 -0300" stop="20200623070000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Sotaques do Brasil</title>
-  </programme>
-  <programme start="20200623070000 -0300" stop="20200623073000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Um Café Lá em Casa</title>
-  </programme>
-  <programme start="20200623073000 -0300" stop="20200623080000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Origens</title>
-  </programme>
-  <programme start="20200623080000 -0300" stop="20200623082000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200623082000 -0300" stop="20200623090000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Mobília Space</title>
-  </programme>
-  <programme start="20200623090000 -0300" stop="20200623093000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lá Em Casa Sessions</title>
-  </programme>
-  <programme start="20200623093000 -0300" stop="20200623100000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Música Para Ver</title>
-  </programme>
-  <programme start="20200623100000 -0300" stop="20200623103000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Porto Dragão Sessions</title>
-  </programme>
-  <programme start="20200623103000 -0300" stop="20200623110000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Loroza Talk Soul</title>
-  </programme>
-  <programme start="20200623110000 -0300" stop="20200623120000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200623120000 -0300" stop="20200623123500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200623123500 -0300" stop="20200623132000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Na Estrada Com Music</title>
-  </programme>
-  <programme start="20200623132000 -0300" stop="20200623133000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200623133000 -0300" stop="20200623140000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">A História Secreta do Pop Brasileiro</title>
-  </programme>
-  <programme start="20200623140000 -0300" stop="20200623150000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music On Line</title>
-  </programme>
-  <programme start="20200623150000 -0300" stop="20200623153000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200623153000 -0300" stop="20200623183000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Infomercial</title>
-  </programme>
-  <programme start="20200623183000 -0300" stop="20200623210000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Live Ivo Meirelles</title>
-  </programme>
-  <programme start="20200623210000 -0300" stop="20200623211500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Fala, Mas Toca com De Maria</title>
-  </programme>
-  <programme start="20200623211500 -0300" stop="20200623214500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200623214500 -0300" stop="20200623221500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Ao Vivo no Soma</title>
-  </programme>
-  <programme start="20200623221500 -0300" stop="20200623224500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Buscando Buskers</title>
-  </programme>
-  <programme start="20200623224500 -0300" stop="20200623231500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Hip Hop Brazil</title>
-  </programme>
-  <programme start="20200623231500 -0300" stop="20200624000000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200624000000 -0300" stop="20200624003500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200624003500 -0300" stop="20200624012000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Na Estrada Com Music</title>
-  </programme>
-  <programme start="20200624012000 -0300" stop="20200624013000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200624013000 -0300" stop="20200624020000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">A História Secreta do Pop Brasileiro</title>
-  </programme>
-  <programme start="20200624020000 -0300" stop="20200624023000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Os Sambas</title>
-  </programme>
-  <programme start="20200624023000 -0300" stop="20200624030000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">De Show Á Show com Yamandú Costa</title>
-  </programme>
-  <programme start="20200624030000 -0300" stop="20200624033000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200624033000 -0300" stop="20200624034000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200624034000 -0300" stop="20200624034500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200624034500 -0300" stop="20200624035500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200624035500 -0300" stop="20200624045500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200624045500 -0300" stop="20200624055000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200624055000 -0300" stop="20200624060000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Um Take, Um Som</title>
-  </programme>
-  <programme start="20200624060000 -0300" stop="20200624063000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200624063000 -0300" stop="20200624070000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Andante</title>
-  </programme>
-  <programme start="20200624070000 -0300" stop="20200624071500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">ABZ da Música</title>
-  </programme>
-  <programme start="20200624071500 -0300" stop="20200624073000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Fala, Mas Toca com De Maria</title>
-  </programme>
-  <programme start="20200624073000 -0300" stop="20200624080000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Cabeça</title>
-  </programme>
-  <programme start="20200624080000 -0300" stop="20200624083000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200624083000 -0300" stop="20200624090000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Curta o Som</title>
-  </programme>
-  <programme start="20200624090000 -0300" stop="20200624093000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200624093000 -0300" stop="20200624100000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Ao Vivo no Soma</title>
-  </programme>
-  <programme start="20200624100000 -0300" stop="20200624103000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Buscando Buskers</title>
-  </programme>
-  <programme start="20200624103000 -0300" stop="20200624110000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Hip Hop Brazil</title>
-  </programme>
-  <programme start="20200624110000 -0300" stop="20200624115500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200624115500 -0300" stop="20200624130000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200624130000 -0300" stop="20200624132000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200624132000 -0300" stop="20200624133000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200624133000 -0300" stop="20200624140000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Origens</title>
-  </programme>
-  <programme start="20200624140000 -0300" stop="20200624141500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Sotaques do Brasil</title>
-  </programme>
-  <programme start="20200624141500 -0300" stop="20200624143000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">ABZ da Música</title>
-  </programme>
-  <programme start="20200624143000 -0300" stop="20200624151000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Mobília Space</title>
-  </programme>
-  <programme start="20200624151000 -0300" stop="20200624153000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200624153000 -0300" stop="20200624183000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Infomercial</title>
-  </programme>
-  <programme start="20200624183000 -0300" stop="20200624190000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Cine Music</title>
-  </programme>
-  <programme start="20200624190000 -0300" stop="20200624195500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Cine Music</title>
-  </programme>
-  <programme start="20200624195500 -0300" stop="20200624200000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200624200000 -0300" stop="20200624203000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Babilônia</title>
-  </programme>
-  <programme start="20200624203000 -0300" stop="20200624204500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Programa da Layla</title>
-  </programme>
-  <programme start="20200624204500 -0300" stop="20200624210000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">ABZ da Música</title>
-  </programme>
-  <programme start="20200624210000 -0300" stop="20200624213000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200624213000 -0300" stop="20200624220000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Os Sambas</title>
-  </programme>
-  <programme start="20200624220000 -0300" stop="20200624223000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Andante</title>
-  </programme>
-  <programme start="20200624223000 -0300" stop="20200624230000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lá Em Casa Sessions</title>
-  </programme>
-  <programme start="20200624230000 -0300" stop="20200625000000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200625000000 -0300" stop="20200625010500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200625010500 -0300" stop="20200625011500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200625011500 -0300" stop="20200625014500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Origens</title>
-  </programme>
-  <programme start="20200625014500 -0300" stop="20200625020000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Sotaques do Brasil</title>
-  </programme>
-  <programme start="20200625020000 -0300" stop="20200625021500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">ABZ da Música</title>
-  </programme>
-  <programme start="20200625021500 -0300" stop="20200625025500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Mobília Space</title>
-  </programme>
-  <programme start="20200625025500 -0300" stop="20200625032500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200625032500 -0300" stop="20200625034000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200625034000 -0300" stop="20200625034500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200625034500 -0300" stop="20200625041000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200625041000 -0300" stop="20200625042500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200625042500 -0300" stop="20200625050500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200625050500 -0300" stop="20200625054000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200625054000 -0300" stop="20200625060000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200625060000 -0300" stop="20200625063000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Sonar</title>
-  </programme>
-  <programme start="20200625063000 -0300" stop="20200625070000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Cine Music</title>
-  </programme>
-  <programme start="20200625070000 -0300" stop="20200625075500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Cine Music</title>
-  </programme>
-  <programme start="20200625075500 -0300" stop="20200625080000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200625080000 -0300" stop="20200625083000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Babilônia</title>
-  </programme>
-  <programme start="20200625083000 -0300" stop="20200625084500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Programa da Layla</title>
-  </programme>
-  <programme start="20200625084500 -0300" stop="20200625090000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">ABZ da Música</title>
-  </programme>
-  <programme start="20200625090000 -0300" stop="20200625093000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200625093000 -0300" stop="20200625100000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Os Sambas</title>
-  </programme>
-  <programme start="20200625100000 -0300" stop="20200625103000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Andante</title>
-  </programme>
-  <programme start="20200625103000 -0300" stop="20200625110000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lá Em Casa Sessions</title>
-  </programme>
-  <programme start="20200625110000 -0300" stop="20200625120000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200625120000 -0300" stop="20200625133000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200625133000 -0300" stop="20200625140000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lincoln Olivetti, O Mago do Pop</title>
-  </programme>
-  <programme start="20200625140000 -0300" stop="20200625150000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music On Line</title>
-  </programme>
-  <programme start="20200625150000 -0300" stop="20200625151500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Fala, Mas Toca com De Maria</title>
-  </programme>
-  <programme start="20200625151500 -0300" stop="20200625153000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">O Ben Para Todo O Mal</title>
-  </programme>
-  <programme start="20200625153000 -0300" stop="20200625183000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Infomercial</title>
-  </programme>
-  <programme start="20200625183000 -0300" stop="20200625190000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Curta o Som</title>
-  </programme>
-  <programme start="20200625190000 -0300" stop="20200625193000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200625193000 -0300" stop="20200625200000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Loroza Talk Soul</title>
-  </programme>
-  <programme start="20200625200000 -0300" stop="20200625203000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Sonar</title>
-  </programme>
-  <programme start="20200625203000 -0300" stop="20200625212000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200625212000 -0300" stop="20200625213000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200625213000 -0300" stop="20200625220000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">De Show Á Show com Yamandú Costa</title>
-  </programme>
-  <programme start="20200625220000 -0300" stop="20200625223000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Origens</title>
-  </programme>
-  <programme start="20200625223000 -0300" stop="20200625230500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Cabeça</title>
-  </programme>
-  <programme start="20200625230500 -0300" stop="20200626000000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200626000000 -0300" stop="20200626013000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200626013000 -0300" stop="20200626020000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lincoln Olivetti, O Mago do Pop</title>
-  </programme>
-  <programme start="20200626020000 -0300" stop="20200626023000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Música Para Ver</title>
-  </programme>
-  <programme start="20200626023000 -0300" stop="20200626024500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Fala, Mas Toca com De Maria</title>
-  </programme>
-  <programme start="20200626024500 -0300" stop="20200626030000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">O Ben Para Todo O Mal</title>
-  </programme>
-  <programme start="20200626030000 -0300" stop="20200626033000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200626033000 -0300" stop="20200626034000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200626034000 -0300" stop="20200626035000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200626035000 -0300" stop="20200626041000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200626041000 -0300" stop="20200626050000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200626050000 -0300" stop="20200626053000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200626053000 -0300" stop="20200626060000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200626060000 -0300" stop="20200626063000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200626063000 -0300" stop="20200626070000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Curta o Som</title>
-  </programme>
-  <programme start="20200626070000 -0300" stop="20200626073000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200626073000 -0300" stop="20200626080000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Loroza Talk Soul</title>
-  </programme>
-  <programme start="20200626080000 -0300" stop="20200626083000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Sonar</title>
-  </programme>
-  <programme start="20200626083000 -0300" stop="20200626092000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200626092000 -0300" stop="20200626093000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200626093000 -0300" stop="20200626100000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">De Show Á Show com Yamandú Costa</title>
-  </programme>
-  <programme start="20200626100000 -0300" stop="20200626103000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Origens</title>
-  </programme>
-  <programme start="20200626103000 -0300" stop="20200626110500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Cabeça</title>
-  </programme>
-  <programme start="20200626110500 -0300" stop="20200626120000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200626120000 -0300" stop="20200626131000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200626131000 -0300" stop="20200626133000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200626133000 -0300" stop="20200626140000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lá Em Casa Sessions</title>
-  </programme>
-  <programme start="20200626140000 -0300" stop="20200626143000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Porto Dragão Sessions</title>
-  </programme>
-  <programme start="20200626143000 -0300" stop="20200626150000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Ao Vivo no Soma</title>
-  </programme>
-  <programme start="20200626150000 -0300" stop="20200626153000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200626153000 -0300" stop="20200626183000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Infomercial</title>
-  </programme>
-  <programme start="20200626183000 -0300" stop="20200626190000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Música Para Ver</title>
-  </programme>
-  <programme start="20200626190000 -0300" stop="20200626193000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200626193000 -0300" stop="20200626200000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Hip Hop Brazil</title>
-  </programme>
-  <programme start="20200626200000 -0300" stop="20200626203000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200626203000 -0300" stop="20200626220000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200626220000 -0300" stop="20200626223000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lincoln Olivetti, O Mago do Pop</title>
-  </programme>
-  <programme start="20200626223000 -0300" stop="20200626230000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">A História Secreta do Pop Brasileiro</title>
-  </programme>
-  <programme start="20200626230000 -0300" stop="20200626231500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">O Ben Para Todo O Mal</title>
-  </programme>
-  <programme start="20200626231500 -0300" stop="20200627000000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200627000000 -0300" stop="20200627011000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200627011000 -0300" stop="20200627013000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200627013000 -0300" stop="20200627020000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lá Em Casa Sessions</title>
-  </programme>
-  <programme start="20200627020000 -0300" stop="20200627023000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Porto Dragão Sessions</title>
-  </programme>
-  <programme start="20200627023000 -0300" stop="20200627030000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Ao Vivo no Soma</title>
-  </programme>
-  <programme start="20200627030000 -0300" stop="20200627033000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200627033000 -0300" stop="20200627033500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200627033500 -0300" stop="20200627034000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200627034000 -0300" stop="20200627034500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200627034500 -0300" stop="20200627035000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200627035000 -0300" stop="20200627040000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200627040000 -0300" stop="20200627051500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200627051500 -0300" stop="20200627060000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200627060000 -0300" stop="20200627063000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200627063000 -0300" stop="20200627070000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Música Para Ver</title>
-  </programme>
-  <programme start="20200627070000 -0300" stop="20200627073000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200627073000 -0300" stop="20200627080000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Hip Hop Brazil</title>
-  </programme>
-  <programme start="20200627080000 -0300" stop="20200627083000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200627083000 -0300" stop="20200627100000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200627100000 -0300" stop="20200627103000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lincoln Olivetti, O Mago do Pop</title>
-  </programme>
-  <programme start="20200627103000 -0300" stop="20200627110000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">A História Secreta do Pop Brasileiro</title>
-  </programme>
-  <programme start="20200627110000 -0300" stop="20200627111500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">O Ben Para Todo O Mal</title>
-  </programme>
-  <programme start="20200627111500 -0300" stop="20200627120000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200627120000 -0300" stop="20200627131000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200627131000 -0300" stop="20200627133000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Na Estrada Com Music</title>
-  </programme>
-  <programme start="20200627133000 -0300" stop="20200627140000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200627140000 -0300" stop="20200627143000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200627143000 -0300" stop="20200627151000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Mobília Space</title>
-  </programme>
-  <programme start="20200627151000 -0300" stop="20200627153000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200627153000 -0300" stop="20200627183000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Infomercial</title>
-  </programme>
-  <programme start="20200627183000 -0300" stop="20200627184500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Programa da Layla</title>
-  </programme>
-  <programme start="20200627184500 -0300" stop="20200627200000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Cine Music</title>
-  </programme>
-  <programme start="20200627200000 -0300" stop="20200627201500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Cine Music</title>
-  </programme>
-  <programme start="20200627201500 -0300" stop="20200627203000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">ABZ da Música</title>
-  </programme>
-  <programme start="20200627203000 -0300" stop="20200627214500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200627214500 -0300" stop="20200627220000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200627220000 -0300" stop="20200627223000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Hip Hop Brazil</title>
-  </programme>
-  <programme start="20200627223000 -0300" stop="20200627232500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200627232500 -0300" stop="20200627233500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200627233500 -0300" stop="20200627234500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200627234500 -0300" stop="20200628000000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Um Take, Um Som</title>
-  </programme>
-  <programme start="20200628000000 -0300" stop="20200628011000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Terra Brasilis</title>
-  </programme>
-  <programme start="20200628011000 -0300" stop="20200628013000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Na Estrada Com Music</title>
-  </programme>
-  <programme start="20200628013000 -0300" stop="20200628020000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200628020000 -0300" stop="20200628023000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Show Livre</title>
-  </programme>
-  <programme start="20200628023000 -0300" stop="20200628031000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Mobília Space</title>
-  </programme>
-  <programme start="20200628031000 -0300" stop="20200628034000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200628034000 -0300" stop="20200628034500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200628034500 -0300" stop="20200628040000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200628040000 -0300" stop="20200628042000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200628042000 -0300" stop="20200628050500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200628050500 -0300" stop="20200628060000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200628060000 -0300" stop="20200628063000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Babilônia</title>
-  </programme>
-  <programme start="20200628063000 -0300" stop="20200628064500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Programa da Layla</title>
-  </programme>
-  <programme start="20200628064500 -0300" stop="20200628080000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Cine Music</title>
-  </programme>
-  <programme start="20200628080000 -0300" stop="20200628081500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Cine Music</title>
-  </programme>
-  <programme start="20200628081500 -0300" stop="20200628083000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">ABZ da Música</title>
-  </programme>
-  <programme start="20200628083000 -0300" stop="20200628094500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200628094500 -0300" stop="20200628100000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200628100000 -0300" stop="20200628103000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Hip Hop Brazil</title>
-  </programme>
-  <programme start="20200628103000 -0300" stop="20200628112500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200628112500 -0300" stop="20200628113500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200628113500 -0300" stop="20200628114500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200628114500 -0300" stop="20200628120000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200628120000 -0300" stop="20200628123000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">A História Secreta do Pop Brasileiro</title>
-  </programme>
-  <programme start="20200628123000 -0300" stop="20200628130000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Buscando Buskers</title>
-  </programme>
-  <programme start="20200628130000 -0300" stop="20200628133000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Andante</title>
-  </programme>
-  <programme start="20200628133000 -0300" stop="20200628140000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lincoln Olivetti, O Mago do Pop</title>
-  </programme>
-  <programme start="20200628140000 -0300" stop="20200628143000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Loroza Talk Soul</title>
-  </programme>
-  <programme start="20200628143000 -0300" stop="20200628153000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200628153000 -0300" stop="20200628183000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Infomercial</title>
-  </programme>
-  <programme start="20200628183000 -0300" stop="20200628190000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">De Show Á Show com Yamandú Costa</title>
-  </programme>
-  <programme start="20200628190000 -0300" stop="20200628193000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Porto Dragão Sessions</title>
-  </programme>
-  <programme start="20200628193000 -0300" stop="20200628200000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Ao Vivo no Soma</title>
-  </programme>
-  <programme start="20200628200000 -0300" stop="20200628203000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200628203000 -0300" stop="20200628214000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200628214000 -0300" stop="20200628215500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200628215500 -0300" stop="20200628220000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Um Take, Um Som</title>
-  </programme>
-  <programme start="20200628220000 -0300" stop="20200628223500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Cabeça</title>
-  </programme>
-  <programme start="20200628223500 -0300" stop="20200628230500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Origens</title>
-  </programme>
-  <programme start="20200628230500 -0300" stop="20200629000000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200629000000 -0300" stop="20200629003000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">A História Secreta do Pop Brasileiro</title>
-  </programme>
-  <programme start="20200629003000 -0300" stop="20200629010000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Buscando Buskers</title>
-  </programme>
-  <programme start="20200629010000 -0300" stop="20200629013000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Andante</title>
-  </programme>
-  <programme start="20200629013000 -0300" stop="20200629020000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lincoln Olivetti, O Mago do Pop</title>
-  </programme>
-  <programme start="20200629020000 -0300" stop="20200629023000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Loroza Talk Soul</title>
-  </programme>
-  <programme start="20200629023000 -0300" stop="20200629030000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200629030000 -0300" stop="20200629031000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200629031000 -0300" stop="20200629032000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200629032000 -0300" stop="20200629033000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200629033000 -0300" stop="20200629034500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200629034500 -0300" stop="20200629041500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Making Of</title>
-  </programme>
-  <programme start="20200629041500 -0300" stop="20200629060000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200629060000 -0300" stop="20200629063000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Babilônia</title>
-  </programme>
-  <programme start="20200629063000 -0300" stop="20200629070000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">De Show Á Show com Yamandú Costa</title>
-  </programme>
-  <programme start="20200629070000 -0300" stop="20200629073000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Porto Dragão Sessions</title>
-  </programme>
-  <programme start="20200629073000 -0300" stop="20200629080000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Ao Vivo no Soma</title>
-  </programme>
-  <programme start="20200629080000 -0300" stop="20200629083000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200629083000 -0300" stop="20200629094000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Box in Concert</title>
-  </programme>
-  <programme start="20200629094000 -0300" stop="20200629095500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Music Drops</title>
-  </programme>
-  <programme start="20200629095500 -0300" stop="20200629100000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Um Take, Um Som</title>
-  </programme>
-  <programme start="20200629100000 -0300" stop="20200629103500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Cabeça</title>
-  </programme>
-  <programme start="20200629103500 -0300" stop="20200629110500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Origens</title>
-  </programme>
-  <programme start="20200629110500 -0300" stop="20200629115000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200629115000 -0300" stop="20200629143000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Live Fórmula do Samba</title>
-  </programme>
-  <programme start="20200629143000 -0300" stop="20200629151500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Astro Pop</title>
-  </programme>
-  <programme start="20200629151500 -0300" stop="20200629153000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Programa da Layla</title>
-  </programme>
-  <programme start="20200629153000 -0300" stop="20200629183000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Infomercial</title>
-  </programme>
-  <programme start="20200629183000 -0300" stop="20200629184500 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Fala, Mas Toca com De Maria</title>
-  </programme>
-  <programme start="20200629184500 -0300" stop="20200629190000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Sotaques do Brasil</title>
-  </programme>
-  <programme start="20200629190000 -0300" stop="20200629193000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Um Café Lá em Casa</title>
-  </programme>
-  <programme start="20200629193000 -0300" stop="20200629200000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Origens</title>
-  </programme>
-  <programme start="20200629200000 -0300" stop="20200629202000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
-  </programme>
-  <programme start="20200629202000 -0300" stop="20200629210000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Estúdio Mobília Space</title>
-  </programme>
-  <programme start="20200629210000 -0300" stop="20200629213000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Lá Em Casa Sessions</title>
-  </programme>
-  <programme start="20200629213000 -0300" stop="20200629220000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Música Para Ver</title>
-  </programme>
-  <programme start="20200629220000 -0300" stop="20200629223000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Porto Dragão Sessions</title>
-  </programme>
-  <programme start="20200629223000 -0300" stop="20200629231000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Loroza Talk Soul</title>
-  </programme>
-  <programme start="20200629231000 -0300" stop="20200630000000 -0300" channel="Music Box Brazil HD">
-    <title lang="pt">Jukebox</title>
+  <programme start="20200629220000 +0100" stop="20200630010000 +0100" channel="Fight Network HD">
+    <title lang="pt">We Love MMA 45</title>
   </programme>
 </tv>
