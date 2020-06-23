@@ -1,0 +1,291 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Record HD">
+    <display-name lang="pt">Record HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name lang="pt">HGTV HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="Smithsonian Channel HD">
+    <display-name lang="pt">Smithsonian Channel HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <channel id="CNN Brasil HD">
+    <display-name lang="pt">CNN Brasil HD</display-name>
+    <url>http://www.tvplus.com.br.E</url>
+  </channel>
+  <channel id="NatGeo Kids HD">
+    <display-name lang="pt">NatGeo Kids HD</display-name>
+    <url>http://www.clarotv.com.br.EK</url>
+  </channel>
+  <programme start="20200623060000 -0300" stop="20200623110000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Novo Dia - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um Novo Dia começa com Rafael Colombo e Elisa Veeck no comando das discussões políticas, os rumos da economia e do mundo, além de um Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200623110000 -0300" stop="20200623130000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Live CNN Brasil - Ao Vivo</title>
+    <desc lang="pt">Informativo. Política, economia, tendências, comportamento, o que está 'trendando' nas redes sociais. É o foco no conteúdo e na interação.(n)</desc>
+  </programme>
+  <programme start="20200623130000 -0300" stop="20200623153000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Visão CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um fato isolado não explica o contexto. A notícia completa não tem só um lado da história. É preciso ir além. É preciso ter análise.(n)</desc>
+  </programme>
+  <programme start="20200623153000 -0300" stop="20200623183000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN 360º - Ao Vivo</title>
+    <desc lang="pt">Informativo. Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real com Daniela Lima e Carol Nogueira.(n)</desc>
+  </programme>
+  <programme start="20200623183000 -0300" stop="20200623213000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200623213000 -0300" stop="20200623230000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+  </programme>
+  <programme start="20200623230000 -0300" stop="20200624000000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Documentário. Um lugar que poucas pessoas têm trânsito livre e a informação é valiosa e secreta. Um país rico, com fácil acesso aos líderes do mundo inteiro.(n)</desc>
+  </programme>
+  <programme start="20200624000000 -0300" stop="20200624010000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Amanpour</title>
+    <desc lang="pt">Informativo. O famoso programa de Christiane Amanpour onde ela realiza entrevistas e aborda temas relevantes para a sociedade.(n)</desc>
+  </programme>
+  <programme start="20200624010000 -0300" stop="20200624040000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN</title>
+    <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200624040000 -0300" stop="20200624060000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+  </programme>
+  <programme start="20200624060000 -0300" stop="20200624110000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Novo Dia - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um Novo Dia começa com Rafael Colombo e Elisa Veeck no comando das discussões políticas, os rumos da economia e do mundo, além de um Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200624110000 -0300" stop="20200624130000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Live CNN Brasil - Ao Vivo</title>
+    <desc lang="pt">Informativo. Política, economia, tendências, comportamento, o que está 'trendando' nas redes sociais. É o foco no conteúdo e na interação.(n)</desc>
+  </programme>
+  <programme start="20200624130000 -0300" stop="20200624153000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Visão CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um fato isolado não explica o contexto. A notícia completa não tem só um lado da história. É preciso ir além. É preciso ter análise.(n)</desc>
+  </programme>
+  <programme start="20200624153000 -0300" stop="20200624183000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN 360º - Ao Vivo</title>
+    <desc lang="pt">Informativo. Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real com Daniela Lima e Carol Nogueira.(n)</desc>
+  </programme>
+  <programme start="20200624183000 -0300" stop="20200624213000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200624213000 -0300" stop="20200624230000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+  </programme>
+  <programme start="20200624230000 -0300" stop="20200625000000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Documentário. Um lugar que poucas pessoas têm trânsito livre e a informação é valiosa e secreta. Um país rico, com fácil acesso aos líderes do mundo inteiro.(n)</desc>
+  </programme>
+  <programme start="20200625000000 -0300" stop="20200625010000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Amanpour</title>
+    <desc lang="pt">Informativo. O famoso programa de Christiane Amanpour onde ela realiza entrevistas e aborda temas relevantes para a sociedade.(n)</desc>
+  </programme>
+  <programme start="20200625010000 -0300" stop="20200625040000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN</title>
+    <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200625040000 -0300" stop="20200625060000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+  </programme>
+  <programme start="20200625060000 -0300" stop="20200625110000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Novo Dia - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um Novo Dia começa com Rafael Colombo e Elisa Veeck no comando das discussões políticas, os rumos da economia e do mundo, além de um Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200625110000 -0300" stop="20200625130000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Live CNN Brasil - Ao Vivo</title>
+    <desc lang="pt">Informativo. Política, economia, tendências, comportamento, o que está 'trendando' nas redes sociais. É o foco no conteúdo e na interação.(n)</desc>
+  </programme>
+  <programme start="20200625130000 -0300" stop="20200625153000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Visão CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um fato isolado não explica o contexto. A notícia completa não tem só um lado da história. É preciso ir além. É preciso ter análise.(n)</desc>
+  </programme>
+  <programme start="20200625153000 -0300" stop="20200625183000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN 360º - Ao Vivo</title>
+    <desc lang="pt">Informativo. Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real com Daniela Lima e Carol Nogueira.(n)</desc>
+  </programme>
+  <programme start="20200625183000 -0300" stop="20200625213000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200625213000 -0300" stop="20200625230000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+  </programme>
+  <programme start="20200625230000 -0300" stop="20200626000000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Documentário. A comediante e apresentadora Sue Perkins mergulha na cultura japonesa e seus contrastes. Um país que é um dos pioneiros tecnológicos globais e que, ao mesmo tempo, possui costumes ancestrais.(n)</desc>
+  </programme>
+  <programme start="20200626000000 -0300" stop="20200626010000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Amanpour</title>
+    <desc lang="pt">Informativo. O famoso programa de Christiane Amanpour onde ela realiza entrevistas e aborda temas relevantes para a sociedade.(n)</desc>
+  </programme>
+  <programme start="20200626010000 -0300" stop="20200626040000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN</title>
+    <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200626040000 -0300" stop="20200626060000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+  </programme>
+  <programme start="20200626060000 -0300" stop="20200626110000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Novo Dia - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um Novo Dia começa com Rafael Colombo e Elisa Veeck no comando das discussões políticas, os rumos da economia e do mundo, além de um Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200626110000 -0300" stop="20200626130000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Live CNN Brasil - Ao Vivo</title>
+    <desc lang="pt">Informativo. Política, economia, tendências, comportamento, o que está 'trendando' nas redes sociais. É o foco no conteúdo e na interação.(n)</desc>
+  </programme>
+  <programme start="20200626130000 -0300" stop="20200626153000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Visão CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um fato isolado não explica o contexto. A notícia completa não tem só um lado da história. É preciso ir além. É preciso ter análise.(n)</desc>
+  </programme>
+  <programme start="20200626153000 -0300" stop="20200626183000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN 360º - Ao Vivo</title>
+    <desc lang="pt">Informativo. Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real com Daniela Lima e Carol Nogueira.(n)</desc>
+  </programme>
+  <programme start="20200626183000 -0300" stop="20200626213000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200626213000 -0300" stop="20200626230000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+  </programme>
+  <programme start="20200626230000 -0300" stop="20200627000000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Documentário. A comediante e apresentadora Sue Perkins mergulha na cultura japonesa e seus contrastes. Um país que é um dos pioneiros tecnológicos globais e que, ao mesmo tempo, possui costumes ancestrais.(n)</desc>
+  </programme>
+  <programme start="20200627000000 -0300" stop="20200627010000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Amanpour</title>
+    <desc lang="pt">Informativo. O famoso programa de Christiane Amanpour onde ela realiza entrevistas e aborda temas relevantes para a sociedade.(n)</desc>
+  </programme>
+  <programme start="20200627010000 -0300" stop="20200627040000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN</title>
+    <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200627040000 -0300" stop="20200627060000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+  </programme>
+  <programme start="20200627060000 -0300" stop="20200627080000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+  </programme>
+  <programme start="20200627080000 -0300" stop="20200627140000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Sábado - Ao Vivo</title>
+    <desc lang="pt">Informativo. Sinopse Não Disponível.(n)</desc>
+  </programme>
+  <programme start="20200627140000 -0300" stop="20200627180000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Sábado - Ao Vivo</title>
+    <desc lang="pt">Informativo. Sinopse Não Disponível.(n)</desc>
+  </programme>
+  <programme start="20200627180000 -0300" stop="20200627200000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">O Ponto</title>
+    <desc lang="pt">Informativo. Programa de análise política comandado por Renata Agostini e Caio Junqueira. Semanalmente, dois convidados com pontos de vista antagônicos são entrevistados individualmente.(n)</desc>
+  </programme>
+  <programme start="20200627200000 -0300" stop="20200627210000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN Edição de Sábado - Ao Vivo</title>
+    <desc lang="pt">Informativo. William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+  </programme>
+  <programme start="20200627210000 -0300" stop="20200627223500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">O Mundo Pós-pandemia</title>
+    <desc lang="pt">Informativo. Mari Palma, Gabriela Prioli e Thais Heredia entrevistam personalidades e discutem o futuro da sociedade após a pandemia do novo coronavírus no programa comandado por Daniela Lima.(n)</desc>
+  </programme>
+  <programme start="20200627223500 -0300" stop="20200628011500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Séries Originais</title>
+    <desc lang="pt">Informativo. Apresentado por Evaristo Costa, o programa semanal exibe documentários exclusivos, incluindo produções nacionais e também conteúdo internacional, produzido pela CNN e pela britânica BBC.(n)</desc>
+  </programme>
+  <programme start="20200628011500 -0300" stop="20200628021000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Documentário. O cenário perfeito para as férias não é fácil de se criar. Essa série mostra que o segredo da administração e funcionamento de hotéis espalhados pelo mundo vai além do que se vê.(n)</desc>
+  </programme>
+  <programme start="20200628021000 -0300" stop="20200628034500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">O Mundo Pós-pandemia</title>
+    <desc lang="pt">Informativo. Mari Palma, Gabriela Prioli e Thais Heredia entrevistam personalidades e discutem o futuro da sociedade após a pandemia do novo coronavírus no programa comandado por Daniela Lima.(n)</desc>
+  </programme>
+  <programme start="20200628034500 -0300" stop="20200628060000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+  </programme>
+  <programme start="20200628060000 -0300" stop="20200628080000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+  </programme>
+  <programme start="20200628080000 -0300" stop="20200628140000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Domingo - Ao Vivo</title>
+    <desc lang="pt">Esportivo. Sinopse Não Disponível.(n)</desc>
+  </programme>
+  <programme start="20200628140000 -0300" stop="20200628190000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Domingo - Ao Vivo</title>
+    <desc lang="pt">Esportivo. Sinopse Não Disponível.(n)</desc>
+  </programme>
+  <programme start="20200628190000 -0300" stop="20200628214000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Séries Originais</title>
+    <desc lang="pt">Informativo. Apresentado por Evaristo Costa, o programa semanal exibe documentários exclusivos, incluindo produções nacionais e também conteúdo internacional, produzido pela CNN e pela britânica BBC.(n)</desc>
+  </programme>
+  <programme start="20200628214000 -0300" stop="20200628234000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Entrevistas da Semana</title>
+    <desc lang="pt">Entrevista. Sinopse Não Disponível.(n)</desc>
+  </programme>
+  <programme start="20200628234000 -0300" stop="20200629001500 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Líderes</title>
+    <desc lang="pt">Informativo. A cada semana, Raquel Landim entrevista líderes de grandes empresas nacionais e internacionais para conhecer sua visão de negócios e do Brasil.(n)</desc>
+  </programme>
+  <programme start="20200629001500 -0300" stop="20200629011000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Documentário. O cenário perfeito para as férias não é fácil de se criar. Essa série mostra que o segredo da administração e funcionamento de hotéis espalhados pelo mundo vai além do que se vê.(n)</desc>
+  </programme>
+  <programme start="20200629011000 -0300" stop="20200629020000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Documentário. O cenário perfeito para as férias não é fácil de se criar. Essa série mostra que o segredo da administração e funcionamento de hotéis espalhados pelo mundo vai além do que se vê.(n)</desc>
+  </programme>
+  <programme start="20200629020000 -0300" stop="20200629040000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">O Ponto</title>
+    <desc lang="pt">Informativo. Programa de análise política comandado por Renata Agostini e Caio Junqueira. Semanalmente, dois convidados com pontos de vista antagônicos são entrevistados individualmente.(n)</desc>
+  </programme>
+  <programme start="20200629040000 -0300" stop="20200629060000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Agora CNN</title>
+    <desc lang="pt">Informativo. Apresentado por Muriel Porfiro, jornal traz reportagens para começar o dia com informações que importam.(n)</desc>
+  </programme>
+  <programme start="20200629060000 -0300" stop="20200629110000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN Novo Dia - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um Novo Dia começa com Rafael Colombo e Elisa Veeck no comando das discussões políticas, os rumos da economia e do mundo, além de um Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200629110000 -0300" stop="20200629130000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Live CNN Brasil - Ao Vivo</title>
+    <desc lang="pt">Informativo. Política, economia, tendências, comportamento, o que está 'trendando' nas redes sociais. É o foco no conteúdo e na interação.(n)</desc>
+  </programme>
+  <programme start="20200629130000 -0300" stop="20200629153000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Visão CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. Um fato isolado não explica o contexto. A notícia completa não tem só um lado da história. É preciso ir além. É preciso ter análise.(n)</desc>
+  </programme>
+  <programme start="20200629153000 -0300" stop="20200629183000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">CNN 360º - Ao Vivo</title>
+    <desc lang="pt">Informativo. Todos os ângulos das notícias mais importantes do dia com atualizações, debates e apurações em tempo real com Daniela Lima e Carol Nogueira.(n)</desc>
+  </programme>
+  <programme start="20200629183000 -0300" stop="20200629213000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Expresso CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. As notícias do Brasil e do mundo, em tempo real, apresentadas por Monalisa Perrone e Caio Junqueira, com informações exclusivas e análise de comentaristas, convidados e O Grande Debate.(n)</desc>
+  </programme>
+  <programme start="20200629213000 -0300" stop="20200629230000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Jornal da CNN - Ao Vivo</title>
+    <desc lang="pt">Informativo. William Waack apresenta e analisa os principais fatos do Brasil e do mundo e aprofunda os temas que foram assunto no dia.(n)</desc>
+  </programme>
+  <programme start="20200629230000 -0300" stop="20200630000000 -0300" channel="CNN Brasil HD">
+    <title lang="pt">Realidade CNN</title>
+    <desc lang="pt">Documentário. Um lugar que poucas pessoas têm trânsito livre e a informação é valiosa e secreta. Um país rico, com fácil acesso aos líderes do mundo inteiro.(n)</desc>
+  </programme>
+</tv>
