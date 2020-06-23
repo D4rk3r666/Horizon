@@ -39,7 +39,7 @@ http://lista.lorddark.club:8080/4166240063/0224790018/1018
 http://lista.lorddark.club:8080/4166240063/0224790018/1055
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Musicas",BIS HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19093
-#EXTINF:-1 tvg-id="" tvg-name="Music Box Brasil HD" tvg-logo="https://2.bp.blogspot.com/--7VScCeeHlg/Whs8cTlKC7I/AAAAAAAABZw/NqU3QsyHHVQzjO1z8nwB8LtXiD_DwaitgCLcBGAs/s1600/musicbox.png" group-title="Musicas",Music Box Brasil HD
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="https://2.bp.blogspot.com/--7VScCeeHlg/Whs8cTlKC7I/AAAAAAAABZw/NqU3QsyHHVQzjO1z8nwB8LtXiD_DwaitgCLcBGAs/s1600/musicbox.png" group-title="Musicas",Music Box Brazil HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19021
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3690-b-1579806876299.png" group-title="Variedades",TLC HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19036
@@ -51,7 +51,7 @@ http://lista.lorddark.club:8080/4166240063/0224790018/979
 http://team2.live:8000/marcelo/sHhDRwG4/138177
 #EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher HD" tvg-logo="" group-title="Variedades",SIC Mulher HD
 http://team2.live:8000/marcelo/sHhDRwG4/138049
-#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras HD" tvg-logo="" group-title="Variedades",SIC Caras HD
+#EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/SIC_CARAS.png" group-title="Variedades",SIC Caras HD
 http://team2.live:8000/marcelo/sHhDRwG4/138052
 #EXTINF:-1 tvg-id="FineLiving.eu" tvg-name="Fine Living Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fine_Living_-_Logo_2016.svg/1280px-Fine_Living_-_Logo_2016.svg.png" group-title="Variedades",Fine Living Network HD
 http://team2.live:8000/marcelo/sHhDRwG4/138176
@@ -61,7 +61,7 @@ http://lista.lorddark.club:8080/4166240063/0224790018/993
 http://lista.lorddark.club:8080/4166240063/0224790018/1493
 #EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical HD" tvg-logo="" group-title="Internacionais",SIC Radical HD
 http://team2.live:8000/marcelo/sHhDRwG4/138051
-#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Localvisao HD" tvg-logo="" group-title="Internacionais",Localvisao HD
+#EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Localvisao HD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/10/localvis%C3%A3o.png" group-title="Internacionais",Localvisao HD
 http://team2.live:8000/marcelo/sHhDRwG4/138060
 #EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Variedades",Travel Channel HD
 http://team2.live:8000/marcelo/sHhDRwG4/138181
@@ -69,13 +69,11 @@ http://team2.live:8000/marcelo/sHhDRwG4/138181
 http://lista.lorddark.club:8080/4166240063/0224790018/1057
 #EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="Variedades",OFF HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19027
-#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Variedades",Red Bull TV HD
-http://team2.live:8000/marcelo/sHhDRwG4/138185
-#EXTINF:-1 tvg-id="" tvg-name="Fuel TV HD" tvg-logo="" group-title="Variedades",Fuel TV HD
+#EXTINF:-1 tvg-id="" tvg-name="Fuel TV HD" tvg-logo="https://www.dinheirovivo.pt/wp-content/uploads/2015/10/ng3309760.jpg" group-title="Variedades",Fuel TV HD
 http://team2.live:8000/marcelo/sHhDRwG4/138099
 #EXTINF:-1 tvg-id="TorosTV.pt" tvg-name="Toros TV HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/toros-tv/toros-icon.png" group-title="Variedades",Toros TV HD
 http://team2.live:8000/marcelo/sHhDRwG4/104760
-#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3320-b-1579985481832.png" group-title="Esportes",Fish TV HD
+#EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="https://lh3.googleusercontent.com/proxy/Z34zb1Gs1cDuun64C9ks5c9Q7iE2cMYt39zj04hGgCuS8rKtug-nuXG6hgprdbIeSBT8H5-6Ab3uz4N5_wJKH01jwIOU_rQt89b9" group-title="Esportes",Fish TV HD
 http://lista.lorddark.club:8080/4166240063/0224790018/992
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3320-b-1579985481832.png" group-title="Esportes",A Bola TV HD
 http://team2.live:8000/marcelo/sHhDRwG4/138092
@@ -147,9 +145,9 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19110
 http://lista.lorddark.club:8080/4166240063/0224790018/19111
 #EXTINF:-1 tvg-id="Combate.br" tvg-name="Combate HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2000-b-1579996034451.png" group-title="Esportes",Combate HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19094
-#EXTINF:-1 tvg-id="Combate.br" tvg-name="Fight Network HD" tvg-logo="https://imgx.fubo.tv/station_logos/fight_network_m.png" group-title="Esportes",Fight Network HD
+#EXTINF:-1 tvg-id="" tvg-name="Fight Network HD" tvg-logo="https://imgx.fubo.tv/station_logos/fight_network_m.png" group-title="Esportes",Fight Network HD
 http://team2.live:8000/marcelo/sHhDRwG4/138097
-#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="" group-title="Infantil", Zoomoo HD
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="Zoomoo HD" tvg-logo="https://tectelevisao.com.br/wp-content/uploads/2019/04/zoomoo.png" group-title="Infantil", Zoomoo HD
 http://team2.live:8000/marcelo/sHhDRwG4/155152
 #EXTINF:-1 tvg-id="Tooncast.br" tvg-name="Tooncast HD" tvg-logo="" group-title="Infantil",Tooncast HD
 http://team2.live:8000/marcelo/sHhDRwG4/155135
@@ -213,7 +211,7 @@ http://team2.live:8000/marcelo/sHhDRwG4/138166
 http://lista.lorddark.club:8080/4166240063/0224790018/1010
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4590-b-1582993773721.png" group-title="Variedades",Canal Brasil HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19048
-#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brasil HD" tvg-logo="https://1.bp.blogspot.com/-WcBiD3cSvZQ/Whs8eZfrsGI/AAAAAAAABZ0/29j73tjbgb8NbsNc7t_Yv6B62FReWEC0ACLcBGAs/s1600/primebox.png" group-title="Musicas",Prime Box Brasil HD
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil HD" tvg-logo="https://1.bp.blogspot.com/-WcBiD3cSvZQ/Whs8eZfrsGI/AAAAAAAABZ0/29j73tjbgb8NbsNc7t_Yv6B62FReWEC0ACLcBGAs/s1600/primebox.png" group-title="Musicas",Prime Box Brazil HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19029
 #EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="http://st1.horizonplay.io:8080/icon/6000-b-1582993662224.png" group-title="Variedades",Curta! HD
 http://lista.lorddark.club:8080/4166240063/0224790018/18987
@@ -327,7 +325,7 @@ http://lista.lorddark.club:8080/4166240063/0224790018/967
 http://lista.lorddark.club:8080/4166240063/0224790018/19102
 #EXTINF:-1 tvg-id="Recordnews.br" tvg-name="Record News HD" tvg-logo="http://st1.horizonplay.io:8080/icon/719-b-1579977385466.png" group-title="Noticias",Record News HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19030
-#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="Noticias",CNN Brasil HD
+#EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Noticias",CNN Brasil HD
 http://lista.lorddark.club:8080/4166240063/0224790018/27004
 #EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy HD" tvg-logo="https://3.bp.blogspot.com/-Ma_dyEl5TaY/W5godW2AD1I/AAAAAAAACdE/bep0paelEeogLmqvOG6LM49hj2mXYmRxQCLcBGAs/s1600/playboy.png" group-title="Adultos",Playboy HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19046
@@ -337,7 +335,7 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19484
 http://lista.lorddark.club:8080/4166240063/0224790018/19485
 #EXTINF:-1 tvg-id="PenthouseGold.ero" tvg-name="Penthouse Gold HD" tvg-logo="https://pbs.twimg.com/media/Dv2Exi3VsAEfqkz.png" group-title="Adults",Penthouse Gold HD
 http://team2.live:8000/marcelo/sHhDRwG4/150409
-#EXTINF:-1 tvg-id="PenthouseQuickies.ero" tvg-name="Penthouse Quickies HD" tvg-logo="https://img15.lostpic.net/2019/10/20/e406cbfc21860a30219c7f57f9102e2e.png" group-title="Adults",Penthouse Quickies HD
+#EXTINF:-1 tvg-id="PenthouseQuickies.ero" tvg-name="Penthouse Quickies HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/c/c3/Penthouse_Quickies_%282019-.n.v.%29.png" group-title="Adults",Penthouse Quickies HD
 http://team2.live:8000/marcelo/sHhDRwG4/150369
 #EXTINF:-1 tvg-id="Brazzers.ero" tvg-name="Brazzers TV Europe HD" tvg-logo="" group-title="Adults",Brazzers TV Europe HD
 http://team2.live:8000/marcelo/sHhDRwG4/150357
