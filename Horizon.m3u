@@ -43,13 +43,13 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19093
 http://lista.lorddark.club:8080/4166240063/0224790018/19021
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3690-b-1579806876299.png" group-title="Variedades",TLC HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19036
-#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/HGTV_US_Logo_2015.svg" group-title="Variedades",HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/800px-HGTV_US_Logo_2015.svg.png" group-title="Variedades",HGTV HD
 http://lista.lorddark.club:8080/4166240063/0224790018/978
 #EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1160-b-1582993461792.png" group-title="Variedades",Discovery Home & Health HD
 http://lista.lorddark.club:8080/4166240063/0224790018/979
 #EXTINF:-1 tvg-id="" tvg-name="Casa e Cozinha HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/casa-cozinha/casaecozinha-white.png" group-title="Variedades",Casa e Cozinha HD
 http://team2.live:8000/marcelo/sHhDRwG4/138177
-#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e2/SIC_Mulher.svg" group-title="Variedades",SIC Mulher HD
+#EXTINF:-1 tvg-id="sicmulher.pt" tvg-name="SIC Mulher HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6a/Logo_sem_fundo_SIC_Mulher.png" group-title="Variedades",SIC Mulher HD
 http://team2.live:8000/marcelo/sHhDRwG4/138049
 #EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/SIC_CARAS.png" group-title="Variedades",SIC Caras HD
 http://team2.live:8000/marcelo/sHhDRwG4/138052
@@ -59,7 +59,7 @@ http://team2.live:8000/marcelo/sHhDRwG4/138176
 http://lista.lorddark.club:8080/4166240063/0224790018/993
 #EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24 Kitchen HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/24Kitchen.png" group-title="Internacionais",24 Kitchen HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1493
-#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/SIC_Radical_2011.svg" group-title="Internacionais",SIC Radical HD
+#EXTINF:-1 tvg-id="sicradical.pt" tvg-name="SIC Radical HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Internacionais",SIC Radical HD
 http://team2.live:8000/marcelo/sHhDRwG4/138051
 #EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Localvisao HD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/10/localvis%C3%A3o.png" group-title="Internacionais",Localvisao HD
 http://team2.live:8000/marcelo/sHhDRwG4/138060
@@ -87,7 +87,7 @@ http://lista.lorddark.club:8080/4166240063/0224790018/1037
 http://lista.lorddark.club:8080/4166240063/0224790018/989
 #EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN 2 HD" tvg-logo="https://3.bp.blogspot.com/-MG8PpAyafH8/W4rTLrZ2jNI/AAAAAAAACYA/QaagFxYJVr41E4e-M1x_o0a777ofNOwOwCLcBGAs/s1600/Espn%2B2.png" group-title="Esportes",ESPN 2 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/990
-#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/espn_brasil.png" group-title="Esportes",ESPN Brasil HD
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN Brasil HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/espn_brasil.png" group-title="Esportes",ESPN Brasil HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19097
 #EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN Extra HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4465-b-1579912929184.png" group-title="Esportes",ESPN Extra HD
 http://lista.lorddark.club:8080/4166240063/0224790018/18997
@@ -109,25 +109,25 @@ http://lista.lorddark.club:8080/4166240063/0224790018/1378
 http://lista.lorddark.club:8080/4166240063/0224790018/1379
 #EXTINF:-1 tvg-id="elevensports6.pt" tvg-name="Eleven Sports 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png" group-title="Esportes Internacionais",Eleven Sports 6 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1380
-#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport TV + HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/sport%20tv.png" group-title="Esportes Internacionais",Sport TV + HD
+#EXTINF:-1 tvg-id="SportTVplus.pt" tvg-name="Sport TV + HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/sport%20tv.png" group-title="Esportes Internacionais",Sport TV + HD
 http://team2.live:8000/marcelo/sHhDRwG4/138063
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 1 HD
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 1 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1385
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 2 HD
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 2 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1388
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 3 HD
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 3 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1391
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 4 HD
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="Sport TV 4 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 4 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1394
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 5 HD
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/sport%20tv.png" group-title="Esportes Internacionais",Sport TV 5 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1397
 #EXTINF:-1 tvg-id="NBA.pt" tvg-name="Sport TV NBA HD" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png" group-title="Esportes Internacionais",Sport TV NBA HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1398
 #EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="Esportes Internacionais",Canal 11 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1399
-#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/Eurosport-1-symbol.png" group-title="Esportes Internacionais",Eurosport 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Eurosport-1-symbol.png" group-title="Esportes Internacionais",Eurosport 1 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1410
-#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/Eurosport-2-symbol.png" group-title="Esportes Internacionais",Eurosport 2 HD
+#EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Eurosport-2-symbol.png" group-title="Esportes Internacionais",Eurosport 2 HD
 http://team2.live:8000/marcelo/sHhDRwG4/138096
 #EXTINF:-1 tvg-id="Premiereclubes.br" tvg-name="Premiere Clubes HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="Premiere",Premiere Clubes HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19112
@@ -191,7 +191,7 @@ http://lista.lorddark.club:8080/4166240063/0224790018/981
 http://lista.lorddark.club:8080/4166240063/0224790018/982
 #EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="Discovery Turbo HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1280-b-1582855418216.png" group-title="Documentarios",Discovery Turbo HD
 http://lista.lorddark.club:8080/4166240063/0224790018/18993
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/motorvision.png" group-title="Variedades",Motorvision HD
+#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/motorvision.png" group-title="Variedades",Motorvision HD
 http://team2.live:8000/marcelo/sHhDRwG4/138101
 #EXTINF:-1 tvg-id="Discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1024px-World_Discovery_HD_logo.svg.png" group-title="Documentarios",Discovery World HD
 http://lista.lorddark.club:8080/4166240063/0224790018/18994
@@ -217,13 +217,13 @@ http://lista.lorddark.club:8080/4166240063/0224790018/18987
 http://lista.lorddark.club:8080/4166240063/0224790018/18978
 #EXTINF:-1 tvg-id="Lifetime.br" tvg-name="Lifetime HD" tvg-logo="https://www.pilgrimstudios.com/wp-content/uploads/2013/07/logo-lifetime.png" group-title="Variedades",Lifetime HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1011
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/A%26E.png" group-title="Filmes e Series",A&E HD
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/AE.png" group-title="Filmes e Series",A&E HD
 http://lista.lorddark.club:8080/4166240063/0224790018/963
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://www.spinoff.com.br/wp-content/uploads/AMC_logo_20131.png" group-title="Filmes e Series",AMC HD
 http://lista.lorddark.club:8080/4166240063/0224790018/964
-#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film&Arts HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/Film%26arts.png" group-title="Filmes e Series",Film&Arts HD
+#EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film&Arts HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Filmarts.png" group-title="Filmes e Series",Film&Arts HD
 http://lista.lorddark.club:8080/4166240063/0224790018/513
-#EXTINF:-1 tvg-id="EuroChannel.pt" tvg-name="Eurochannel HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/eurochannel-logo.png" group-title="Filmes e Series",Eurochannel HD
+#EXTINF:-1 tvg-id="EuroChannel.pt" tvg-name="Eurochannel HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/eurochannel-logo.png" group-title="Filmes e Series",Eurochannel HD
 http://team2.live:8000/marcelo/sHhDRwG4/138128
 #EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9812-b-1583337084222.png" group-title="Internacionais",Cinemundo HD
 http://team2.live:8000/marcelo/sHhDRwG4/138123
@@ -233,17 +233,17 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19004
 http://lista.lorddark.club:8080/4166240063/0224790018/19099
 #EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies HD" tvg-logo="https://foxmedia.pt/wp-content/uploads/2015/10/movies.png" group-title="Internacionais",FOX Movies HD
 http://team2.live:8000/marcelo/sHhDRwG4/138125
-#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/Fox_Crime.png" group-title="Internacionais",FOX Crime HD
+#EXTINF:-1 tvg-id="foxcrime.pt" tvg-name="FOX Crime HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Fox_Crime.png" group-title="Internacionais",FOX Crime HD
 http://team2.live:8000/marcelo/sHhDRwG4/138141
-#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX Comedy HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/Fox_Comedy_(2014-.n.v.).png" group-title="Internacionais",FOX Comedy HD
+#EXTINF:-1 tvg-id="FOXComedy.pt" tvg-name="FOX Comedy HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Fox_Comedy_2014-.n.v..png" group-title="Internacionais",FOX Comedy HD
 http://team2.live:8000/marcelo/sHhDRwG4/138139
-#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/fox%20premium1.png" group-title="Filmes e Series",FOX Premium 1 HD
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="FOX Premium 1 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/fox-premium1.png" group-title="Filmes e Series",FOX Premium 1 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19001
-#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX Premium 2 HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/foxpremium2.png" group-title="Filmes e Series",FOX Premium 2 HD
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX Premium 2 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/foxpremium2.png" group-title="Filmes e Series",FOX Premium 2 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19002
 #EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9813-b-1583341929617.png" group-title="Internacionais",Hollywood HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1423
-#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/NOSStudios.png" group-title="Internacionais",NOS Studios HD
+#EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/NOSStudios.png" group-title="Internacionais",NOS Studios HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1420
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2220-b-1579915765732.png" group-title="Filmes e Series",AXN HD
 http://lista.lorddark.club:8080/4166240063/0224790018/966
@@ -263,11 +263,11 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19041
 http://lista.lorddark.club:8080/4166240063/0224790018/19043
 #EXTINF:-1 tvg-id="Tnthd.br" tvg-name="TNT HD" tvg-logo="https://4.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhBw/iAESgIKgW9c/s1600/tnt_hd.png" group-title="Filmes e Series",TNT HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19037
-#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/TNT%20Series.png" group-title="Filmes e Series",TNT Series HD
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TNT-Series.png" group-title="Filmes e Series",TNT Series HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19038
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/Paramount.png" group-title="Filmes e Series",Paramount HD
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Paramount.png" group-title="Filmes e Series",Paramount HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19028
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/1200px-Logo_Studio_Universal.svg.png" group-title="Filmes e Series",Studio Universal HD
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/1200px-Logo_Studio_Universal.svg.png" group-title="Filmes e Series",Studio Universal HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19032
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SyFy HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2740-b-1579978686526.png" group-title="Filmes e Series",SyFy HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19033
@@ -275,17 +275,17 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19033
 http://lista.lorddark.club:8080/4166240063/0224790018/19034
 #EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2320-b-1579811690102.png" group-title="Filmes e Series",Comedy Central HD
 http://lista.lorddark.club:8080/4166240063/0224790018/976
-#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/TC%20Premium.png" group-title="Rede Telecine",Telecine Premium HD
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TC-Premium.png" group-title="Rede Telecine",Telecine Premium HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19120
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/TCPipoca.png" group-title="Rede Telecine",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TCPipoca.png" group-title="Rede Telecine",Telecine Pipoca HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19119
-#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/TCAction.png" group-title="Rede Telecine",Telecine Action HD
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TCAction.png" group-title="Rede Telecine",Telecine Action HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19117
-#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/TCFun.png" group-title="Rede Telecine",Telecine Fun HD
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="Telecine Fun HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TCFun.png" group-title="Rede Telecine",Telecine Fun HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19118
-#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/TCTouch.png" group-title="Rede Telecine",Telecine Touch HD
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="Telecine Touch HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TCTouch.png" group-title="Rede Telecine",Telecine Touch HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19121
-#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/TCCult.png" group-title="Rede Telecine",Telecine Cult HD
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="Telecine Cult HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TCCult.png" group-title="Rede Telecine",Telecine Cult HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19035
 #EXTINF:-1 tvg-id="tvc1.pt" tvg-name="TV Cine TOP HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="Internacionais",TV Cine TOP HD
 http://team2.live:8000/marcelo/sHhDRwG4/138113
@@ -301,11 +301,11 @@ http://lista.lorddark.club:8080/4166240063/0224790018/18985
 http://lista.lorddark.club:8080/4166240063/0224790018/19105
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="Hbo 2 HD" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Rede HBO",Hbo 2 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19104
-#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/HBO_Plus.png" group-title="Rede HBO",HBO Plus HD
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO Plus HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/HBO_Plus.png" group-title="Rede HBO",HBO Plus HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19009
-#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/HBO_Family_logo.png" group-title="Rede HBO",HBO Family HD
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO Family HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/HBO_Family_logo.png" group-title="Rede HBO",HBO Family HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19008
-#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://github.com/D4rk3r666/Horizon/blob/master/HBO_signature.png" group-title="Rede HBO",HBO Signature HD
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/HBO_signature.png" group-title="Rede HBO",HBO Signature HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19010
 #EXTINF:-1 tvg-id="Max.br" tvg-name="HBO Mundi HD" tvg-logo="https://canaismax.com/img/canais/e7a60609d36071d225eae42151773901.png" group-title="Rede HBO",HBO Mundi HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19014
