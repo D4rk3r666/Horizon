@@ -5,6 +5,12 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19050
 http://lista.lorddark.club:8080/4166240063/0224790018/19050
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4370-b-1579989472915.png" group-title="Canais Abertos",SBT HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19113
+#EXTINF:-1 tvg-id="TVIFiccao.pt" tvg-name="TVI Ficção HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/TVI_fic%C3%A7%C3%A3o.png" group-title="Canais Abertos",TVI Ficção HD
+http://team2.live:8000/marcelo/sHhDRwG4/138047
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI HD" tvg-logo="https://vignette.wikia.nocookie.net/tvi/images/b/bc/Tvi_logo.png" group-title="Canais Abertos",TVI HD
+http://team2.live:8000/marcelo/sHhDRwG4/138037
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil HD" tvg-logo="https://4.bp.blogspot.com/-ON3tREFD8_c/Wg7yF5SXJ5I/AAAAAAAABJU/xoNBzRqRixwV4V6mrI8FZgf_JBDWs6-hgCPcBGAYYCw/s1600/tvbrasil.png" group-title="CANAIS NITRO",TV Brasil HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10039659
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV Cultura HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4330-b-1579377755815.png" group-title="Canais Abertos",TV Cultura HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19049
 #EXTINF:-1 tvg-id="Futura.br" tvg-name="Futura HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4545-b-1580151274633.png" group-title="Canais Abertos",Futura HD
@@ -17,6 +23,10 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19068
 http://lista.lorddark.club:8080/4166240063/0224790018/19090
 #EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV HD" tvg-logo="https://brandyourself.pt/wp-content/uploads/2018/09/CM_TV_logo.png" group-title="Canais Abertos",CMTV HD
 http://team2.live:8000/marcelo/sHhDRwG4/138044
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="Rede Vida HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png" group-title="CANAIS NITRO",Rede Vida HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10040812
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV Novo Tempo HD" tvg-logo="https://imagensbrasil.org/images/2020/06/27/tv-novo-tempo.md.png" group-title="CANAIS NITRO",TV Novo Tempo HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10040836
 #EXTINF:-1 tvg-id="+globosathd.br" tvg-name="Mais Globosat HD" tvg-logo="http://st1.horizonplay.io:8080/icon/122-b-1580148951264.png" group-title="Variedades",Mais Globosat HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19047
 #EXTINF:-1 tvg-id="Viva.br" tvg-name="Viva HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3782-b-1579668484616.png" group-title="Variedades",Viva HD
@@ -25,20 +35,54 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19122
 http://lista.lorddark.club:8080/4166240063/0224790018/19006
 #EXTINF:-1 tvg-id="Trutv.br" tvg-name="TruTV HD" tvg-logo="https://images.squarespace-cdn.com/content/v1/57d840b62994cadff8ee9df0/1479696165751-W2J51N57K7OW4O1ISC36/ke17ZwdGBToddI8pDm48kHHDm6Ip_a2bK61fHY1vqvhZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7TtM594zIdQAwli_U78u76KDB8rgSqD7IZFaPXQ3UfXGQ1Z3uu63lGg8553SkbxuIw/trutv.png" group-title="Variedades",TruTV HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19363
+#EXTINF:-1 tvg-id="TVIReality.pt" tvg-name="TVI Reality HD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="Variedades",TVI Reality HD
+http://team2.live:8000/marcelo/sHhDRwG4/138054
 #EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2934-b-1579838797731.png" group-title="Variedades",E! HD
 http://lista.lorddark.club:8080/4166240063/0224790018/18995
 #EXTINF:-1 tvg-id="Foxlife.br" tvg-name="FOX Life HD" tvg-logo="https://i0.wp.com/espalhafactos.com/wp-content/uploads/2012/08/FOX-Life-logo.png" group-title="Filmes e Series",FOX Life HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19000
-#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3480-b-1579644123549.png" group-title="Musicas",MTV HD
-http://lista.lorddark.club:8080/4166240063/0224790018/1017
-#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/170px-MTV_Live_HD_2017_logo.svg.png" group-title="Musicas",MTV Live HD
-http://lista.lorddark.club:8080/4166240063/0224790018/19019
 #EXTINF:-1 tvg-id="Multishow.br" tvg-name="Multishow HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3550-b-1579644260937.png" group-title="Musicas",Multishow HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1018
-#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3745-b-1580158818496.png" group-title="Musicas",VH1 HD
-http://lista.lorddark.club:8080/4166240063/0224790018/1055
 #EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-bis-logo-1.png" group-title="Musicas",BIS HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19093
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HD" tvg-logo="https://imagensbrasil.org/images/2020/06/26/MTV-BR.png" group-title="Musicas",MTV HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1017
+#EXTINF:-1 tvg-id="MTVBrandNew.nl" tvg-name="MTV Brand New HD" tvg-logo="https://imagensbrasil.org/images/2020/06/27/mtv-brand-new.png" group-title="Musicas",MTV Brand New HD
+http://team2.live:8000/marcelo/sHhDRwG4/158759
+#EXTINF:-1 tvg-id="" tvg-name="MTV Live HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MTV_Live_HD_2017_logo.svg/170px-MTV_Live_HD_2017_logo.svg.png" group-title="Musicas",MTV Live HD
+http://lista.lorddark.club:8080/4166240063/0224790018/19019
+#EXTINF:-1 tvg-id="MTVClassic.uk" tvg-name="MTV Classic HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1102.1508556416.png" group-title="Musicas",MTV Classic HD
+http://team2.live:8000/marcelo/sHhDRwG4/158755
+#EXTINF:-1 tvg-id="MTVHits.uk" tvg-name="MTV Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png" group-title="Musicas",MTV Hits HD
+http://team2.live:8000/marcelo/sHhDRwG4/158754
+#EXTINF:-1 tvg-id="MTVRocks.uk" tvg-name="MTV Rocks HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/MTV_Rocks_2017_logo.svg/1200px-MTV_Rocks_2017_logo.svg.png" group-title="Musicas",MTV Rocks HD
+http://team2.live:8000/marcelo/sHhDRwG4/158752
+#EXTINF:-1 tvg-id="MTVBase.uk" tvg-name="MTV Base HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/MTV_Base_2017_logo.svg/1200px-MTV_Base_2017_logo.svg.png" group-title="Musicas",MTV Base HD
+http://team2.live:8000/marcelo/sHhDRwG4/158757
+#EXTINF:-1 tvg-id="MTVOMG.uk" tvg-name="MTV Pride HD" tvg-logo="https://imagensbrasil.org/images/2020/06/26/MTV-Pride.png" group-title="Musicas",MTV Pride HD
+http://team2.live:8000/marcelo/sHhDRwG4/158753
+#EXTINF:-1 tvg-id="MTVDance.uk" tvg-name="MTV Club HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/7/71/MTV_Club_%282018-.n.v.%29.png" group-title="Musicas",MTV Club HD
+http://team2.live:8000/marcelo/sHhDRwG4/154201
+#EXTINF:-1 tvg-id="MTVMusic.eu" tvg-name="MTV Music HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/MTV_Music_2017.png" group-title="Musicas",MTV Music HD
+http://team2.live:8000/marcelo/sHhDRwG4/158758
+#EXTINF:-1 tvg-id="MTVMusic24.nl" tvg-name="MTV Music 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/MTV_Music_24_New.png" group-title="Musicas",MTV Music 24 HD
+http://team2.live:8000/marcelo/sHhDRwG4/154411
+#EXTINF:-1 tvg-id="VH1.br" tvg-name="VH1 HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3745-b-1580158818496.png" group-title="Musicas",VH1 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/1055
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-name="Trace Urban HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Trace_Urban_logo_2010.svg/1200px-Trace_Urban_logo_2010.svg.png" group-title="Musicas",Trace Urban HD
+http://team2.live:8000/marcelo/sHhDRwG4/159349
+#EXTINF:-1 tvg-id="TraceToca.fr" tvg-name="Trace Toca HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/23/Trace_Toca_2014_logo.png" group-title="Musicas",Trace Toca HD
+http://team2.live:8000/marcelo/sHhDRwG4/159347
+#EXTINF:-1 tvg-id="TraceTropical.fr" tvg-name="Trace Caribbean HD" tvg-logo="https://br.trace.company/wp-content/uploads//2020/06/TRACE-CARIBBEAN.png" group-title="Musicas",Trace Caribbean HD
+http://team2.live:8000/marcelo/sHhDRwG4/159348
+#EXTINF:-1 tvg-id="TraceNaija.fr" tvg-name="Trace Latina HD" tvg-logo="https://br.trace.company/wp-content/uploads//2018/09/TRACE-LATINA-LOGO-WEB-1.png" group-title="Musicas",Trace Latina HD
+http://team2.live:8000/marcelo/sHhDRwG4/159345
+#EXTINF:-1 tvg-id="TraceAFRICA.fr" tvg-name="Trace Africa HD" tvg-logo="https://zimbuzz.co.zw/wp-content/uploads/2016/09/Trace-launching-three-African-music-channels.png" group-title="Musicas",Trace Africa HD
+http://team2.live:8000/marcelo/sHhDRwG4/159343
+#EXTINF:-1 tvg-id="TraceKitoko.fr" tvg-name="Trace Kitoko HD" tvg-logo="https://br.trace.company/wp-content/uploads//2017/08/TRACE-logo-kitoko-01-1.png" group-title="Musicas",Trace Kitoko HD
+http://team2.live:8000/marcelo/sHhDRwG4/159342
+#EXTINF:-1 tvg-id="TraceNaija.fr" tvg-name="Trace Naija HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/4/46/Trace_Naija_%282016-.n.v.%29.png" group-title="Musicas",Trace Naija HD
+http://team2.live:8000/marcelo/sHhDRwG4/159346
 #EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="https://2.bp.blogspot.com/--7VScCeeHlg/Whs8cTlKC7I/AAAAAAAABZw/NqU3QsyHHVQzjO1z8nwB8LtXiD_DwaitgCLcBGAs/s1600/musicbox.png" group-title="Musicas",Music Box Brazil HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19021
 #EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3690-b-1579806876299.png" group-title="Variedades",TLC HD
@@ -53,6 +97,8 @@ http://team2.live:8000/marcelo/sHhDRwG4/138177
 http://team2.live:8000/marcelo/sHhDRwG4/138049
 #EXTINF:-1 tvg-id="SicCaras.pt" tvg-name="SIC Caras HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2d/SIC_CARAS.png" group-title="Variedades",SIC Caras HD
 http://team2.live:8000/marcelo/sHhDRwG4/138052
+#EXTINF:-1 tvg-id="Fashion.br" tvg-name="Fashion TV HD" tvg-logo="https://i.imgur.com/NozfBDJ.png" group-title="CANAIS NITRO",Fashion TV HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10039504
 #EXTINF:-1 tvg-id="FineLiving.eu" tvg-name="Fine Living Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Fine_Living_-_Logo_2016.svg/1280px-Fine_Living_-_Logo_2016.svg.png" group-title="Variedades",Fine Living Network HD
 http://team2.live:8000/marcelo/sHhDRwG4/138176
 #EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="Food Network HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3380-b-1580150644595.png" group-title="Variedades",Food Network HD
@@ -63,6 +109,8 @@ http://lista.lorddark.club:8080/4166240063/0224790018/1493
 http://team2.live:8000/marcelo/sHhDRwG4/138051
 #EXTINF:-1 tvg-id="Localvisao.pt" tvg-name="Localvisao HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/LOCALVISAO.png" group-title="Internacionais",Localvisao HD
 http://team2.live:8000/marcelo/sHhDRwG4/138060
+#EXTINF:-1 tvg-id="TravelLiving.br" tvg-name="Travel Box Brazil HD" tvg-logo="https://3.bp.blogspot.com/-s9_UPG6qXdg/Wi6bTSn66gI/AAAAAAAABto/sTerA8m40hwIdcTaUopYySkMJbd7niF7QCLcBGAs/s1600/travelbox.png" group-title="VARIEDADES",Travel Box Brazil HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/17284
 #EXTINF:-1 tvg-id="TravelChannel.pt" tvg-name="Travel Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Travel_Channel_-_Logo.svg/1200px-Travel_Channel_-_Logo.svg.png" group-title="Variedades",Travel Channel HD
 http://team2.live:8000/marcelo/sHhDRwG4/138181
 #EXTINF:-1 tvg-id="Woohoo.br" tvg-name="Woohoo HD" tvg-logo="https://canaismax.com/img/canais/8b3f422e90f1cbb5df8f9d55d7380d8e.png" group-title="Variedades",Woohoo HD
@@ -75,6 +123,8 @@ http://team2.live:8000/marcelo/sHhDRwG4/138099
 http://team2.live:8000/marcelo/sHhDRwG4/104760
 #EXTINF:-1 tvg-id="Fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3320-b-1579985481832.png" group-title="Esportes",Fish TV HD
 http://lista.lorddark.club:8080/4166240063/0224790018/992
+#EXTINF:-1 tvg-id="DogTV.pt" tvg-name="DOG TV HD" tvg-logo="https://i.imgur.com/svOeXXj.png" group-title="CANAIS NITRO",DOG TV HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10039490
 #EXTINF:-1 tvg-id="ABolaTV.pt" tvg-name="A Bola TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/A_Bola_TV_logo.png" group-title="Esportes",A Bola TV HD
 http://team2.live:8000/marcelo/sHhDRwG4/138092
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SporTV HD" tvg-logo="http://st1.horizonplay.io:8080/icon/1670-b-1579910533798.png" group-title="Esportes",SporTV HD
@@ -122,9 +172,9 @@ http://team2.live:8000/marcelo/sHhDRwG4/138071
 #EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/sport-tv.png" group-title="Esportes Internacionais",Sport TV 5 HD
 http://team2.live:8000/marcelo/sHhDRwG4/138073
 #EXTINF:-1 tvg-id="NBA.pt" tvg-name="Sport TV NBA HD" tvg-logo="https://a4.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fmisc_logos%2F500%2Fnba.png" group-title="Esportes Internacionais",Sport TV NBA HD
-http://lista.lorddark.club:8080/4166240063/0224790018/1398
+http://team2.live:8000/marcelo/sHhDRwG4/138093
 #EXTINF:-1 tvg-id="" tvg-name="Canal 11 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1200px-Logo_Canal_11_FPF.svg.png" group-title="Esportes Internacionais",Canal 11 HD
-http://lista.lorddark.club:8080/4166240063/0224790018/1399
+http://team2.live:8000/marcelo/sHhDRwG4/138077
 #EXTINF:-1 tvg-id="Eurosport1.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Eurosport-1-symbol.png" group-title="Esportes Internacionais",Eurosport 1 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1410
 #EXTINF:-1 tvg-id="Eurosport2.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Eurosport-2-symbol.png" group-title="Esportes Internacionais",Eurosport 2 HD
@@ -205,6 +255,8 @@ http://lista.lorddark.club:8080/4166240063/0224790018/1008
 http://lista.lorddark.club:8080/4166240063/0224790018/1009
 #EXTINF:-1 tvg-id="Blaze.it" tvg-name="Blaze HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/78/BlazeLogo-1-.svg/1200px-BlazeLogo-1-.svg.png" group-title="Documentarios",Blaze HD
 http://team2.live:8000/marcelo/sHhDRwG4/138166
+#EXTINF:-1 tvg-id="CrimeInvestigation.pt" tvg-name="Crime+Investigation HD" tvg-logo="https://oboposter.prod.ukv.dmdsdp.com/ImagesEPG/categories/crime_and_investigation.png" group-title="Internacionais",Crime+Investigation HD
+http://team2.live:8000/marcelo/sHhDRwG4/138160
 #EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - Investigation Discovery HD" tvg-logo="http://st1.horizonplay.io:8080/icon/4799-b-1579640791176.png" group-title="Documentarios",ID - Investigation Discovery HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1010
 #EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="Canal Brasil HD" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/canal-brasil-logo-7.png" group-title="Variedades",Canal Brasil HD
@@ -222,14 +274,16 @@ http://lista.lorddark.club:8080/4166240063/0224790018/963
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://www.spinoff.com.br/wp-content/uploads/AMC_logo_20131.png" group-title="Filmes e Series",AMC HD
 http://lista.lorddark.club:8080/4166240063/0224790018/964
 #EXTINF:-1 tvg-id="FilmArts.br" tvg-name="Film&Arts HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Filmarts.png" group-title="Filmes e Series",Film&Arts HD
-http://lista.lorddark.club:8080/4166240063/0224790018/513
-#EXTINF:-1 tvg-id="EuroChannel.pt" tvg-name="Eurochannel HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/eurochannel-logo.png" group-title="Filmes e Series",Eurochannel HD
-http://team2.live:8000/marcelo/sHhDRwG4/138128
+http://akamaizedx.com:80/CasaColina/Qwerty10/10039506
+#EXTINF:-1 tvg-id="Eurochannel.br" tvg-name="Eurochannel HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/eurochannel-logo.png" group-title="Filmes e Series",Eurochannel HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10039502
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES E SERIES",TCM HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10027044
 #EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9812-b-1583337084222.png" group-title="Internacionais",Cinemundo HD
 http://team2.live:8000/marcelo/sHhDRwG4/138123
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Filmes e Series",FX HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19004
-#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2380-b-1579913535139.png" group-title="Filmes e Series",FOX HD
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="FOX Channel HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2380-b-1579913535139.png" group-title="Filmes e Series",FOX Channel HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19099
 #EXTINF:-1 tvg-id="FoxMovies.pt" tvg-name="FOX Movies HD" tvg-logo="https://foxmedia.pt/wp-content/uploads/2015/10/movies.png" group-title="Internacionais",FOX Movies HD
 http://team2.live:8000/marcelo/sHhDRwG4/138125
@@ -241,7 +295,7 @@ http://team2.live:8000/marcelo/sHhDRwG4/138139
 http://lista.lorddark.club:8080/4166240063/0224790018/19001
 #EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="FOX Premium 2 HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/foxpremium2.png" group-title="Filmes e Series",FOX Premium 2 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19002
-#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Hollywood HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9813-b-1583341929617.png" group-title="Internacionais",Hollywood HD
+#EXTINF:-1 tvg-id="hollywood.pt" tvg-name="Canal Hollywood HD" tvg-logo="http://st1.horizonplay.io:8080/icon/9813-b-1583341929617.png" group-title="Internacionais",Canal Hollywood HD
 http://team2.live:8000/marcelo/sHhDRwG4/138127
 #EXTINF:-1 tvg-id="NOSStudios.pt" tvg-name="NOS Studios HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/NOSStudios.png" group-title="Internacionais",NOS Studios HD
 http://lista.lorddark.club:8080/4166240063/0224790018/1420
@@ -259,13 +313,13 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19017
 http://lista.lorddark.club:8080/4166240063/0224790018/19031
 #EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Filmes e Series",Universal TV HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19041
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3120-b-1579381491489.png" group-title="Filmes e Series",Warner HD
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://st1.horizonplay.io:8080/icon/3120-b-1579381491489.png" group-title="Filmes e Series",Warner Channel HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19043
 #EXTINF:-1 tvg-id="Tnthd.br" tvg-name="TNT HD" tvg-logo="https://4.bp.blogspot.com/-4nPcTUkoq4A/UuKeHfN-8eI/AAAAAAAAhBw/iAESgIKgW9c/s1600/tnt_hd.png" group-title="Filmes e Series",TNT HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19037
 #EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT Series HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TNT-Series.png" group-title="Filmes e Series",TNT Series HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19038
-#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Paramount.png" group-title="Filmes e Series",Paramount HD
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="Paramount Channel HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/Paramount.png" group-title="Filmes e Series",Paramount Channel HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19028
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/1200px-Logo_Studio_Universal.svg.png" group-title="Filmes e Series",Studio Universal HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19032
@@ -277,7 +331,7 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19034
 http://lista.lorddark.club:8080/4166240063/0224790018/976
 #EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="Telecine Premium HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TC-Premium.png" group-title="Rede Telecine",Telecine Premium HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19120
-#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TCPipoca.png" group-title="Rede Telecine",Telecine Pipoca HD
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TeleCine Pipoca HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TCPipoca.png" group-title="Rede Telecine",TeleCine Pipoca HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19119
 #EXTINF:-1 tvg-id="Tcaction.br" tvg-name="Telecine Action HD" tvg-logo="https://imagensbrasil.org/images/2020/06/25/TCAction.png" group-title="Rede Telecine",Telecine Action HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19117
@@ -297,7 +351,7 @@ http://team2.live:8000/marcelo/sHhDRwG4/138117
 http://lista.lorddark.club:8080/4166240063/0224790018/1431
 #EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://st1.horizonplay.io:8080/icon/2280-b-1579811316159.png" group-title="Filmes e Series",Cinemax HD
 http://lista.lorddark.club:8080/4166240063/0224790018/18985
-#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://www.pngkit.com/png/full/849-8491421_hbo-logo-grey-mlb-advanced-media-logo.png" group-title="Rede HBO",HBO HD
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.ibb.co/1GsjwCt/hbo.png" group-title="Rede HBO",HBO HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19105
 #EXTINF:-1 tvg-id="Hbo2.br" tvg-name="Hbo 2 HD" tvg-logo="https://canaismax.com/img/canais/e4b9b54b7c4923da3c0f3537baf894d2.png" group-title="Rede HBO",Hbo 2 HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19104
@@ -313,8 +367,50 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19014
 http://lista.lorddark.club:8080/4166240063/0224790018/19016
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme HD" tvg-logo="https://canaismax.com/img/canais/0e05114d7f0bcdbc6b537219e42f2f7b.png" group-title="Rede HBO",HBO Xtreme HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19015
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 1 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 1 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44914
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 2 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 2 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44915
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 3 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 3 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44916
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 4 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 4 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44917
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 5 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 5 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44918
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 6 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 6 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44919
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 7 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 7 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44920
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 8 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 8 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44921
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 9 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 9 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44922
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Sky 10 HD" tvg-logo="https://i.imgur.com/AAPVmNY.png" group-title="Cine HZ",Cine Sky 10 HD
+http://lista.lorddark.club:8080/4166240063/0224790018/44923
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 1 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 1 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041048
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 2 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 2 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041049
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 3 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 3 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041050
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 4 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 4 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041051
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 5 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 5 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041052
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 6 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 6 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041053
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 7 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 7 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041054
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 8 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 8 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041055
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 9 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 9 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041056
+#EXTINF:-1 tvg-id="TVSeries.pt" tvg-name="Cine Pipoca 10 HD" tvg-logo="https://www.celsonunes.com.br/wp-content/uploads/2018/06/logo-popcorn.png" group-title="FILMES E SERIES",Cine Pipoca 10 HD
+http://akamaizedx.com:80/CasaColina/Qwerty10/10041057
 #EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK World HD" tvg-logo="https://1.bp.blogspot.com/-9dL1wH2tQ2g/WhtB3XBUECI/AAAAAAAABao/VbSUSiMsiok7y5ndcw_QNHRvJWaM8_xvACLcBGAs/s1600/nhkworld.png" group-title="Variedades",NHK World HD
 http://lista.lorddark.club:8080/4166240063/0224790018/44911
+#EXTINF:-1 tvg-id="TVI24.pt" tvg-name="TVI 24 HD" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvi24.png" group-title="Noticias",TVI 24 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138042
 #EXTINF:-1 tvg-id="sicnoticias.pt" tvg-name="SIC Notícias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fa/SICNWhite.png" group-title="Noticias",SIC Notícias HD
 http://team2.live:8000/marcelo/sHhDRwG4/138039
 #EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND News HD" tvg-logo="https://4.bp.blogspot.com/-LGTMvsfdr10/WiAXSRHRiVI/AAAAAAAABec/CRS85l-hVWop_vSe-oOI9ppTPIayt7nYgCLcBGAs/s1600/bandnews.png" group-title="Noticias",BAND News HD
@@ -325,7 +421,13 @@ http://lista.lorddark.club:8080/4166240063/0224790018/19102
 http://lista.lorddark.club:8080/4166240063/0224790018/19030
 #EXTINF:-1 tvg-id="" tvg-name="CNN Brasil HD" tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="Noticias",CNN Brasil HD
 http://lista.lorddark.club:8080/4166240063/0224790018/27004
-#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy HD" tvg-logo="https://3.bp.blogspot.com/-Ma_dyEl5TaY/W5godW2AD1I/AAAAAAAACdE/bep0paelEeogLmqvOG6LM49hj2mXYmRxQCLcBGAs/s1600/playboy.png" group-title="Adultos",Playboy HD
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RTP 1 HD" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP1_negativo_horiz_RGB.png" group-title="Noticias",RTP 1 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138031
+#EXTINF:-1 tvg-id="rtp2.pt" tvg-name="RTP 2 HD" tvg-logo="https://media.rtp.pt/empresa/wp-content/uploads/sites/31/2015/07/RTP2_positivo_horiz_RGB.png" group-title="Noticias",RTP 2 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138033
+#EXTINF:-1 tvg-id="RTP3.pt" tvg-name="RTP 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" group-title="Noticias",RTP 3 HD
+http://team2.live:8000/marcelo/sHhDRwG4/138040
+#EXTINF:-1 tvg-id="Playboytv.br" tvg-name="Playboy TV HD" tvg-logo="https://3.bp.blogspot.com/-Ma_dyEl5TaY/W5godW2AD1I/AAAAAAAACdE/bep0paelEeogLmqvOG6LM49hj2mXYmRxQCLcBGAs/s1600/playboy.png" group-title="Adultos",Playboy TV HD
 http://lista.lorddark.club:8080/4166240063/0224790018/19046
 #EXTINF:-1 tvg-id="Sexzone.br" tvg-name="Sextreme" tvg-logo="http://st1.horizonplay.io:8080/icon/5450-b-1582581141727.png" group-title="Adultos",Sextreme
 http://lista.lorddark.club:8080/4166240063/0224790018/19484
@@ -338,12 +440,23 @@ http://team2.live:8000/marcelo/sHhDRwG4/150369
 #EXTINF:-1 tvg-id="Brazzers.ero" tvg-name="Brazzers TV Europe HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/1/18/Brazzers_TV_%282014-.n.v.%29.png" group-title="Adults",Brazzers TV Europe HD
 http://team2.live:8000/marcelo/sHhDRwG4/150357
 #EXTINF:-1 tvg-id="RedlightHD.ero" tvg-name="RedLight HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/3/39/Redlight_HD_%282010-.n.v.%29.png" group-title="Adults",RedLight HD
-http://team2.live:8000/marcelo/sHhDRwG4/150356
+http://lista.lorddark.club:8080/4166240063/0224790018/14964
 #EXTINF:-1 tvg-id="PrivateTV.ero" tvg-name="Private HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/de/Private_TV_%282014-.n.v.%29.png" group-title="Adults",Private HD
-http://team2.live:8000/marcelo/sHhDRwG4/150354
-#EXTINF:-1 tvg-id="BlueHustler.ero" tvg-name="Blue Hustler HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/8/80/Blue_Hustler_%282001-.n.v.%29.png" group-title="Adults",Blue Hustler HD
+http://lista.lorddark.club:8080/4166240063/0224790018/14968
+#EXTINF:-1 tvg-id="PinkXTV.ero" tvg-name="Pink Erotic" tvg-logo="https://imagensbrasil.org/images/2020/06/26/Pink-erotic.png" group-title="Adults",Pink Erotic
 http://team2.live:8000/marcelo/sHhDRwG4/150352
 #EXTINF:-1 tvg-id="venus.pt" tvg-name="Venus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Canal_Venus_logo.svg/1200px-Canal_Venus_logo.svg.png" group-title="Adults",Venus
-http://team2.live:8000/marcelo/sHhDRwG4/150347
-#EXTINF:-1 tvg-id="Hot.pt" tvg-name="Hot" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/05/Hot-logo.png" group-title="Adults",Hot
-http://team2.live:8000/marcelo/sHhDRwG4/150404
+http://lista.lorddark.club:8080/4166240063/0224790018/19486
+#EXTINF:-1 tvg-id="Hot.pt" tvg-name="HOT HD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2012/05/Hot-logo.png" group-title="Adults",HOT HD
+http://team2.live:8000/marcelo/sHhDRwG4/150313
+#EXTINF:-1 tvg-id="DuskTV.ero" tvg-name="Dusk TV HD" tvg-logo="https://alburycbd.com.au/wp-content/uploads/2019/09/1567552578_dusk.png" group-title="Adults",Dusk TV HD
+http://lista.lorddark.club:8080/4166240063/0224790018/15037
+#EXTINF:-1 tvg-id="BlueHustler.ero" tvg-name="Blue Hustler HD" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/8/80/Blue_Hustler_%282001-.n.v.%29.png" group-title="Adults",Blue Hustler HD
+http://lista.lorddark.club:8080/4166240063/0224790018/14971
+#EXTINF:-1 tvg-id="VividRed.ero" tvg-name="Vivid Red HD" tvg-logo="https://www.pngkit.com/png/full/364-3647246_vivid-red-hd-frquence-vivid-astra-19-2.png" group-title="Adults",Vivid Red HD
+http://lista.lorddark.club:8080/4166240063/0224790018/15019
+#EXTINF:-1 tvg-id="VividTV.ero" tvg-name="Vivid TV Europe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Vivid_Entertainment_logo.svg/1200px-Vivid_Entertainment_logo.svg.png" group-title="Adults",Vivid TV Europe HD
+http://team2.live:8000/marcelo/sHhDRwG4/150353
+#EXTINF:-1 tvg-id="XXL.ero" tvg-name="XXL HD" tvg-logo="https://imagensbrasil.org/images/2020/06/26/XXL_logo.png" group-title="Adults",XXL HD
+http://lista.lorddark.club:8080/4166240063/0224790018/14960
+
